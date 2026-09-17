@@ -1,0 +1,69 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model UserProfile {
+  id             String   @id @default(uuid())
+  name           String   @default("My Profile")
+  heightCm       Float?
+  weightKg       Float?
+  goalWeightKg   Float?
+  dailyCalories  Int?
+  dailyWaterMl   Int?
+  wakeUpTime     String? // e.g. "07:00"
+  bedTime        String? // e.g. "23:00"
+  skinType       String? // oily, dry, combination, normal
+  skinCondition  String? // acne, scars, dark circles, etc.
+  createdAt      DateTime @default(now())
+  updatedAt      DateTime @updatedAt
+}
+
+model Meal {
+  id          String   @id @default(uuid())
+  name        String
+  calories    Int
+  protein     Float?
+  carbs       Float?
+  fat         Float?
+  eatenAt     DateTime @default(now())
+}
+
+model ClothingItem {
+  id          String   @id @default(uuid())
+  type        String   // "shirt", "pants"
+  color       String
+  description String?
+  imageUrl    String?
+  createdAt   DateTime @default(now())
+}
+
+model Reminder {
+  id        String   @id @default(uuid())
+  type      String   // "water", "meal", "workout", "sleep", "wakeup"
+  time      String   // e.g. "14:00"
+  message   String
+  isActive  Boolean  @default(true)
+}
+
+model TransformationPic {
+  id             String   @id @default(uuid())
+  monthYear      String
+  imageUrl       String
+  aiStyleAdvice  String?
+  createdAt      DateTime @default(now())
+}
+
+model GroomingProduct {
+  id          String   @id @default(uuid())
+  name        String
+  category    String   // e.g. "Cleanser", "Moisturizer", "Serum"
+  createdAt   DateTime @default(now())
+}

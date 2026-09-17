@@ -1,0 +1,9998 @@
+[
+  {
+    "name": "Idli (2 pieces)",
+    "cal": 118
+  },
+  {
+    "name": "Plain Dosa (1 large)",
+    "cal": 133
+  },
+  {
+    "name": "Masala Dosa (1 piece)",
+    "cal": 415
+  },
+  {
+    "name": "Upma (1 bowl)",
+    "cal": 250
+  },
+  {
+    "name": "Pongal (1 bowl)",
+    "cal": 300
+  },
+  {
+    "name": "Sambar (1 bowl)",
+    "cal": 130
+  },
+  {
+    "name": "Curd Rice (1 bowl)",
+    "cal": 350
+  },
+  {
+    "name": "Chicken Kothu Parotta (1 plate)",
+    "cal": 650
+  },
+  {
+    "name": "Egg Kothu Parotta (1 plate)",
+    "cal": 550
+  },
+  {
+    "name": "Chilli Chicken (1 serving)",
+    "cal": 350
+  },
+  {
+    "name": "Chicken 65 (1 serving)",
+    "cal": 400
+  },
+  {
+    "name": "Paneer Butter Masala (1 bowl)",
+    "cal": 450
+  },
+  {
+    "name": "Kadai Paneer (1 bowl)",
+    "cal": 400
+  },
+  {
+    "name": "Palak Paneer (1 bowl)",
+    "cal": 350
+  },
+  {
+    "name": "Meen Kuzhambu / Fish Curry (1 bowl)",
+    "cal": 300
+  },
+  {
+    "name": "Vatha Kuzhambu (1 bowl)",
+    "cal": 250
+  },
+  {
+    "name": "Poondu Kuzhambu (1 bowl)",
+    "cal": 220
+  },
+  {
+    "name": "Mutton Chukka (1 serving)",
+    "cal": 450
+  },
+  {
+    "name": "Chicken Chettinad (1 serving)",
+    "cal": 450
+  },
+  {
+    "name": "Chicken Rice (1 serving)",
+    "cal": 392
+  },
+  {
+    "name": "Chicken Dosa (1 serving)",
+    "cal": 370
+  },
+  {
+    "name": "Chicken Idli (1 serving)",
+    "cal": 368
+  },
+  {
+    "name": "Chicken Parotta (1 serving)",
+    "cal": 690
+  },
+  {
+    "name": "Chicken Chapati (1 serving)",
+    "cal": 365
+  },
+  {
+    "name": "Chicken Naan (1 serving)",
+    "cal": 374
+  },
+  {
+    "name": "Chicken Roti (1 serving)",
+    "cal": 357
+  },
+  {
+    "name": "Chicken Biryani (1 serving)",
+    "cal": 663
+  },
+  {
+    "name": "Chicken Fried Rice (1 serving)",
+    "cal": 690
+  },
+  {
+    "name": "Chicken Noodles (1 serving)",
+    "cal": 356
+  },
+  {
+    "name": "Chicken Kuzhambu (1 serving)",
+    "cal": 542
+  },
+  {
+    "name": "Chicken Curry (1 serving)",
+    "cal": 522
+  },
+  {
+    "name": "Chicken Masala (1 serving)",
+    "cal": 545
+  },
+  {
+    "name": "Chicken Roast (1 serving)",
+    "cal": 582
+  },
+  {
+    "name": "Chicken Fry (1 serving)",
+    "cal": 589
+  },
+  {
+    "name": "Chicken Kothu (1 serving)",
+    "cal": 693
+  },
+  {
+    "name": "Chicken Chilli (1 serving)",
+    "cal": 560
+  },
+  {
+    "name": "Chicken Manchurian (1 serving)",
+    "cal": 395
+  },
+  {
+    "name": "Chicken Tikka (1 serving)",
+    "cal": 387
+  },
+  {
+    "name": "Mutton Rice (1 serving)",
+    "cal": 392
+  },
+  {
+    "name": "Mutton Dosa (1 serving)",
+    "cal": 384
+  },
+  {
+    "name": "Mutton Idli (1 serving)",
+    "cal": 357
+  },
+  {
+    "name": "Mutton Parotta (1 serving)",
+    "cal": 676
+  },
+  {
+    "name": "Mutton Chapati (1 serving)",
+    "cal": 354
+  },
+  {
+    "name": "Mutton Naan (1 serving)",
+    "cal": 367
+  },
+  {
+    "name": "Mutton Roti (1 serving)",
+    "cal": 352
+  },
+  {
+    "name": "Mutton Biryani (1 serving)",
+    "cal": 655
+  },
+  {
+    "name": "Mutton Fried Rice (1 serving)",
+    "cal": 667
+  },
+  {
+    "name": "Mutton Noodles (1 serving)",
+    "cal": 365
+  },
+  {
+    "name": "Mutton Kuzhambu (1 serving)",
+    "cal": 528
+  },
+  {
+    "name": "Mutton Curry (1 serving)",
+    "cal": 522
+  },
+  {
+    "name": "Mutton Masala (1 serving)",
+    "cal": 518
+  },
+  {
+    "name": "Mutton Roast (1 serving)",
+    "cal": 573
+  },
+  {
+    "name": "Mutton Fry (1 serving)",
+    "cal": 563
+  },
+  {
+    "name": "Mutton Kothu (1 serving)",
+    "cal": 685
+  },
+  {
+    "name": "Mutton 65 (1 serving)",
+    "cal": 581
+  },
+  {
+    "name": "Mutton Chilli (1 serving)",
+    "cal": 576
+  },
+  {
+    "name": "Mutton Manchurian (1 serving)",
+    "cal": 392
+  },
+  {
+    "name": "Mutton Tikka (1 serving)",
+    "cal": 352
+  },
+  {
+    "name": "Fish Rice (1 serving)",
+    "cal": 342
+  },
+  {
+    "name": "Fish Dosa (1 serving)",
+    "cal": 301
+  },
+  {
+    "name": "Fish Idli (1 serving)",
+    "cal": 312
+  },
+  {
+    "name": "Fish Parotta (1 serving)",
+    "cal": 638
+  },
+  {
+    "name": "Fish Chapati (1 serving)",
+    "cal": 310
+  },
+  {
+    "name": "Fish Naan (1 serving)",
+    "cal": 320
+  },
+  {
+    "name": "Fish Roti (1 serving)",
+    "cal": 315
+  },
+  {
+    "name": "Fish Biryani (1 serving)",
+    "cal": 632
+  },
+  {
+    "name": "Fish Fried Rice (1 serving)",
+    "cal": 642
+  },
+  {
+    "name": "Fish Noodles (1 serving)",
+    "cal": 331
+  },
+  {
+    "name": "Fish Kuzhambu (1 serving)",
+    "cal": 495
+  },
+  {
+    "name": "Fish Curry (1 serving)",
+    "cal": 498
+  },
+  {
+    "name": "Fish Masala (1 serving)",
+    "cal": 488
+  },
+  {
+    "name": "Fish Roast (1 serving)",
+    "cal": 520
+  },
+  {
+    "name": "Fish Fry (1 serving)",
+    "cal": 524
+  },
+  {
+    "name": "Fish Kothu (1 serving)",
+    "cal": 635
+  },
+  {
+    "name": "Fish 65 (1 serving)",
+    "cal": 508
+  },
+  {
+    "name": "Fish Chilli (1 serving)",
+    "cal": 542
+  },
+  {
+    "name": "Fish Manchurian (1 serving)",
+    "cal": 345
+  },
+  {
+    "name": "Fish Tikka (1 serving)",
+    "cal": 349
+  },
+  {
+    "name": "Prawn Rice (1 serving)",
+    "cal": 347
+  },
+  {
+    "name": "Prawn Dosa (1 serving)",
+    "cal": 306
+  },
+  {
+    "name": "Prawn Idli (1 serving)",
+    "cal": 307
+  },
+  {
+    "name": "Prawn Parotta (1 serving)",
+    "cal": 634
+  },
+  {
+    "name": "Prawn Chapati (1 serving)",
+    "cal": 311
+  },
+  {
+    "name": "Prawn Naan (1 serving)",
+    "cal": 348
+  },
+  {
+    "name": "Prawn Roti (1 serving)",
+    "cal": 315
+  },
+  {
+    "name": "Prawn Biryani (1 serving)",
+    "cal": 642
+  },
+  {
+    "name": "Prawn Fried Rice (1 serving)",
+    "cal": 603
+  },
+  {
+    "name": "Prawn Noodles (1 serving)",
+    "cal": 342
+  },
+  {
+    "name": "Prawn Kuzhambu (1 serving)",
+    "cal": 473
+  },
+  {
+    "name": "Prawn Curry (1 serving)",
+    "cal": 460
+  },
+  {
+    "name": "Prawn Masala (1 serving)",
+    "cal": 462
+  },
+  {
+    "name": "Prawn Roast (1 serving)",
+    "cal": 510
+  },
+  {
+    "name": "Prawn Fry (1 serving)",
+    "cal": 538
+  },
+  {
+    "name": "Prawn Kothu (1 serving)",
+    "cal": 630
+  },
+  {
+    "name": "Prawn 65 (1 serving)",
+    "cal": 504
+  },
+  {
+    "name": "Prawn Chilli (1 serving)",
+    "cal": 529
+  },
+  {
+    "name": "Prawn Manchurian (1 serving)",
+    "cal": 305
+  },
+  {
+    "name": "Prawn Tikka (1 serving)",
+    "cal": 337
+  },
+  {
+    "name": "Crab Rice (1 serving)",
+    "cal": 240
+  },
+  {
+    "name": "Crab Dosa (1 serving)",
+    "cal": 235
+  },
+  {
+    "name": "Crab Idli (1 serving)",
+    "cal": 225
+  },
+  {
+    "name": "Crab Parotta (1 serving)",
+    "cal": 542
+  },
+  {
+    "name": "Crab Chapati (1 serving)",
+    "cal": 221
+  },
+  {
+    "name": "Crab Naan (1 serving)",
+    "cal": 231
+  },
+  {
+    "name": "Crab Roti (1 serving)",
+    "cal": 237
+  },
+  {
+    "name": "Crab Biryani (1 serving)",
+    "cal": 503
+  },
+  {
+    "name": "Crab Fried Rice (1 serving)",
+    "cal": 542
+  },
+  {
+    "name": "Crab Noodles (1 serving)",
+    "cal": 232
+  },
+  {
+    "name": "Crab Kuzhambu (1 serving)",
+    "cal": 398
+  },
+  {
+    "name": "Crab Curry (1 serving)",
+    "cal": 383
+  },
+  {
+    "name": "Crab Masala (1 serving)",
+    "cal": 370
+  },
+  {
+    "name": "Crab Roast (1 serving)",
+    "cal": 435
+  },
+  {
+    "name": "Crab Fry (1 serving)",
+    "cal": 418
+  },
+  {
+    "name": "Crab Kothu (1 serving)",
+    "cal": 519
+  },
+  {
+    "name": "Crab 65 (1 serving)",
+    "cal": 407
+  },
+  {
+    "name": "Crab Chilli (1 serving)",
+    "cal": 440
+  },
+  {
+    "name": "Crab Manchurian (1 serving)",
+    "cal": 240
+  },
+  {
+    "name": "Crab Tikka (1 serving)",
+    "cal": 220
+  },
+  {
+    "name": "Egg Rice (1 serving)",
+    "cal": 331
+  },
+  {
+    "name": "Egg Dosa (1 serving)",
+    "cal": 322
+  },
+  {
+    "name": "Egg Idli (1 serving)",
+    "cal": 306
+  },
+  {
+    "name": "Egg Parotta (1 serving)",
+    "cal": 648
+  },
+  {
+    "name": "Egg Chapati (1 serving)",
+    "cal": 311
+  },
+  {
+    "name": "Egg Naan (1 serving)",
+    "cal": 333
+  },
+  {
+    "name": "Egg Roti (1 serving)",
+    "cal": 316
+  },
+  {
+    "name": "Egg Biryani (1 serving)",
+    "cal": 630
+  },
+  {
+    "name": "Egg Fried Rice (1 serving)",
+    "cal": 644
+  },
+  {
+    "name": "Egg Noodles (1 serving)",
+    "cal": 346
+  },
+  {
+    "name": "Egg Kuzhambu (1 serving)",
+    "cal": 488
+  },
+  {
+    "name": "Egg Curry (1 serving)",
+    "cal": 499
+  },
+  {
+    "name": "Egg Masala (1 serving)",
+    "cal": 495
+  },
+  {
+    "name": "Egg Roast (1 serving)",
+    "cal": 544
+  },
+  {
+    "name": "Egg Fry (1 serving)",
+    "cal": 549
+  },
+  {
+    "name": "Egg Kothu (1 serving)",
+    "cal": 615
+  },
+  {
+    "name": "Egg 65 (1 serving)",
+    "cal": 534
+  },
+  {
+    "name": "Egg Chilli (1 serving)",
+    "cal": 519
+  },
+  {
+    "name": "Egg Manchurian (1 serving)",
+    "cal": 308
+  },
+  {
+    "name": "Egg Tikka (1 serving)",
+    "cal": 348
+  },
+  {
+    "name": "Paneer Rice (1 serving)",
+    "cal": 387
+  },
+  {
+    "name": "Paneer Dosa (1 serving)",
+    "cal": 361
+  },
+  {
+    "name": "Paneer Idli (1 serving)",
+    "cal": 351
+  },
+  {
+    "name": "Paneer Parotta (1 serving)",
+    "cal": 652
+  },
+  {
+    "name": "Paneer Chapati (1 serving)",
+    "cal": 392
+  },
+  {
+    "name": "Paneer Naan (1 serving)",
+    "cal": 381
+  },
+  {
+    "name": "Paneer Roti (1 serving)",
+    "cal": 392
+  },
+  {
+    "name": "Paneer Biryani (1 serving)",
+    "cal": 674
+  },
+  {
+    "name": "Paneer Fried Rice (1 serving)",
+    "cal": 690
+  },
+  {
+    "name": "Paneer Noodles (1 serving)",
+    "cal": 351
+  },
+  {
+    "name": "Paneer Kuzhambu (1 serving)",
+    "cal": 535
+  },
+  {
+    "name": "Paneer Curry (1 serving)",
+    "cal": 500
+  },
+  {
+    "name": "Paneer Masala (1 serving)",
+    "cal": 528
+  },
+  {
+    "name": "Paneer Roast (1 serving)",
+    "cal": 593
+  },
+  {
+    "name": "Paneer Fry (1 serving)",
+    "cal": 553
+  },
+  {
+    "name": "Paneer Kothu (1 serving)",
+    "cal": 696
+  },
+  {
+    "name": "Paneer 65 (1 serving)",
+    "cal": 569
+  },
+  {
+    "name": "Paneer Chilli (1 serving)",
+    "cal": 594
+  },
+  {
+    "name": "Paneer Manchurian (1 serving)",
+    "cal": 394
+  },
+  {
+    "name": "Paneer Tikka (1 serving)",
+    "cal": 351
+  },
+  {
+    "name": "Mushroom Rice (1 serving)",
+    "cal": 210
+  },
+  {
+    "name": "Mushroom Dosa (1 serving)",
+    "cal": 221
+  },
+  {
+    "name": "Mushroom Idli (1 serving)",
+    "cal": 247
+  },
+  {
+    "name": "Mushroom Parotta (1 serving)",
+    "cal": 516
+  },
+  {
+    "name": "Mushroom Chapati (1 serving)",
+    "cal": 222
+  },
+  {
+    "name": "Mushroom Naan (1 serving)",
+    "cal": 216
+  },
+  {
+    "name": "Mushroom Roti (1 serving)",
+    "cal": 225
+  },
+  {
+    "name": "Mushroom Biryani (1 serving)",
+    "cal": 540
+  },
+  {
+    "name": "Mushroom Fried Rice (1 serving)",
+    "cal": 537
+  },
+  {
+    "name": "Mushroom Noodles (1 serving)",
+    "cal": 212
+  },
+  {
+    "name": "Mushroom Kuzhambu (1 serving)",
+    "cal": 392
+  },
+  {
+    "name": "Mushroom Curry (1 serving)",
+    "cal": 384
+  },
+  {
+    "name": "Mushroom Masala (1 serving)",
+    "cal": 370
+  },
+  {
+    "name": "Mushroom Roast (1 serving)",
+    "cal": 425
+  },
+  {
+    "name": "Mushroom Fry (1 serving)",
+    "cal": 428
+  },
+  {
+    "name": "Mushroom Kothu (1 serving)",
+    "cal": 514
+  },
+  {
+    "name": "Mushroom 65 (1 serving)",
+    "cal": 417
+  },
+  {
+    "name": "Mushroom Chilli (1 serving)",
+    "cal": 427
+  },
+  {
+    "name": "Mushroom Manchurian (1 serving)",
+    "cal": 232
+  },
+  {
+    "name": "Mushroom Tikka (1 serving)",
+    "cal": 208
+  },
+  {
+    "name": "Gobi Rice (1 serving)",
+    "cal": 222
+  },
+  {
+    "name": "Gobi Dosa (1 serving)",
+    "cal": 208
+  },
+  {
+    "name": "Gobi Idli (1 serving)",
+    "cal": 243
+  },
+  {
+    "name": "Gobi Parotta (1 serving)",
+    "cal": 529
+  },
+  {
+    "name": "Gobi Chapati (1 serving)",
+    "cal": 206
+  },
+  {
+    "name": "Gobi Naan (1 serving)",
+    "cal": 234
+  },
+  {
+    "name": "Gobi Roti (1 serving)",
+    "cal": 240
+  },
+  {
+    "name": "Gobi Biryani (1 serving)",
+    "cal": 515
+  },
+  {
+    "name": "Gobi Fried Rice (1 serving)",
+    "cal": 534
+  },
+  {
+    "name": "Gobi Noodles (1 serving)",
+    "cal": 218
+  },
+  {
+    "name": "Gobi Kuzhambu (1 serving)",
+    "cal": 353
+  },
+  {
+    "name": "Gobi Curry (1 serving)",
+    "cal": 399
+  },
+  {
+    "name": "Gobi Masala (1 serving)",
+    "cal": 356
+  },
+  {
+    "name": "Gobi Roast (1 serving)",
+    "cal": 420
+  },
+  {
+    "name": "Gobi Fry (1 serving)",
+    "cal": 409
+  },
+  {
+    "name": "Gobi Kothu (1 serving)",
+    "cal": 502
+  },
+  {
+    "name": "Gobi 65 (1 serving)",
+    "cal": 441
+  },
+  {
+    "name": "Gobi Chilli (1 serving)",
+    "cal": 428
+  },
+  {
+    "name": "Gobi Manchurian (1 serving)",
+    "cal": 242
+  },
+  {
+    "name": "Gobi Tikka (1 serving)",
+    "cal": 217
+  },
+  {
+    "name": "Aloo Rice (1 serving)",
+    "cal": 245
+  },
+  {
+    "name": "Aloo Dosa (1 serving)",
+    "cal": 210
+  },
+  {
+    "name": "Aloo Idli (1 serving)",
+    "cal": 213
+  },
+  {
+    "name": "Aloo Parotta (1 serving)",
+    "cal": 508
+  },
+  {
+    "name": "Aloo Chapati (1 serving)",
+    "cal": 217
+  },
+  {
+    "name": "Aloo Naan (1 serving)",
+    "cal": 230
+  },
+  {
+    "name": "Aloo Roti (1 serving)",
+    "cal": 227
+  },
+  {
+    "name": "Aloo Biryani (1 serving)",
+    "cal": 521
+  },
+  {
+    "name": "Aloo Fried Rice (1 serving)",
+    "cal": 508
+  },
+  {
+    "name": "Aloo Noodles (1 serving)",
+    "cal": 241
+  },
+  {
+    "name": "Aloo Kuzhambu (1 serving)",
+    "cal": 372
+  },
+  {
+    "name": "Aloo Curry (1 serving)",
+    "cal": 361
+  },
+  {
+    "name": "Aloo Masala (1 serving)",
+    "cal": 394
+  },
+  {
+    "name": "Aloo Roast (1 serving)",
+    "cal": 404
+  },
+  {
+    "name": "Aloo Fry (1 serving)",
+    "cal": 446
+  },
+  {
+    "name": "Aloo Kothu (1 serving)",
+    "cal": 514
+  },
+  {
+    "name": "Aloo 65 (1 serving)",
+    "cal": 431
+  },
+  {
+    "name": "Aloo Chilli (1 serving)",
+    "cal": 445
+  },
+  {
+    "name": "Aloo Manchurian (1 serving)",
+    "cal": 210
+  },
+  {
+    "name": "Aloo Tikka (1 serving)",
+    "cal": 242
+  },
+  {
+    "name": "Veg Rice (1 serving)",
+    "cal": 226
+  },
+  {
+    "name": "Veg Dosa (1 serving)",
+    "cal": 222
+  },
+  {
+    "name": "Veg Idli (1 serving)",
+    "cal": 234
+  },
+  {
+    "name": "Veg Parotta (1 serving)",
+    "cal": 512
+  },
+  {
+    "name": "Veg Chapati (1 serving)",
+    "cal": 201
+  },
+  {
+    "name": "Veg Naan (1 serving)",
+    "cal": 235
+  },
+  {
+    "name": "Veg Roti (1 serving)",
+    "cal": 214
+  },
+  {
+    "name": "Veg Biryani (1 serving)",
+    "cal": 514
+  },
+  {
+    "name": "Veg Fried Rice (1 serving)",
+    "cal": 529
+  },
+  {
+    "name": "Veg Noodles (1 serving)",
+    "cal": 243
+  },
+  {
+    "name": "Veg Kuzhambu (1 serving)",
+    "cal": 389
+  },
+  {
+    "name": "Veg Curry (1 serving)",
+    "cal": 386
+  },
+  {
+    "name": "Veg Masala (1 serving)",
+    "cal": 396
+  },
+  {
+    "name": "Veg Roast (1 serving)",
+    "cal": 447
+  },
+  {
+    "name": "Veg Fry (1 serving)",
+    "cal": 440
+  },
+  {
+    "name": "Veg Kothu (1 serving)",
+    "cal": 539
+  },
+  {
+    "name": "Veg 65 (1 serving)",
+    "cal": 417
+  },
+  {
+    "name": "Veg Chilli (1 serving)",
+    "cal": 424
+  },
+  {
+    "name": "Veg Manchurian (1 serving)",
+    "cal": 219
+  },
+  {
+    "name": "Veg Tikka (1 serving)",
+    "cal": 203
+  },
+  {
+    "name": "Mixed Rice (1 serving)",
+    "cal": 242
+  },
+  {
+    "name": "Mixed Dosa (1 serving)",
+    "cal": 228
+  },
+  {
+    "name": "Mixed Idli (1 serving)",
+    "cal": 236
+  },
+  {
+    "name": "Mixed Parotta (1 serving)",
+    "cal": 530
+  },
+  {
+    "name": "Mixed Chapati (1 serving)",
+    "cal": 205
+  },
+  {
+    "name": "Mixed Naan (1 serving)",
+    "cal": 226
+  },
+  {
+    "name": "Mixed Roti (1 serving)",
+    "cal": 237
+  },
+  {
+    "name": "Mixed Biryani (1 serving)",
+    "cal": 528
+  },
+  {
+    "name": "Mixed Fried Rice (1 serving)",
+    "cal": 508
+  },
+  {
+    "name": "Mixed Noodles (1 serving)",
+    "cal": 236
+  },
+  {
+    "name": "Mixed Kuzhambu (1 serving)",
+    "cal": 354
+  },
+  {
+    "name": "Mixed Curry (1 serving)",
+    "cal": 360
+  },
+  {
+    "name": "Mixed Masala (1 serving)",
+    "cal": 365
+  },
+  {
+    "name": "Mixed Roast (1 serving)",
+    "cal": 400
+  },
+  {
+    "name": "Mixed Fry (1 serving)",
+    "cal": 404
+  },
+  {
+    "name": "Mixed Kothu (1 serving)",
+    "cal": 504
+  },
+  {
+    "name": "Mixed 65 (1 serving)",
+    "cal": 408
+  },
+  {
+    "name": "Mixed Chilli (1 serving)",
+    "cal": 404
+  },
+  {
+    "name": "Mixed Manchurian (1 serving)",
+    "cal": 247
+  },
+  {
+    "name": "Mixed Tikka (1 serving)",
+    "cal": 202
+  },
+  {
+    "name": "Tomato Rice (1 serving)",
+    "cal": 242
+  },
+  {
+    "name": "Tomato Dosa (1 serving)",
+    "cal": 232
+  },
+  {
+    "name": "Tomato Idli (1 serving)",
+    "cal": 205
+  },
+  {
+    "name": "Tomato Parotta (1 serving)",
+    "cal": 509
+  },
+  {
+    "name": "Tomato Chapati (1 serving)",
+    "cal": 224
+  },
+  {
+    "name": "Tomato Naan (1 serving)",
+    "cal": 210
+  },
+  {
+    "name": "Tomato Roti (1 serving)",
+    "cal": 234
+  },
+  {
+    "name": "Tomato Biryani (1 serving)",
+    "cal": 524
+  },
+  {
+    "name": "Tomato Fried Rice (1 serving)",
+    "cal": 533
+  },
+  {
+    "name": "Tomato Noodles (1 serving)",
+    "cal": 231
+  },
+  {
+    "name": "Tomato Kuzhambu (1 serving)",
+    "cal": 395
+  },
+  {
+    "name": "Tomato Curry (1 serving)",
+    "cal": 369
+  },
+  {
+    "name": "Tomato Masala (1 serving)",
+    "cal": 389
+  },
+  {
+    "name": "Tomato Roast (1 serving)",
+    "cal": 424
+  },
+  {
+    "name": "Tomato Fry (1 serving)",
+    "cal": 447
+  },
+  {
+    "name": "Tomato Kothu (1 serving)",
+    "cal": 549
+  },
+  {
+    "name": "Tomato 65 (1 serving)",
+    "cal": 419
+  },
+  {
+    "name": "Tomato Chilli (1 serving)",
+    "cal": 410
+  },
+  {
+    "name": "Tomato Manchurian (1 serving)",
+    "cal": 237
+  },
+  {
+    "name": "Tomato Tikka (1 serving)",
+    "cal": 226
+  },
+  {
+    "name": "Lemon Rice (1 serving)",
+    "cal": 201
+  },
+  {
+    "name": "Lemon Dosa (1 serving)",
+    "cal": 217
+  },
+  {
+    "name": "Lemon Idli (1 serving)",
+    "cal": 242
+  },
+  {
+    "name": "Lemon Parotta (1 serving)",
+    "cal": 519
+  },
+  {
+    "name": "Lemon Chapati (1 serving)",
+    "cal": 226
+  },
+  {
+    "name": "Lemon Naan (1 serving)",
+    "cal": 206
+  },
+  {
+    "name": "Lemon Roti (1 serving)",
+    "cal": 242
+  },
+  {
+    "name": "Lemon Biryani (1 serving)",
+    "cal": 546
+  },
+  {
+    "name": "Lemon Fried Rice (1 serving)",
+    "cal": 529
+  },
+  {
+    "name": "Lemon Noodles (1 serving)",
+    "cal": 205
+  },
+  {
+    "name": "Lemon Kuzhambu (1 serving)",
+    "cal": 388
+  },
+  {
+    "name": "Lemon Curry (1 serving)",
+    "cal": 364
+  },
+  {
+    "name": "Lemon Masala (1 serving)",
+    "cal": 384
+  },
+  {
+    "name": "Lemon Roast (1 serving)",
+    "cal": 405
+  },
+  {
+    "name": "Lemon Fry (1 serving)",
+    "cal": 402
+  },
+  {
+    "name": "Lemon Kothu (1 serving)",
+    "cal": 540
+  },
+  {
+    "name": "Lemon 65 (1 serving)",
+    "cal": 430
+  },
+  {
+    "name": "Lemon Chilli (1 serving)",
+    "cal": 434
+  },
+  {
+    "name": "Lemon Manchurian (1 serving)",
+    "cal": 249
+  },
+  {
+    "name": "Lemon Tikka (1 serving)",
+    "cal": 234
+  },
+  {
+    "name": "Tamarind Rice (1 serving)",
+    "cal": 205
+  },
+  {
+    "name": "Tamarind Dosa (1 serving)",
+    "cal": 213
+  },
+  {
+    "name": "Tamarind Idli (1 serving)",
+    "cal": 237
+  },
+  {
+    "name": "Tamarind Parotta (1 serving)",
+    "cal": 526
+  },
+  {
+    "name": "Tamarind Chapati (1 serving)",
+    "cal": 240
+  },
+  {
+    "name": "Tamarind Naan (1 serving)",
+    "cal": 219
+  },
+  {
+    "name": "Tamarind Roti (1 serving)",
+    "cal": 246
+  },
+  {
+    "name": "Tamarind Biryani (1 serving)",
+    "cal": 528
+  },
+  {
+    "name": "Tamarind Fried Rice (1 serving)",
+    "cal": 505
+  },
+  {
+    "name": "Tamarind Noodles (1 serving)",
+    "cal": 235
+  },
+  {
+    "name": "Tamarind Kuzhambu (1 serving)",
+    "cal": 392
+  },
+  {
+    "name": "Tamarind Curry (1 serving)",
+    "cal": 365
+  },
+  {
+    "name": "Tamarind Masala (1 serving)",
+    "cal": 370
+  },
+  {
+    "name": "Tamarind Roast (1 serving)",
+    "cal": 415
+  },
+  {
+    "name": "Tamarind Fry (1 serving)",
+    "cal": 430
+  },
+  {
+    "name": "Tamarind Kothu (1 serving)",
+    "cal": 511
+  },
+  {
+    "name": "Tamarind 65 (1 serving)",
+    "cal": 448
+  },
+  {
+    "name": "Tamarind Chilli (1 serving)",
+    "cal": 409
+  },
+  {
+    "name": "Tamarind Manchurian (1 serving)",
+    "cal": 230
+  },
+  {
+    "name": "Tamarind Tikka (1 serving)",
+    "cal": 242
+  },
+  {
+    "name": "Garlic Rice (1 serving)",
+    "cal": 212
+  },
+  {
+    "name": "Garlic Dosa (1 serving)",
+    "cal": 231
+  },
+  {
+    "name": "Garlic Idli (1 serving)",
+    "cal": 234
+  },
+  {
+    "name": "Garlic Parotta (1 serving)",
+    "cal": 518
+  },
+  {
+    "name": "Garlic Chapati (1 serving)",
+    "cal": 238
+  },
+  {
+    "name": "Garlic Naan (1 serving)",
+    "cal": 245
+  },
+  {
+    "name": "Garlic Roti (1 serving)",
+    "cal": 228
+  },
+  {
+    "name": "Garlic Biryani (1 serving)",
+    "cal": 545
+  },
+  {
+    "name": "Garlic Fried Rice (1 serving)",
+    "cal": 522
+  },
+  {
+    "name": "Garlic Noodles (1 serving)",
+    "cal": 242
+  },
+  {
+    "name": "Garlic Kuzhambu (1 serving)",
+    "cal": 374
+  },
+  {
+    "name": "Garlic Curry (1 serving)",
+    "cal": 362
+  },
+  {
+    "name": "Garlic Masala (1 serving)",
+    "cal": 372
+  },
+  {
+    "name": "Garlic Roast (1 serving)",
+    "cal": 402
+  },
+  {
+    "name": "Garlic Fry (1 serving)",
+    "cal": 418
+  },
+  {
+    "name": "Garlic Kothu (1 serving)",
+    "cal": 503
+  },
+  {
+    "name": "Garlic 65 (1 serving)",
+    "cal": 426
+  },
+  {
+    "name": "Garlic Chilli (1 serving)",
+    "cal": 427
+  },
+  {
+    "name": "Garlic Manchurian (1 serving)",
+    "cal": 218
+  },
+  {
+    "name": "Garlic Tikka (1 serving)",
+    "cal": 245
+  },
+  {
+    "name": "Onion Rice (1 serving)",
+    "cal": 203
+  },
+  {
+    "name": "Onion Dosa (1 serving)",
+    "cal": 248
+  },
+  {
+    "name": "Onion Idli (1 serving)",
+    "cal": 231
+  },
+  {
+    "name": "Onion Parotta (1 serving)",
+    "cal": 539
+  },
+  {
+    "name": "Onion Chapati (1 serving)",
+    "cal": 222
+  },
+  {
+    "name": "Onion Naan (1 serving)",
+    "cal": 215
+  },
+  {
+    "name": "Onion Roti (1 serving)",
+    "cal": 204
+  },
+  {
+    "name": "Onion Biryani (1 serving)",
+    "cal": 508
+  },
+  {
+    "name": "Onion Fried Rice (1 serving)",
+    "cal": 527
+  },
+  {
+    "name": "Onion Noodles (1 serving)",
+    "cal": 205
+  },
+  {
+    "name": "Onion Kuzhambu (1 serving)",
+    "cal": 355
+  },
+  {
+    "name": "Onion Curry (1 serving)",
+    "cal": 358
+  },
+  {
+    "name": "Onion Masala (1 serving)",
+    "cal": 362
+  },
+  {
+    "name": "Onion Roast (1 serving)",
+    "cal": 425
+  },
+  {
+    "name": "Onion Fry (1 serving)",
+    "cal": 442
+  },
+  {
+    "name": "Onion Kothu (1 serving)",
+    "cal": 526
+  },
+  {
+    "name": "Onion 65 (1 serving)",
+    "cal": 420
+  },
+  {
+    "name": "Onion Chilli (1 serving)",
+    "cal": 436
+  },
+  {
+    "name": "Onion Manchurian (1 serving)",
+    "cal": 248
+  },
+  {
+    "name": "Onion Tikka (1 serving)",
+    "cal": 207
+  },
+  {
+    "name": "Podi Rice (1 serving)",
+    "cal": 204
+  },
+  {
+    "name": "Podi Dosa (1 serving)",
+    "cal": 215
+  },
+  {
+    "name": "Podi Idli (1 serving)",
+    "cal": 210
+  },
+  {
+    "name": "Podi Parotta (1 serving)",
+    "cal": 522
+  },
+  {
+    "name": "Podi Chapati (1 serving)",
+    "cal": 222
+  },
+  {
+    "name": "Podi Naan (1 serving)",
+    "cal": 239
+  },
+  {
+    "name": "Podi Roti (1 serving)",
+    "cal": 209
+  },
+  {
+    "name": "Podi Biryani (1 serving)",
+    "cal": 532
+  },
+  {
+    "name": "Podi Fried Rice (1 serving)",
+    "cal": 521
+  },
+  {
+    "name": "Podi Noodles (1 serving)",
+    "cal": 200
+  },
+  {
+    "name": "Podi Kuzhambu (1 serving)",
+    "cal": 378
+  },
+  {
+    "name": "Podi Curry (1 serving)",
+    "cal": 393
+  },
+  {
+    "name": "Podi Masala (1 serving)",
+    "cal": 393
+  },
+  {
+    "name": "Podi Roast (1 serving)",
+    "cal": 421
+  },
+  {
+    "name": "Podi Fry (1 serving)",
+    "cal": 433
+  },
+  {
+    "name": "Podi Kothu (1 serving)",
+    "cal": 541
+  },
+  {
+    "name": "Podi 65 (1 serving)",
+    "cal": 446
+  },
+  {
+    "name": "Podi Chilli (1 serving)",
+    "cal": 419
+  },
+  {
+    "name": "Podi Manchurian (1 serving)",
+    "cal": 247
+  },
+  {
+    "name": "Podi Tikka (1 serving)",
+    "cal": 208
+  },
+  {
+    "name": "Ghee Rice (1 serving)",
+    "cal": 212
+  },
+  {
+    "name": "Ghee Dosa (1 serving)",
+    "cal": 218
+  },
+  {
+    "name": "Ghee Idli (1 serving)",
+    "cal": 249
+  },
+  {
+    "name": "Ghee Parotta (1 serving)",
+    "cal": 524
+  },
+  {
+    "name": "Ghee Chapati (1 serving)",
+    "cal": 237
+  },
+  {
+    "name": "Ghee Naan (1 serving)",
+    "cal": 218
+  },
+  {
+    "name": "Ghee Roti (1 serving)",
+    "cal": 212
+  },
+  {
+    "name": "Ghee Biryani (1 serving)",
+    "cal": 514
+  },
+  {
+    "name": "Ghee Fried Rice (1 serving)",
+    "cal": 507
+  },
+  {
+    "name": "Ghee Noodles (1 serving)",
+    "cal": 203
+  },
+  {
+    "name": "Ghee Kuzhambu (1 serving)",
+    "cal": 366
+  },
+  {
+    "name": "Ghee Curry (1 serving)",
+    "cal": 357
+  },
+  {
+    "name": "Ghee Masala (1 serving)",
+    "cal": 359
+  },
+  {
+    "name": "Ghee Roast (1 serving)",
+    "cal": 429
+  },
+  {
+    "name": "Ghee Fry (1 serving)",
+    "cal": 413
+  },
+  {
+    "name": "Ghee Kothu (1 serving)",
+    "cal": 532
+  },
+  {
+    "name": "Ghee 65 (1 serving)",
+    "cal": 440
+  },
+  {
+    "name": "Ghee Chilli (1 serving)",
+    "cal": 413
+  },
+  {
+    "name": "Ghee Manchurian (1 serving)",
+    "cal": 249
+  },
+  {
+    "name": "Ghee Tikka (1 serving)",
+    "cal": 212
+  },
+  {
+    "name": "Butter Rice (1 serving)",
+    "cal": 395
+  },
+  {
+    "name": "Butter Dosa (1 serving)",
+    "cal": 365
+  },
+  {
+    "name": "Butter Idli (1 serving)",
+    "cal": 355
+  },
+  {
+    "name": "Butter Parotta (1 serving)",
+    "cal": 696
+  },
+  {
+    "name": "Butter Chapati (1 serving)",
+    "cal": 370
+  },
+  {
+    "name": "Butter Naan (1 serving)",
+    "cal": 370
+  },
+  {
+    "name": "Butter Roti (1 serving)",
+    "cal": 367
+  },
+  {
+    "name": "Butter Biryani (1 serving)",
+    "cal": 674
+  },
+  {
+    "name": "Butter Fried Rice (1 serving)",
+    "cal": 674
+  },
+  {
+    "name": "Butter Noodles (1 serving)",
+    "cal": 366
+  },
+  {
+    "name": "Butter Kuzhambu (1 serving)",
+    "cal": 500
+  },
+  {
+    "name": "Butter Curry (1 serving)",
+    "cal": 536
+  },
+  {
+    "name": "Butter Masala (1 serving)",
+    "cal": 539
+  },
+  {
+    "name": "Butter Roast (1 serving)",
+    "cal": 595
+  },
+  {
+    "name": "Butter Fry (1 serving)",
+    "cal": 583
+  },
+  {
+    "name": "Butter Kothu (1 serving)",
+    "cal": 652
+  },
+  {
+    "name": "Butter 65 (1 serving)",
+    "cal": 589
+  },
+  {
+    "name": "Butter Chilli (1 serving)",
+    "cal": 592
+  },
+  {
+    "name": "Butter Manchurian (1 serving)",
+    "cal": 385
+  },
+  {
+    "name": "Butter Tikka (1 serving)",
+    "cal": 380
+  },
+  {
+    "name": "Cheese Rice (1 serving)",
+    "cal": 393
+  },
+  {
+    "name": "Cheese Dosa (1 serving)",
+    "cal": 379
+  },
+  {
+    "name": "Cheese Idli (1 serving)",
+    "cal": 373
+  },
+  {
+    "name": "Cheese Parotta (1 serving)",
+    "cal": 677
+  },
+  {
+    "name": "Cheese Chapati (1 serving)",
+    "cal": 354
+  },
+  {
+    "name": "Cheese Naan (1 serving)",
+    "cal": 381
+  },
+  {
+    "name": "Cheese Roti (1 serving)",
+    "cal": 395
+  },
+  {
+    "name": "Cheese Biryani (1 serving)",
+    "cal": 663
+  },
+  {
+    "name": "Cheese Fried Rice (1 serving)",
+    "cal": 677
+  },
+  {
+    "name": "Cheese Noodles (1 serving)",
+    "cal": 373
+  },
+  {
+    "name": "Cheese Kuzhambu (1 serving)",
+    "cal": 522
+  },
+  {
+    "name": "Cheese Curry (1 serving)",
+    "cal": 524
+  },
+  {
+    "name": "Cheese Masala (1 serving)",
+    "cal": 529
+  },
+  {
+    "name": "Cheese Roast (1 serving)",
+    "cal": 570
+  },
+  {
+    "name": "Cheese Fry (1 serving)",
+    "cal": 562
+  },
+  {
+    "name": "Cheese Kothu (1 serving)",
+    "cal": 695
+  },
+  {
+    "name": "Cheese 65 (1 serving)",
+    "cal": 554
+  },
+  {
+    "name": "Cheese Chilli (1 serving)",
+    "cal": 555
+  },
+  {
+    "name": "Cheese Manchurian (1 serving)",
+    "cal": 388
+  },
+  {
+    "name": "Cheese Tikka (1 serving)",
+    "cal": 384
+  },
+  {
+    "name": "Chettinad Rice (1 serving)",
+    "cal": 215
+  },
+  {
+    "name": "Chettinad Dosa (1 serving)",
+    "cal": 206
+  },
+  {
+    "name": "Chettinad Idli (1 serving)",
+    "cal": 230
+  },
+  {
+    "name": "Chettinad Parotta (1 serving)",
+    "cal": 504
+  },
+  {
+    "name": "Chettinad Chapati (1 serving)",
+    "cal": 245
+  },
+  {
+    "name": "Chettinad Naan (1 serving)",
+    "cal": 235
+  },
+  {
+    "name": "Chettinad Roti (1 serving)",
+    "cal": 234
+  },
+  {
+    "name": "Chettinad Biryani (1 serving)",
+    "cal": 532
+  },
+  {
+    "name": "Chettinad Fried Rice (1 serving)",
+    "cal": 531
+  },
+  {
+    "name": "Chettinad Noodles (1 serving)",
+    "cal": 203
+  },
+  {
+    "name": "Chettinad Kuzhambu (1 serving)",
+    "cal": 371
+  },
+  {
+    "name": "Chettinad Curry (1 serving)",
+    "cal": 356
+  },
+  {
+    "name": "Chettinad Masala (1 serving)",
+    "cal": 380
+  },
+  {
+    "name": "Chettinad Roast (1 serving)",
+    "cal": 423
+  },
+  {
+    "name": "Chettinad Fry (1 serving)",
+    "cal": 449
+  },
+  {
+    "name": "Chettinad Kothu (1 serving)",
+    "cal": 500
+  },
+  {
+    "name": "Chettinad 65 (1 serving)",
+    "cal": 417
+  },
+  {
+    "name": "Chettinad Chilli (1 serving)",
+    "cal": 437
+  },
+  {
+    "name": "Chettinad Manchurian (1 serving)",
+    "cal": 248
+  },
+  {
+    "name": "Chettinad Tikka (1 serving)",
+    "cal": 247
+  },
+  {
+    "name": "Pepper Rice (1 serving)",
+    "cal": 244
+  },
+  {
+    "name": "Pepper Dosa (1 serving)",
+    "cal": 204
+  },
+  {
+    "name": "Pepper Idli (1 serving)",
+    "cal": 206
+  },
+  {
+    "name": "Pepper Parotta (1 serving)",
+    "cal": 506
+  },
+  {
+    "name": "Pepper Chapati (1 serving)",
+    "cal": 203
+  },
+  {
+    "name": "Pepper Naan (1 serving)",
+    "cal": 211
+  },
+  {
+    "name": "Pepper Roti (1 serving)",
+    "cal": 244
+  },
+  {
+    "name": "Pepper Biryani (1 serving)",
+    "cal": 525
+  },
+  {
+    "name": "Pepper Fried Rice (1 serving)",
+    "cal": 548
+  },
+  {
+    "name": "Pepper Noodles (1 serving)",
+    "cal": 209
+  },
+  {
+    "name": "Pepper Kuzhambu (1 serving)",
+    "cal": 354
+  },
+  {
+    "name": "Pepper Curry (1 serving)",
+    "cal": 386
+  },
+  {
+    "name": "Pepper Masala (1 serving)",
+    "cal": 365
+  },
+  {
+    "name": "Pepper Roast (1 serving)",
+    "cal": 408
+  },
+  {
+    "name": "Pepper Fry (1 serving)",
+    "cal": 409
+  },
+  {
+    "name": "Pepper Kothu (1 serving)",
+    "cal": 549
+  },
+  {
+    "name": "Pepper 65 (1 serving)",
+    "cal": 440
+  },
+  {
+    "name": "Pepper Chilli (1 serving)",
+    "cal": 400
+  },
+  {
+    "name": "Pepper Manchurian (1 serving)",
+    "cal": 244
+  },
+  {
+    "name": "Pepper Tikka (1 serving)",
+    "cal": 216
+  },
+  {
+    "name": "Kadai Rice (1 serving)",
+    "cal": 219
+  },
+  {
+    "name": "Kadai Dosa (1 serving)",
+    "cal": 217
+  },
+  {
+    "name": "Kadai Idli (1 serving)",
+    "cal": 202
+  },
+  {
+    "name": "Kadai Parotta (1 serving)",
+    "cal": 535
+  },
+  {
+    "name": "Kadai Chapati (1 serving)",
+    "cal": 246
+  },
+  {
+    "name": "Kadai Naan (1 serving)",
+    "cal": 205
+  },
+  {
+    "name": "Kadai Roti (1 serving)",
+    "cal": 245
+  },
+  {
+    "name": "Kadai Biryani (1 serving)",
+    "cal": 546
+  },
+  {
+    "name": "Kadai Fried Rice (1 serving)",
+    "cal": 541
+  },
+  {
+    "name": "Kadai Noodles (1 serving)",
+    "cal": 222
+  },
+  {
+    "name": "Kadai Kuzhambu (1 serving)",
+    "cal": 380
+  },
+  {
+    "name": "Kadai Curry (1 serving)",
+    "cal": 359
+  },
+  {
+    "name": "Kadai Masala (1 serving)",
+    "cal": 372
+  },
+  {
+    "name": "Kadai Roast (1 serving)",
+    "cal": 410
+  },
+  {
+    "name": "Kadai Fry (1 serving)",
+    "cal": 411
+  },
+  {
+    "name": "Kadai Kothu (1 serving)",
+    "cal": 505
+  },
+  {
+    "name": "Kadai 65 (1 serving)",
+    "cal": 416
+  },
+  {
+    "name": "Kadai Chilli (1 serving)",
+    "cal": 448
+  },
+  {
+    "name": "Kadai Manchurian (1 serving)",
+    "cal": 241
+  },
+  {
+    "name": "Kadai Tikka (1 serving)",
+    "cal": 207
+  },
+  {
+    "name": "Palak Rice (1 serving)",
+    "cal": 201
+  },
+  {
+    "name": "Palak Dosa (1 serving)",
+    "cal": 205
+  },
+  {
+    "name": "Palak Idli (1 serving)",
+    "cal": 249
+  },
+  {
+    "name": "Palak Parotta (1 serving)",
+    "cal": 511
+  },
+  {
+    "name": "Palak Chapati (1 serving)",
+    "cal": 249
+  },
+  {
+    "name": "Palak Naan (1 serving)",
+    "cal": 247
+  },
+  {
+    "name": "Palak Roti (1 serving)",
+    "cal": 214
+  },
+  {
+    "name": "Palak Biryani (1 serving)",
+    "cal": 522
+  },
+  {
+    "name": "Palak Fried Rice (1 serving)",
+    "cal": 524
+  },
+  {
+    "name": "Palak Noodles (1 serving)",
+    "cal": 204
+  },
+  {
+    "name": "Palak Kuzhambu (1 serving)",
+    "cal": 370
+  },
+  {
+    "name": "Palak Curry (1 serving)",
+    "cal": 398
+  },
+  {
+    "name": "Palak Masala (1 serving)",
+    "cal": 355
+  },
+  {
+    "name": "Palak Roast (1 serving)",
+    "cal": 417
+  },
+  {
+    "name": "Palak Fry (1 serving)",
+    "cal": 430
+  },
+  {
+    "name": "Palak Kothu (1 serving)",
+    "cal": 532
+  },
+  {
+    "name": "Palak 65 (1 serving)",
+    "cal": 441
+  },
+  {
+    "name": "Palak Chilli (1 serving)",
+    "cal": 444
+  },
+  {
+    "name": "Palak Manchurian (1 serving)",
+    "cal": 236
+  },
+  {
+    "name": "Palak Tikka (1 serving)",
+    "cal": 216
+  },
+  {
+    "name": "Tamarind & Pepper Roti (1 serving)",
+    "cal": 426
+  },
+  {
+    "name": "Crab & Tamarind Manchurian (1 serving)",
+    "cal": 289
+  },
+  {
+    "name": "Mushroom & Mutton Masala (1 serving)",
+    "cal": 477
+  },
+  {
+    "name": "Restaurant Style Lemon Biryani (1 serving)",
+    "cal": 336
+  },
+  {
+    "name": "Andhra Style Crab Kothu (1 serving)",
+    "cal": 225
+  },
+  {
+    "name": "Kerala Style Paneer Parotta (1 serving)",
+    "cal": 498
+  },
+  {
+    "name": "Madurai Paneer Manchurian (1 serving)",
+    "cal": 366
+  },
+  {
+    "name": "Kongunadu Tomato Fry (1 serving)",
+    "cal": 377
+  },
+  {
+    "name": "Butter & Cheese Parotta (1 serving)",
+    "cal": 224
+  },
+  {
+    "name": "Mutton & Podi Chilli (1 serving)",
+    "cal": 203
+  },
+  {
+    "name": "Hyderabadi Crab Roast (1 serving)",
+    "cal": 506
+  },
+  {
+    "name": "Punjabi Pepper Idli (1 serving)",
+    "cal": 422
+  },
+  {
+    "name": "Prawn & Tamarind Rice (1 serving)",
+    "cal": 295
+  },
+  {
+    "name": "Tomato & Crab Biryani (1 serving)",
+    "cal": 366
+  },
+  {
+    "name": "Kadai & Chicken Rice (1 serving)",
+    "cal": 298
+  },
+  {
+    "name": "Paneer & Butter Rice (1 serving)",
+    "cal": 518
+  },
+  {
+    "name": "Garlic & Kadai 65 (1 serving)",
+    "cal": 227
+  },
+  {
+    "name": "Mutton & Onion Masala (1 serving)",
+    "cal": 225
+  },
+  {
+    "name": "Kerala Style Paneer Biryani (1 serving)",
+    "cal": 545
+  },
+  {
+    "name": "Gobi & Pepper Kuzhambu (1 serving)",
+    "cal": 325
+  },
+  {
+    "name": "Kongunadu Mixed Kuzhambu (1 serving)",
+    "cal": 421
+  },
+  {
+    "name": "Onion & Tamarind Dosa (1 serving)",
+    "cal": 468
+  },
+  {
+    "name": "Ghee & Onion Dosa (1 serving)",
+    "cal": 590
+  },
+  {
+    "name": "Paneer & Mushroom Kothu (1 serving)",
+    "cal": 227
+  },
+  {
+    "name": "Punjabi Gobi Tikka (1 serving)",
+    "cal": 338
+  },
+  {
+    "name": "Kadai & Podi Manchurian (1 serving)",
+    "cal": 266
+  },
+  {
+    "name": "Spicy Gobi Masala (1 serving)",
+    "cal": 549
+  },
+  {
+    "name": "Mushroom & Podi Noodles (1 serving)",
+    "cal": 358
+  },
+  {
+    "name": "Homestyle Kadai Naan (1 serving)",
+    "cal": 516
+  },
+  {
+    "name": "Restaurant Style Aloo Kothu (1 serving)",
+    "cal": 303
+  },
+  {
+    "name": "Andhra Style Aloo Noodles (1 serving)",
+    "cal": 282
+  },
+  {
+    "name": "Kerala Style Onion Fry (1 serving)",
+    "cal": 434
+  },
+  {
+    "name": "Butter & Mixed Idli (1 serving)",
+    "cal": 204
+  },
+  {
+    "name": "Kongunadu Garlic Roast (1 serving)",
+    "cal": 270
+  },
+  {
+    "name": "Ambur Chicken Masala (1 serving)",
+    "cal": 377
+  },
+  {
+    "name": "Egg & Paneer Naan (1 serving)",
+    "cal": 498
+  },
+  {
+    "name": "Hyderabadi Chicken Curry (1 serving)",
+    "cal": 208
+  },
+  {
+    "name": "Punjabi Podi Kothu (1 serving)",
+    "cal": 421
+  },
+  {
+    "name": "Tandoori Onion Chilli (1 serving)",
+    "cal": 352
+  },
+  {
+    "name": "Palak & Podi Rice (1 serving)",
+    "cal": 368
+  },
+  {
+    "name": "Special Mutton Parotta (1 serving)",
+    "cal": 595
+  },
+  {
+    "name": "Butter & Lemon Fry (1 serving)",
+    "cal": 201
+  },
+  {
+    "name": "Gobi & Lemon Parotta (1 serving)",
+    "cal": 407
+  },
+  {
+    "name": "Andhra Style Garlic Curry (1 serving)",
+    "cal": 223
+  },
+  {
+    "name": "Kerala Style Cheese Masala (1 serving)",
+    "cal": 577
+  },
+  {
+    "name": "Madurai Crab Masala (1 serving)",
+    "cal": 503
+  },
+  {
+    "name": "Fish & Prawn Roti (1 serving)",
+    "cal": 541
+  },
+  {
+    "name": "Ambur Gobi Fry (1 serving)",
+    "cal": 267
+  },
+  {
+    "name": "Garlic & Ghee Chapati (1 serving)",
+    "cal": 528
+  },
+  {
+    "name": "Hyderabadi Gobi Fry (1 serving)",
+    "cal": 281
+  },
+  {
+    "name": "Punjabi Palak Roti (1 serving)",
+    "cal": 485
+  },
+  {
+    "name": "Kadai & Garlic Chilli (1 serving)",
+    "cal": 572
+  },
+  {
+    "name": "Onion & Egg Chilli (1 serving)",
+    "cal": 306
+  },
+  {
+    "name": "Mutton & Cheese Fried Rice (1 serving)",
+    "cal": 210
+  },
+  {
+    "name": "Homestyle Chicken 65 (1 serving)",
+    "cal": 469
+  },
+  {
+    "name": "Egg & Palak Fried Rice (1 serving)",
+    "cal": 302
+  },
+  {
+    "name": "Andhra Style Mixed Kothu (1 serving)",
+    "cal": 475
+  },
+  {
+    "name": "Chicken & Veg Fry (1 serving)",
+    "cal": 492
+  },
+  {
+    "name": "Podi & Ghee Rice (1 serving)",
+    "cal": 278
+  },
+  {
+    "name": "Kongunadu Mixed Roti (1 serving)",
+    "cal": 334
+  },
+  {
+    "name": "Aloo & Podi Kothu (1 serving)",
+    "cal": 555
+  },
+  {
+    "name": "Dindigul Tomato Curry (1 serving)",
+    "cal": 546
+  },
+  {
+    "name": "Crab & Veg Curry (1 serving)",
+    "cal": 439
+  },
+  {
+    "name": "Egg & Cheese Kothu (1 serving)",
+    "cal": 202
+  },
+  {
+    "name": "Tandoori Cheese 65 (1 serving)",
+    "cal": 433
+  },
+  {
+    "name": "Kadai & Kadai Parotta (1 serving)",
+    "cal": 310
+  },
+  {
+    "name": "Special Egg Idli (1 serving)",
+    "cal": 477
+  },
+  {
+    "name": "Paneer & Lemon Naan (1 serving)",
+    "cal": 251
+  },
+  {
+    "name": "Pepper & Onion Rice (1 serving)",
+    "cal": 333
+  },
+  {
+    "name": "Andhra Style Chettinad Tikka (1 serving)",
+    "cal": 345
+  },
+  {
+    "name": "Kadai & Kadai Biryani (1 serving)",
+    "cal": 505
+  },
+  {
+    "name": "Madurai Podi Biryani (1 serving)",
+    "cal": 477
+  },
+  {
+    "name": "Kongunadu Crab Noodles (1 serving)",
+    "cal": 404
+  },
+  {
+    "name": "Ambur Gobi Kuzhambu (1 serving)",
+    "cal": 246
+  },
+  {
+    "name": "Mixed & Gobi Manchurian (1 serving)",
+    "cal": 507
+  },
+  {
+    "name": "Egg & Garlic Dosa (1 serving)",
+    "cal": 419
+  },
+  {
+    "name": "Punjabi Podi Biryani (1 serving)",
+    "cal": 282
+  },
+  {
+    "name": "Tandoori Paneer Curry (1 serving)",
+    "cal": 588
+  },
+  {
+    "name": "Mushroom & Cheese Fried Rice (1 serving)",
+    "cal": 470
+  },
+  {
+    "name": "Special Kadai Biryani (1 serving)",
+    "cal": 291
+  },
+  {
+    "name": "Homestyle Mixed Biryani (1 serving)",
+    "cal": 428
+  },
+  {
+    "name": "Restaurant Style Chicken Chapati (1 serving)",
+    "cal": 218
+  },
+  {
+    "name": "Chicken & Prawn Rice (1 serving)",
+    "cal": 455
+  },
+  {
+    "name": "Kerala Style Chicken Kuzhambu (1 serving)",
+    "cal": 583
+  },
+  {
+    "name": "Madurai Ghee Naan (1 serving)",
+    "cal": 421
+  },
+  {
+    "name": "Kongunadu Fish Masala (1 serving)",
+    "cal": 320
+  },
+  {
+    "name": "Ambur Mutton Chapati (1 serving)",
+    "cal": 217
+  },
+  {
+    "name": "Onion & Paneer Chilli (1 serving)",
+    "cal": 410
+  },
+  {
+    "name": "Hyderabadi Mushroom Naan (1 serving)",
+    "cal": 249
+  },
+  {
+    "name": "Onion & Egg Chapati (1 serving)",
+    "cal": 514
+  },
+  {
+    "name": "Tandoori Garlic Manchurian (1 serving)",
+    "cal": 245
+  },
+  {
+    "name": "Spicy Mutton Chilli (1 serving)",
+    "cal": 204
+  },
+  {
+    "name": "Mutton & Garlic Naan (1 serving)",
+    "cal": 278
+  },
+  {
+    "name": "Kadai & Aloo Roast (1 serving)",
+    "cal": 433
+  },
+  {
+    "name": "Gobi & Veg Parotta (1 serving)",
+    "cal": 521
+  },
+  {
+    "name": "Butter & Podi Chapati (1 serving)",
+    "cal": 509
+  },
+  {
+    "name": "Kerala Style Mutton 65 (1 serving)",
+    "cal": 338
+  },
+  {
+    "name": "Madurai Garlic Masala (1 serving)",
+    "cal": 539
+  },
+  {
+    "name": "Kongunadu Onion Kuzhambu (1 serving)",
+    "cal": 333
+  },
+  {
+    "name": "Ambur Pepper Fry (1 serving)",
+    "cal": 428
+  },
+  {
+    "name": "Mushroom & Kadai Noodles (1 serving)",
+    "cal": 467
+  },
+  {
+    "name": "Gobi & Chettinad Manchurian (1 serving)",
+    "cal": 324
+  },
+  {
+    "name": "Butter & Mutton Chapati (1 serving)",
+    "cal": 466
+  },
+  {
+    "name": "Tandoori Mushroom Chilli (1 serving)",
+    "cal": 374
+  },
+  {
+    "name": "Crab & Paneer Manchurian (1 serving)",
+    "cal": 476
+  },
+  {
+    "name": "Special Tamarind 65 (1 serving)",
+    "cal": 490
+  },
+  {
+    "name": "Homestyle Tamarind Masala (1 serving)",
+    "cal": 317
+  },
+  {
+    "name": "Restaurant Style Fish Noodles (1 serving)",
+    "cal": 258
+  },
+  {
+    "name": "Ghee & Crab Fry (1 serving)",
+    "cal": 263
+  },
+  {
+    "name": "Kerala Style Cheese Fry (1 serving)",
+    "cal": 382
+  },
+  {
+    "name": "Onion & Crab Fry (1 serving)",
+    "cal": 443
+  },
+  {
+    "name": "Kongunadu Tomato Chapati (1 serving)",
+    "cal": 564
+  },
+  {
+    "name": "Ambur Ghee Roti (1 serving)",
+    "cal": 247
+  },
+  {
+    "name": "Ghee & Tamarind Idli (1 serving)",
+    "cal": 524
+  },
+  {
+    "name": "Pepper & Tomato Kuzhambu (1 serving)",
+    "cal": 374
+  },
+  {
+    "name": "Punjabi Prawn Curry (1 serving)",
+    "cal": 530
+  },
+  {
+    "name": "Tandoori Ghee Parotta (1 serving)",
+    "cal": 365
+  },
+  {
+    "name": "Spicy Chicken Biryani (1 serving)",
+    "cal": 261
+  },
+  {
+    "name": "Special Butter Dosa (1 serving)",
+    "cal": 487
+  },
+  {
+    "name": "Homestyle Veg Roast (1 serving)",
+    "cal": 593
+  },
+  {
+    "name": "Lemon & Mixed Parotta (1 serving)",
+    "cal": 274
+  },
+  {
+    "name": "Chettinad & Mushroom Roti (1 serving)",
+    "cal": 562
+  },
+  {
+    "name": "Kerala Style Mushroom Chapati (1 serving)",
+    "cal": 214
+  },
+  {
+    "name": "Chettinad & Cheese 65 (1 serving)",
+    "cal": 524
+  },
+  {
+    "name": "Lemon & Paneer Manchurian (1 serving)",
+    "cal": 573
+  },
+  {
+    "name": "Onion & Mutton 65 (1 serving)",
+    "cal": 287
+  },
+  {
+    "name": "Dindigul Kadai Curry (1 serving)",
+    "cal": 385
+  },
+  {
+    "name": "Tomato & Chettinad Masala (1 serving)",
+    "cal": 224
+  },
+  {
+    "name": "Egg & Crab Naan (1 serving)",
+    "cal": 488
+  },
+  {
+    "name": "Tandoori Crab Kothu (1 serving)",
+    "cal": 448
+  },
+  {
+    "name": "Spicy Butter Idli (1 serving)",
+    "cal": 385
+  },
+  {
+    "name": "Tomato & Paneer Manchurian (1 serving)",
+    "cal": 503
+  },
+  {
+    "name": "Homestyle Tomato Chilli (1 serving)",
+    "cal": 246
+  },
+  {
+    "name": "Veg & Kadai 65 (1 serving)",
+    "cal": 479
+  },
+  {
+    "name": "Mutton & Ghee Kothu (1 serving)",
+    "cal": 500
+  },
+  {
+    "name": "Kadai & Kadai Kuzhambu (1 serving)",
+    "cal": 579
+  },
+  {
+    "name": "Egg & Tomato Biryani (1 serving)",
+    "cal": 393
+  },
+  {
+    "name": "Egg & Egg Masala (1 serving)",
+    "cal": 573
+  },
+  {
+    "name": "Ambur Pepper Dosa (1 serving)",
+    "cal": 467
+  },
+  {
+    "name": "Dindigul Veg Naan (1 serving)",
+    "cal": 218
+  },
+  {
+    "name": "Hyderabadi Paneer Noodles (1 serving)",
+    "cal": 571
+  },
+  {
+    "name": "Mixed & Chettinad 65 (1 serving)",
+    "cal": 349
+  },
+  {
+    "name": "Tandoori Chicken Roast (1 serving)",
+    "cal": 363
+  },
+  {
+    "name": "Spicy Prawn Parotta (1 serving)",
+    "cal": 394
+  },
+  {
+    "name": "Special Tomato Naan (1 serving)",
+    "cal": 353
+  },
+  {
+    "name": "Homestyle Kadai Chapati (1 serving)",
+    "cal": 395
+  },
+  {
+    "name": "Restaurant Style Tomato Chilli (1 serving)",
+    "cal": 487
+  },
+  {
+    "name": "Onion & Podi Tikka (1 serving)",
+    "cal": 217
+  },
+  {
+    "name": "Kerala Style Chicken Roti (1 serving)",
+    "cal": 452
+  },
+  {
+    "name": "Madurai Lemon Kothu (1 serving)",
+    "cal": 231
+  },
+  {
+    "name": "Chettinad & Kadai Roti (1 serving)",
+    "cal": 229
+  },
+  {
+    "name": "Mutton & Egg Kuzhambu (1 serving)",
+    "cal": 444
+  },
+  {
+    "name": "Dindigul Podi Tikka (1 serving)",
+    "cal": 201
+  },
+  {
+    "name": "Hyderabadi Crab Curry (1 serving)",
+    "cal": 422
+  },
+  {
+    "name": "Punjabi Butter Parotta (1 serving)",
+    "cal": 446
+  },
+  {
+    "name": "Tandoori Kadai Naan (1 serving)",
+    "cal": 559
+  },
+  {
+    "name": "Spicy Prawn Dosa (1 serving)",
+    "cal": 585
+  },
+  {
+    "name": "Mushroom & Aloo Parotta (1 serving)",
+    "cal": 380
+  },
+  {
+    "name": "Cheese & Garlic Manchurian (1 serving)",
+    "cal": 487
+  },
+  {
+    "name": "Restaurant Style Palak Chapati (1 serving)",
+    "cal": 399
+  },
+  {
+    "name": "Andhra Style Gobi 65 (1 serving)",
+    "cal": 515
+  },
+  {
+    "name": "Kerala Style Palak Chilli (1 serving)",
+    "cal": 340
+  },
+  {
+    "name": "Garlic & Tamarind Dosa (1 serving)",
+    "cal": 549
+  },
+  {
+    "name": "Chicken & Lemon Roti (1 serving)",
+    "cal": 294
+  },
+  {
+    "name": "Ambur Crab Fry (1 serving)",
+    "cal": 302
+  },
+  {
+    "name": "Podi & Ghee Masala (1 serving)",
+    "cal": 253
+  },
+  {
+    "name": "Hyderabadi Veg Masala (1 serving)",
+    "cal": 567
+  },
+  {
+    "name": "Punjabi Fish Roti (1 serving)",
+    "cal": 540
+  },
+  {
+    "name": "Gobi & Lemon Curry (1 serving)",
+    "cal": 539
+  },
+  {
+    "name": "Tamarind & Chettinad Parotta (1 serving)",
+    "cal": 576
+  },
+  {
+    "name": "Egg & Tamarind Fry (1 serving)",
+    "cal": 535
+  },
+  {
+    "name": "Cheese & Garlic Chilli (1 serving)",
+    "cal": 279
+  },
+  {
+    "name": "Lemon & Crab Tikka (1 serving)",
+    "cal": 312
+  },
+  {
+    "name": "Chettinad & Tomato Fried Rice (1 serving)",
+    "cal": 373
+  },
+  {
+    "name": "Kerala Style Mixed Chilli (1 serving)",
+    "cal": 527
+  },
+  {
+    "name": "Fish & Mushroom Rice (1 serving)",
+    "cal": 211
+  },
+  {
+    "name": "Crab & Onion Fry (1 serving)",
+    "cal": 464
+  },
+  {
+    "name": "Veg & Aloo Noodles (1 serving)",
+    "cal": 367
+  },
+  {
+    "name": "Aloo & Tamarind Roast (1 serving)",
+    "cal": 561
+  },
+  {
+    "name": "Hyderabadi Egg Roti (1 serving)",
+    "cal": 274
+  },
+  {
+    "name": "Punjabi Crab Biryani (1 serving)",
+    "cal": 278
+  },
+  {
+    "name": "Tandoori Kadai Rice (1 serving)",
+    "cal": 540
+  },
+  {
+    "name": "Spicy Ghee Rice (1 serving)",
+    "cal": 488
+  },
+  {
+    "name": "Special Kadai Roast (1 serving)",
+    "cal": 240
+  },
+  {
+    "name": "Gobi & Paneer Masala (1 serving)",
+    "cal": 246
+  },
+  {
+    "name": "Restaurant Style Onion Fried Rice (1 serving)",
+    "cal": 537
+  },
+  {
+    "name": "Andhra Style Crab Dosa (1 serving)",
+    "cal": 242
+  },
+  {
+    "name": "Mixed & Chettinad Fried Rice (1 serving)",
+    "cal": 440
+  },
+  {
+    "name": "Palak & Fish Dosa (1 serving)",
+    "cal": 350
+  },
+  {
+    "name": "Kongunadu Crab Biryani (1 serving)",
+    "cal": 215
+  },
+  {
+    "name": "Ambur Cheese Masala (1 serving)",
+    "cal": 354
+  },
+  {
+    "name": "Veg & Ghee Noodles (1 serving)",
+    "cal": 531
+  },
+  {
+    "name": "Egg & Mutton Manchurian (1 serving)",
+    "cal": 382
+  },
+  {
+    "name": "Punjabi Onion Tikka (1 serving)",
+    "cal": 597
+  },
+  {
+    "name": "Tandoori Chicken Roti (1 serving)",
+    "cal": 317
+  },
+  {
+    "name": "Ghee & Chettinad Kothu (1 serving)",
+    "cal": 288
+  },
+  {
+    "name": "Special Kadai Chilli (1 serving)",
+    "cal": 409
+  },
+  {
+    "name": "Ghee & Aloo Noodles (1 serving)",
+    "cal": 371
+  },
+  {
+    "name": "Restaurant Style Pepper Fry (1 serving)",
+    "cal": 356
+  },
+  {
+    "name": "Palak & Mixed Fry (1 serving)",
+    "cal": 261
+  },
+  {
+    "name": "Kerala Style Mutton Chilli (1 serving)",
+    "cal": 595
+  },
+  {
+    "name": "Madurai Chicken Manchurian (1 serving)",
+    "cal": 475
+  },
+  {
+    "name": "Kongunadu Egg Chapati (1 serving)",
+    "cal": 313
+  },
+  {
+    "name": "Ambur Crab 65 (1 serving)",
+    "cal": 316
+  },
+  {
+    "name": "Paneer & Chettinad Fried Rice (1 serving)",
+    "cal": 337
+  },
+  {
+    "name": "Aloo & Palak Biryani (1 serving)",
+    "cal": 541
+  },
+  {
+    "name": "Punjabi Cheese Manchurian (1 serving)",
+    "cal": 365
+  },
+  {
+    "name": "Onion & Garlic Rice (1 serving)",
+    "cal": 500
+  },
+  {
+    "name": "Spicy Crab Dosa (1 serving)",
+    "cal": 460
+  },
+  {
+    "name": "Kadai & Tamarind Tikka (1 serving)",
+    "cal": 515
+  },
+  {
+    "name": "Homestyle Onion Fry (1 serving)",
+    "cal": 317
+  },
+  {
+    "name": "Tomato & Lemon Tikka (1 serving)",
+    "cal": 588
+  },
+  {
+    "name": "Andhra Style Veg Parotta (1 serving)",
+    "cal": 539
+  },
+  {
+    "name": "Onion & Cheese Naan (1 serving)",
+    "cal": 406
+  },
+  {
+    "name": "Kongunadu Mutton Kothu (1 serving)",
+    "cal": 387
+  },
+  {
+    "name": "Ambur Aloo Idli (1 serving)",
+    "cal": 322
+  },
+  {
+    "name": "Dindigul Paneer Roast (1 serving)",
+    "cal": 443
+  },
+  {
+    "name": "Onion & Kadai 65 (1 serving)",
+    "cal": 473
+  },
+  {
+    "name": "Punjabi Paneer Parotta (1 serving)",
+    "cal": 345
+  },
+  {
+    "name": "Tandoori Tomato Kuzhambu (1 serving)",
+    "cal": 388
+  },
+  {
+    "name": "Spicy Podi Fried Rice (1 serving)",
+    "cal": 375
+  },
+  {
+    "name": "Special Crab Roast (1 serving)",
+    "cal": 366
+  },
+  {
+    "name": "Homestyle Chettinad Fried Rice (1 serving)",
+    "cal": 342
+  },
+  {
+    "name": "Restaurant Style Onion Manchurian (1 serving)",
+    "cal": 577
+  },
+  {
+    "name": "Andhra Style Butter Manchurian (1 serving)",
+    "cal": 592
+  },
+  {
+    "name": "Kerala Style Butter Noodles (1 serving)",
+    "cal": 200
+  },
+  {
+    "name": "Madurai Garlic Rice (1 serving)",
+    "cal": 585
+  },
+  {
+    "name": "Kongunadu Mushroom Curry (1 serving)",
+    "cal": 382
+  },
+  {
+    "name": "Mushroom & Onion Fried Rice (1 serving)",
+    "cal": 286
+  },
+  {
+    "name": "Dindigul Tamarind Curry (1 serving)",
+    "cal": 248
+  },
+  {
+    "name": "Hyderabadi Mutton Chilli (1 serving)",
+    "cal": 542
+  },
+  {
+    "name": "Punjabi Onion Roti (1 serving)",
+    "cal": 236
+  },
+  {
+    "name": "Tomato & Mushroom Parotta (1 serving)",
+    "cal": 270
+  },
+  {
+    "name": "Mushroom & Chettinad Idli (1 serving)",
+    "cal": 373
+  },
+  {
+    "name": "Special Ghee Chilli (1 serving)",
+    "cal": 204
+  },
+  {
+    "name": "Prawn & Prawn Kuzhambu (1 serving)",
+    "cal": 290
+  },
+  {
+    "name": "Garlic & Mushroom Kuzhambu (1 serving)",
+    "cal": 411
+  },
+  {
+    "name": "Pepper & Fish Kothu (1 serving)",
+    "cal": 396
+  },
+  {
+    "name": "Kerala Style Mushroom Kothu (1 serving)",
+    "cal": 415
+  },
+  {
+    "name": "Madurai Fish Rice (1 serving)",
+    "cal": 322
+  },
+  {
+    "name": "Kongunadu Chettinad Curry (1 serving)",
+    "cal": 466
+  },
+  {
+    "name": "Ambur Chicken Roast (1 serving)",
+    "cal": 360
+  },
+  {
+    "name": "Mixed & Cheese Kothu (1 serving)",
+    "cal": 298
+  },
+  {
+    "name": "Hyderabadi Podi Roast (1 serving)",
+    "cal": 247
+  },
+  {
+    "name": "Lemon & Tamarind Chilli (1 serving)",
+    "cal": 324
+  },
+  {
+    "name": "Tandoori Chicken Noodles (1 serving)",
+    "cal": 453
+  },
+  {
+    "name": "Spicy Lemon Fry (1 serving)",
+    "cal": 370
+  },
+  {
+    "name": "Garlic & Podi Parotta (1 serving)",
+    "cal": 466
+  },
+  {
+    "name": "Palak & Fish Chapati (1 serving)",
+    "cal": 404
+  },
+  {
+    "name": "Onion & Onion Biryani (1 serving)",
+    "cal": 462
+  },
+  {
+    "name": "Podi & Garlic Fried Rice (1 serving)",
+    "cal": 566
+  },
+  {
+    "name": "Kerala Style Gobi Idli (1 serving)",
+    "cal": 425
+  },
+  {
+    "name": "Madurai Paneer Idli (1 serving)",
+    "cal": 386
+  },
+  {
+    "name": "Mutton & Fish Rice (1 serving)",
+    "cal": 429
+  },
+  {
+    "name": "Ambur Aloo Chilli (1 serving)",
+    "cal": 241
+  },
+  {
+    "name": "Dindigul Paneer Manchurian (1 serving)",
+    "cal": 277
+  },
+  {
+    "name": "Veg & Mushroom Idli (1 serving)",
+    "cal": 547
+  },
+  {
+    "name": "Tomato & Gobi Fry (1 serving)",
+    "cal": 345
+  },
+  {
+    "name": "Kadai & Pepper Dosa (1 serving)",
+    "cal": 510
+  },
+  {
+    "name": "Veg & Fish Noodles (1 serving)",
+    "cal": 230
+  },
+  {
+    "name": "Palak & Paneer Noodles (1 serving)",
+    "cal": 549
+  },
+  {
+    "name": "Mutton & Aloo Manchurian (1 serving)",
+    "cal": 338
+  },
+  {
+    "name": "Restaurant Style Butter Biryani (1 serving)",
+    "cal": 579
+  },
+  {
+    "name": "Mixed & Garlic Masala (1 serving)",
+    "cal": 551
+  },
+  {
+    "name": "Crab & Prawn Kuzhambu (1 serving)",
+    "cal": 563
+  },
+  {
+    "name": "Tamarind & Veg Manchurian (1 serving)",
+    "cal": 519
+  },
+  {
+    "name": "Kongunadu Prawn Noodles (1 serving)",
+    "cal": 347
+  },
+  {
+    "name": "Ambur Cheese Manchurian (1 serving)",
+    "cal": 262
+  },
+  {
+    "name": "Dindigul Kadai Biryani (1 serving)",
+    "cal": 471
+  },
+  {
+    "name": "Hyderabadi Garlic Biryani (1 serving)",
+    "cal": 485
+  },
+  {
+    "name": "Crab & Gobi Kuzhambu (1 serving)",
+    "cal": 253
+  },
+  {
+    "name": "Tandoori Mutton Fry (1 serving)",
+    "cal": 553
+  },
+  {
+    "name": "Spicy Veg Fried Rice (1 serving)",
+    "cal": 486
+  },
+  {
+    "name": "Special Chicken Parotta (1 serving)",
+    "cal": 564
+  },
+  {
+    "name": "Homestyle Chicken Dosa (1 serving)",
+    "cal": 533
+  },
+  {
+    "name": "Mutton & Mixed Rice (1 serving)",
+    "cal": 269
+  },
+  {
+    "name": "Chettinad & Tomato Masala (1 serving)",
+    "cal": 297
+  },
+  {
+    "name": "Tamarind & Palak Chapati (1 serving)",
+    "cal": 579
+  },
+  {
+    "name": "Veg & Aloo Kothu (1 serving)",
+    "cal": 223
+  },
+  {
+    "name": "Kongunadu Chicken Masala (1 serving)",
+    "cal": 524
+  },
+  {
+    "name": "Chettinad & Butter Tikka (1 serving)",
+    "cal": 347
+  },
+  {
+    "name": "Dindigul Kadai Tikka (1 serving)",
+    "cal": 470
+  },
+  {
+    "name": "Lemon & Mushroom Masala (1 serving)",
+    "cal": 558
+  },
+  {
+    "name": "Prawn & Veg Chapati (1 serving)",
+    "cal": 291
+  },
+  {
+    "name": "Pepper & Pepper Chilli (1 serving)",
+    "cal": 370
+  },
+  {
+    "name": "Pepper & Podi Curry (1 serving)",
+    "cal": 251
+  },
+  {
+    "name": "Palak & Crab 65 (1 serving)",
+    "cal": 564
+  },
+  {
+    "name": "Homestyle Mutton Masala (1 serving)",
+    "cal": 210
+  },
+  {
+    "name": "Pepper & Gobi Noodles (1 serving)",
+    "cal": 520
+  },
+  {
+    "name": "Andhra Style Lemon Roast (1 serving)",
+    "cal": 502
+  },
+  {
+    "name": "Kerala Style Egg Roast (1 serving)",
+    "cal": 434
+  },
+  {
+    "name": "Mushroom & Tomato Kothu (1 serving)",
+    "cal": 413
+  },
+  {
+    "name": "Kongunadu Gobi Noodles (1 serving)",
+    "cal": 331
+  },
+  {
+    "name": "Kadai & Tamarind Fried Rice (1 serving)",
+    "cal": 318
+  },
+  {
+    "name": "Dindigul Prawn Kuzhambu (1 serving)",
+    "cal": 422
+  },
+  {
+    "name": "Mushroom & Onion Masala (1 serving)",
+    "cal": 341
+  },
+  {
+    "name": "Veg & Garlic Kothu (1 serving)",
+    "cal": 468
+  },
+  {
+    "name": "Tandoori Prawn Kuzhambu (1 serving)",
+    "cal": 461
+  },
+  {
+    "name": "Spicy Veg Kothu (1 serving)",
+    "cal": 438
+  },
+  {
+    "name": "Aloo & Palak Fried Rice (1 serving)",
+    "cal": 303
+  },
+  {
+    "name": "Pepper & Pepper Biryani (1 serving)",
+    "cal": 274
+  },
+  {
+    "name": "Tamarind & Aloo Tikka (1 serving)",
+    "cal": 542
+  },
+  {
+    "name": "Andhra Style Gobi Parotta (1 serving)",
+    "cal": 340
+  },
+  {
+    "name": "Kerala Style Kadai Idli (1 serving)",
+    "cal": 293
+  },
+  {
+    "name": "Prawn & Ghee Idli (1 serving)",
+    "cal": 593
+  },
+  {
+    "name": "Kongunadu Cheese 65 (1 serving)",
+    "cal": 377
+  },
+  {
+    "name": "Ambur Podi Kothu (1 serving)",
+    "cal": 559
+  },
+  {
+    "name": "Paneer & Butter Masala (1 serving)",
+    "cal": 403
+  },
+  {
+    "name": "Lemon & Mutton Biryani (1 serving)",
+    "cal": 230
+  },
+  {
+    "name": "Ghee & Cheese Curry (1 serving)",
+    "cal": 335
+  },
+  {
+    "name": "Tandoori Lemon Parotta (1 serving)",
+    "cal": 469
+  },
+  {
+    "name": "Spicy Kadai Chilli (1 serving)",
+    "cal": 334
+  },
+  {
+    "name": "Special Kadai Masala (1 serving)",
+    "cal": 398
+  },
+  {
+    "name": "Homestyle Veg Rice (1 serving)",
+    "cal": 373
+  },
+  {
+    "name": "Restaurant Style Mushroom Chilli (1 serving)",
+    "cal": 486
+  },
+  {
+    "name": "Andhra Style Chicken Curry (1 serving)",
+    "cal": 421
+  },
+  {
+    "name": "Kerala Style Kadai Roast (1 serving)",
+    "cal": 457
+  },
+  {
+    "name": "Chettinad & Mushroom Fry (1 serving)",
+    "cal": 484
+  },
+  {
+    "name": "Aloo & Kadai Roast (1 serving)",
+    "cal": 528
+  },
+  {
+    "name": "Ambur Ghee Masala (1 serving)",
+    "cal": 517
+  },
+  {
+    "name": "Dindigul Paneer Dosa (1 serving)",
+    "cal": 314
+  },
+  {
+    "name": "Crab & Pepper Curry (1 serving)",
+    "cal": 242
+  },
+  {
+    "name": "Punjabi Butter Biryani (1 serving)",
+    "cal": 346
+  },
+  {
+    "name": "Prawn & Crab Biryani (1 serving)",
+    "cal": 555
+  },
+  {
+    "name": "Spicy Podi 65 (1 serving)",
+    "cal": 587
+  },
+  {
+    "name": "Palak & Prawn Chilli (1 serving)",
+    "cal": 517
+  },
+  {
+    "name": "Kadai & Ghee Naan (1 serving)",
+    "cal": 559
+  },
+  {
+    "name": "Veg & Veg Curry (1 serving)",
+    "cal": 573
+  },
+  {
+    "name": "Chicken & Podi Biryani (1 serving)",
+    "cal": 451
+  },
+  {
+    "name": "Crab & Cheese Kuzhambu (1 serving)",
+    "cal": 372
+  },
+  {
+    "name": "Madurai Fish Idli (1 serving)",
+    "cal": 565
+  },
+  {
+    "name": "Kongunadu Ghee Biryani (1 serving)",
+    "cal": 524
+  },
+  {
+    "name": "Mixed & Pepper Kothu (1 serving)",
+    "cal": 427
+  },
+  {
+    "name": "Dindigul Cheese Kothu (1 serving)",
+    "cal": 277
+  },
+  {
+    "name": "Hyderabadi Paneer Roast (1 serving)",
+    "cal": 439
+  },
+  {
+    "name": "Punjabi Onion 65 (1 serving)",
+    "cal": 528
+  },
+  {
+    "name": "Mushroom & Aloo Kuzhambu (1 serving)",
+    "cal": 246
+  },
+  {
+    "name": "Podi & Garlic Chilli (1 serving)",
+    "cal": 514
+  },
+  {
+    "name": "Egg & Paneer Dosa (1 serving)",
+    "cal": 551
+  },
+  {
+    "name": "Veg & Lemon Tikka (1 serving)",
+    "cal": 356
+  },
+  {
+    "name": "Andhra Style Cheese Chapati (1 serving)",
+    "cal": 500
+  },
+  {
+    "name": "Kerala Style Paneer 65 (1 serving)",
+    "cal": 225
+  },
+  {
+    "name": "Paneer & Chettinad Tikka (1 serving)",
+    "cal": 429
+  },
+  {
+    "name": "Ambur Veg Rice (1 serving)",
+    "cal": 350
+  },
+  {
+    "name": "Dindigul Mutton Parotta (1 serving)",
+    "cal": 335
+  },
+  {
+    "name": "Pepper & Egg Manchurian (1 serving)",
+    "cal": 238
+  },
+  {
+    "name": "Onion & Veg Parotta (1 serving)",
+    "cal": 338
+  },
+  {
+    "name": "Tomato & Tomato Manchurian (1 serving)",
+    "cal": 277
+  },
+  {
+    "name": "Veg & Prawn Rice (1 serving)",
+    "cal": 508
+  },
+  {
+    "name": "Butter & Tamarind Idli (1 serving)",
+    "cal": 537
+  },
+  {
+    "name": "Gobi & Veg 65 (1 serving)",
+    "cal": 209
+  },
+  {
+    "name": "Kadai & Pepper Rice (1 serving)",
+    "cal": 434
+  },
+  {
+    "name": "Andhra Style Onion Roti (1 serving)",
+    "cal": 414
+  },
+  {
+    "name": "Kerala Style Pepper Chilli (1 serving)",
+    "cal": 273
+  },
+  {
+    "name": "Palak & Mutton Chilli (1 serving)",
+    "cal": 384
+  },
+  {
+    "name": "Kongunadu Ghee Kothu (1 serving)",
+    "cal": 263
+  },
+  {
+    "name": "Ambur Fish Roti (1 serving)",
+    "cal": 214
+  },
+  {
+    "name": "Dindigul Mutton Curry (1 serving)",
+    "cal": 565
+  },
+  {
+    "name": "Hyderabadi Paneer Kothu (1 serving)",
+    "cal": 280
+  },
+  {
+    "name": "Punjabi Chettinad Parotta (1 serving)",
+    "cal": 561
+  },
+  {
+    "name": "Ghee & Tamarind Biryani (1 serving)",
+    "cal": 325
+  },
+  {
+    "name": "Mushroom & Chettinad Chilli (1 serving)",
+    "cal": 243
+  },
+  {
+    "name": "Mushroom & Gobi Idli (1 serving)",
+    "cal": 257
+  },
+  {
+    "name": "Homestyle Palak Chilli (1 serving)",
+    "cal": 400
+  },
+  {
+    "name": "Tamarind & Veg Roti (1 serving)",
+    "cal": 298
+  },
+  {
+    "name": "Andhra Style Tamarind Noodles (1 serving)",
+    "cal": 240
+  },
+  {
+    "name": "Madurai Onion Chapati (1 serving)",
+    "cal": 518
+  },
+  {
+    "name": "Cheese & Egg Chilli (1 serving)",
+    "cal": 412
+  },
+  {
+    "name": "Ambur Palak Roast (1 serving)",
+    "cal": 224
+  },
+  {
+    "name": "Prawn & Pepper Kothu (1 serving)",
+    "cal": 546
+  },
+  {
+    "name": "Podi & Mutton Rice (1 serving)",
+    "cal": 387
+  },
+  {
+    "name": "Punjabi Ghee Noodles (1 serving)",
+    "cal": 263
+  },
+  {
+    "name": "Tandoori Crab Roast (1 serving)",
+    "cal": 243
+  },
+  {
+    "name": "Pepper & Mushroom Chilli (1 serving)",
+    "cal": 571
+  },
+  {
+    "name": "Gobi & Ghee Curry (1 serving)",
+    "cal": 218
+  },
+  {
+    "name": "Veg & Garlic Dosa (1 serving)",
+    "cal": 320
+  },
+  {
+    "name": "Ghee & Lemon Rice (1 serving)",
+    "cal": 334
+  },
+  {
+    "name": "Andhra Style Mushroom Kuzhambu (1 serving)",
+    "cal": 479
+  },
+  {
+    "name": "Palak & Tomato Rice (1 serving)",
+    "cal": 511
+  },
+  {
+    "name": "Madurai Pepper Manchurian (1 serving)",
+    "cal": 243
+  },
+  {
+    "name": "Mixed & Prawn Naan (1 serving)",
+    "cal": 239
+  },
+  {
+    "name": "Mushroom & Mushroom Kothu (1 serving)",
+    "cal": 206
+  },
+  {
+    "name": "Mushroom & Chettinad Manchurian (1 serving)",
+    "cal": 364
+  },
+  {
+    "name": "Kadai & Veg Tikka (1 serving)",
+    "cal": 525
+  },
+  {
+    "name": "Punjabi Cheese Chilli (1 serving)",
+    "cal": 260
+  },
+  {
+    "name": "Tandoori Mushroom Kuzhambu (1 serving)",
+    "cal": 571
+  },
+  {
+    "name": "Tamarind & Butter Rice (1 serving)",
+    "cal": 566
+  },
+  {
+    "name": "Onion & Paneer Kothu (1 serving)",
+    "cal": 253
+  },
+  {
+    "name": "Homestyle Chettinad Biryani (1 serving)",
+    "cal": 516
+  },
+  {
+    "name": "Restaurant Style Ghee 65 (1 serving)",
+    "cal": 334
+  },
+  {
+    "name": "Andhra Style Tomato Fry (1 serving)",
+    "cal": 574
+  },
+  {
+    "name": "Kerala Style Tomato Dosa (1 serving)",
+    "cal": 415
+  },
+  {
+    "name": "Gobi & Garlic Tikka (1 serving)",
+    "cal": 320
+  },
+  {
+    "name": "Fish & Aloo Chilli (1 serving)",
+    "cal": 308
+  },
+  {
+    "name": "Tamarind & Garlic Fried Rice (1 serving)",
+    "cal": 386
+  },
+  {
+    "name": "Onion & Chettinad Manchurian (1 serving)",
+    "cal": 580
+  },
+  {
+    "name": "Hyderabadi Mutton Kuzhambu (1 serving)",
+    "cal": 453
+  },
+  {
+    "name": "Punjabi Aloo Parotta (1 serving)",
+    "cal": 564
+  },
+  {
+    "name": "Tandoori Butter Chapati (1 serving)",
+    "cal": 219
+  },
+  {
+    "name": "Spicy Onion Roti (1 serving)",
+    "cal": 442
+  },
+  {
+    "name": "Special Crab Biryani (1 serving)",
+    "cal": 220
+  },
+  {
+    "name": "Chicken & Podi Kuzhambu (1 serving)",
+    "cal": 584
+  },
+  {
+    "name": "Restaurant Style Mutton 65 (1 serving)",
+    "cal": 479
+  },
+  {
+    "name": "Palak & Kadai Parotta (1 serving)",
+    "cal": 364
+  },
+  {
+    "name": "Kerala Style Cheese Roti (1 serving)",
+    "cal": 359
+  },
+  {
+    "name": "Mixed & Lemon Fry (1 serving)",
+    "cal": 292
+  },
+  {
+    "name": "Kongunadu Mushroom Roti (1 serving)",
+    "cal": 416
+  },
+  {
+    "name": "Pepper & Fish Roast (1 serving)",
+    "cal": 535
+  },
+  {
+    "name": "Dindigul Mixed Tikka (1 serving)",
+    "cal": 266
+  },
+  {
+    "name": "Cheese & Garlic 65 (1 serving)",
+    "cal": 240
+  },
+  {
+    "name": "Pepper & Palak Rice (1 serving)",
+    "cal": 589
+  },
+  {
+    "name": "Fish & Lemon Fried Rice (1 serving)",
+    "cal": 395
+  },
+  {
+    "name": "Podi & Mixed Fried Rice (1 serving)",
+    "cal": 591
+  },
+  {
+    "name": "Special Garlic Biryani (1 serving)",
+    "cal": 304
+  },
+  {
+    "name": "Tamarind & Garlic Dosa (1 serving)",
+    "cal": 446
+  },
+  {
+    "name": "Restaurant Style Chicken Tikka (1 serving)",
+    "cal": 315
+  },
+  {
+    "name": "Andhra Style Aloo Biryani (1 serving)",
+    "cal": 466
+  },
+  {
+    "name": "Kerala Style Chettinad Kothu (1 serving)",
+    "cal": 447
+  },
+  {
+    "name": "Madurai Chicken Kothu (1 serving)",
+    "cal": 572
+  },
+  {
+    "name": "Cheese & Podi Roti (1 serving)",
+    "cal": 416
+  },
+  {
+    "name": "Onion & Podi Parotta (1 serving)",
+    "cal": 364
+  },
+  {
+    "name": "Dindigul Crab Fried Rice (1 serving)",
+    "cal": 487
+  },
+  {
+    "name": "Tomato & Aloo Parotta (1 serving)",
+    "cal": 270
+  },
+  {
+    "name": "Prawn & Fish Noodles (1 serving)",
+    "cal": 417
+  },
+  {
+    "name": "Tomato & Tamarind 65 (1 serving)",
+    "cal": 313
+  },
+  {
+    "name": "Garlic & Crab Fried Rice (1 serving)",
+    "cal": 550
+  },
+  {
+    "name": "Mutton & Cheese Tikka (1 serving)",
+    "cal": 369
+  },
+  {
+    "name": "Homestyle Tamarind Kothu (1 serving)",
+    "cal": 505
+  },
+  {
+    "name": "Palak & Fish Noodles (1 serving)",
+    "cal": 405
+  },
+  {
+    "name": "Andhra Style Mushroom Fried Rice (1 serving)",
+    "cal": 586
+  },
+  {
+    "name": "Kerala Style Mixed Rice (1 serving)",
+    "cal": 359
+  },
+  {
+    "name": "Ghee & Aloo Parotta (1 serving)",
+    "cal": 316
+  },
+  {
+    "name": "Tamarind & Chicken Kothu (1 serving)",
+    "cal": 213
+  },
+  {
+    "name": "Egg & Paneer Idli (1 serving)",
+    "cal": 249
+  },
+  {
+    "name": "Mixed & Garlic Manchurian (1 serving)",
+    "cal": 268
+  },
+  {
+    "name": "Cheese & Pepper Curry (1 serving)",
+    "cal": 559
+  },
+  {
+    "name": "Prawn & Mixed Noodles (1 serving)",
+    "cal": 523
+  },
+  {
+    "name": "Tandoori Podi Chapati (1 serving)",
+    "cal": 272
+  },
+  {
+    "name": "Spicy Garlic Fry (1 serving)",
+    "cal": 348
+  },
+  {
+    "name": "Ghee & Gobi Roast (1 serving)",
+    "cal": 499
+  },
+  {
+    "name": "Homestyle Butter Chilli (1 serving)",
+    "cal": 404
+  },
+  {
+    "name": "Restaurant Style Veg Idli (1 serving)",
+    "cal": 468
+  },
+  {
+    "name": "Andhra Style Podi 65 (1 serving)",
+    "cal": 296
+  },
+  {
+    "name": "Tamarind & Tomato Roti (1 serving)",
+    "cal": 591
+  },
+  {
+    "name": "Ghee & Aloo Chilli (1 serving)",
+    "cal": 439
+  },
+  {
+    "name": "Kongunadu Palak Dosa (1 serving)",
+    "cal": 292
+  },
+  {
+    "name": "Ambur Gobi Chapati (1 serving)",
+    "cal": 424
+  },
+  {
+    "name": "Mushroom & Garlic Idli (1 serving)",
+    "cal": 452
+  },
+  {
+    "name": "Hyderabadi Cheese Parotta (1 serving)",
+    "cal": 211
+  },
+  {
+    "name": "Punjabi Butter Manchurian (1 serving)",
+    "cal": 452
+  },
+  {
+    "name": "Tandoori Egg Idli (1 serving)",
+    "cal": 541
+  },
+  {
+    "name": "Prawn & Tomato Dosa (1 serving)",
+    "cal": 464
+  },
+  {
+    "name": "Tomato & Crab 65 (1 serving)",
+    "cal": 216
+  },
+  {
+    "name": "Pepper & Podi Parotta (1 serving)",
+    "cal": 568
+  },
+  {
+    "name": "Chettinad & Fish Curry (1 serving)",
+    "cal": 348
+  },
+  {
+    "name": "Andhra Style Butter Roast (1 serving)",
+    "cal": 301
+  },
+  {
+    "name": "Kerala Style Veg Noodles (1 serving)",
+    "cal": 523
+  },
+  {
+    "name": "Madurai Chettinad Curry (1 serving)",
+    "cal": 493
+  },
+  {
+    "name": "Kongunadu Kadai Biryani (1 serving)",
+    "cal": 533
+  },
+  {
+    "name": "Aloo & Prawn Idli (1 serving)",
+    "cal": 200
+  },
+  {
+    "name": "Dindigul Prawn Kothu (1 serving)",
+    "cal": 306
+  },
+  {
+    "name": "Egg & Paneer 65 (1 serving)",
+    "cal": 220
+  },
+  {
+    "name": "Punjabi Tamarind Naan (1 serving)",
+    "cal": 441
+  },
+  {
+    "name": "Tomato & Pepper Fried Rice (1 serving)",
+    "cal": 551
+  },
+  {
+    "name": "Spicy Gobi Fried Rice (1 serving)",
+    "cal": 344
+  },
+  {
+    "name": "Special Lemon Kothu (1 serving)",
+    "cal": 592
+  },
+  {
+    "name": "Homestyle Gobi Masala (1 serving)",
+    "cal": 376
+  },
+  {
+    "name": "Restaurant Style Pepper Chapati (1 serving)",
+    "cal": 311
+  },
+  {
+    "name": "Andhra Style Tamarind Chapati (1 serving)",
+    "cal": 268
+  },
+  {
+    "name": "Kerala Style Ghee Curry (1 serving)",
+    "cal": 500
+  },
+  {
+    "name": "Madurai Podi Chapati (1 serving)",
+    "cal": 431
+  },
+  {
+    "name": "Kongunadu Palak Curry (1 serving)",
+    "cal": 523
+  },
+  {
+    "name": "Ambur Fish Fried Rice (1 serving)",
+    "cal": 540
+  },
+  {
+    "name": "Dindigul Veg Rice (1 serving)",
+    "cal": 407
+  },
+  {
+    "name": "Hyderabadi Chicken Naan (1 serving)",
+    "cal": 506
+  },
+  {
+    "name": "Punjabi Podi Dosa (1 serving)",
+    "cal": 488
+  },
+  {
+    "name": "Tandoori Aloo Chilli (1 serving)",
+    "cal": 221
+  },
+  {
+    "name": "Spicy Onion Chapati (1 serving)",
+    "cal": 389
+  },
+  {
+    "name": "Special Veg 65 (1 serving)",
+    "cal": 306
+  },
+  {
+    "name": "Andhra Style Podi Naan (1 serving)",
+    "cal": 291
+  },
+  {
+    "name": "Kerala Style Garlic Tikka (1 serving)",
+    "cal": 371
+  },
+  {
+    "name": "Madurai Egg Tikka (1 serving)",
+    "cal": 202
+  },
+  {
+    "name": "Mutton & Egg Chapati (1 serving)",
+    "cal": 575
+  },
+  {
+    "name": "Prawn & Mixed Curry (1 serving)",
+    "cal": 517
+  },
+  {
+    "name": "Paneer & Kadai Biryani (1 serving)",
+    "cal": 591
+  },
+  {
+    "name": "Veg & Aloo Naan (1 serving)",
+    "cal": 440
+  },
+  {
+    "name": "Punjabi Crab Kothu (1 serving)",
+    "cal": 224
+  },
+  {
+    "name": "Tamarind & Mushroom Dosa (1 serving)",
+    "cal": 530
+  },
+  {
+    "name": "Veg & Chicken Roast (1 serving)",
+    "cal": 357
+  },
+  {
+    "name": "Ghee & Fish Fried Rice (1 serving)",
+    "cal": 238
+  },
+  {
+    "name": "Homestyle Garlic Kothu (1 serving)",
+    "cal": 485
+  },
+  {
+    "name": "Restaurant Style Onion Fry (1 serving)",
+    "cal": 314
+  },
+  {
+    "name": "Mixed & Mixed Fried Rice (1 serving)",
+    "cal": 559
+  },
+  {
+    "name": "Kerala Style Butter Roast (1 serving)",
+    "cal": 415
+  },
+  {
+    "name": "Madurai Onion Manchurian (1 serving)",
+    "cal": 545
+  },
+  {
+    "name": "Kongunadu Cheese Idli (1 serving)",
+    "cal": 424
+  },
+  {
+    "name": "Lemon & Egg Kothu (1 serving)",
+    "cal": 512
+  },
+  {
+    "name": "Egg & Aloo Kuzhambu (1 serving)",
+    "cal": 592
+  },
+  {
+    "name": "Garlic & Gobi Kuzhambu (1 serving)",
+    "cal": 467
+  },
+  {
+    "name": "Punjabi Crab Kuzhambu (1 serving)",
+    "cal": 595
+  },
+  {
+    "name": "Mutton & Prawn Roti (1 serving)",
+    "cal": 214
+  },
+  {
+    "name": "Spicy Mixed Masala (1 serving)",
+    "cal": 398
+  },
+  {
+    "name": "Crab & Cheese Roast (1 serving)",
+    "cal": 201
+  },
+  {
+    "name": "Homestyle Butter Biryani (1 serving)",
+    "cal": 392
+  },
+  {
+    "name": "Chettinad & Veg Naan (1 serving)",
+    "cal": 334
+  },
+  {
+    "name": "Andhra Style Butter Tikka (1 serving)",
+    "cal": 490
+  },
+  {
+    "name": "Madurai Podi 65 (1 serving)",
+    "cal": 541
+  },
+  {
+    "name": "Kongunadu Palak Parotta (1 serving)",
+    "cal": 345
+  },
+  {
+    "name": "Ambur Palak Curry (1 serving)",
+    "cal": 533
+  },
+  {
+    "name": "Dindigul Ghee Fry (1 serving)",
+    "cal": 533
+  },
+  {
+    "name": "Hyderabadi Garlic Chilli (1 serving)",
+    "cal": 372
+  },
+  {
+    "name": "Ghee & Cheese Manchurian (1 serving)",
+    "cal": 334
+  },
+  {
+    "name": "Tandoori Butter Kothu (1 serving)",
+    "cal": 415
+  },
+  {
+    "name": "Spicy Tomato Chapati (1 serving)",
+    "cal": 267
+  },
+  {
+    "name": "Onion & Cheese Fried Rice (1 serving)",
+    "cal": 451
+  },
+  {
+    "name": "Podi & Garlic Noodles (1 serving)",
+    "cal": 469
+  },
+  {
+    "name": "Veg & Butter 65 (1 serving)",
+    "cal": 486
+  },
+  {
+    "name": "Andhra Style Ghee Rice (1 serving)",
+    "cal": 322
+  },
+  {
+    "name": "Kerala Style Fish Tikka (1 serving)",
+    "cal": 481
+  },
+  {
+    "name": "Madurai Pepper Roast (1 serving)",
+    "cal": 441
+  },
+  {
+    "name": "Veg & Mutton 65 (1 serving)",
+    "cal": 550
+  },
+  {
+    "name": "Pepper & Aloo Naan (1 serving)",
+    "cal": 349
+  },
+  {
+    "name": "Butter & Garlic Tikka (1 serving)",
+    "cal": 504
+  },
+  {
+    "name": "Gobi & Egg 65 (1 serving)",
+    "cal": 316
+  },
+  {
+    "name": "Paneer & Gobi Masala (1 serving)",
+    "cal": 466
+  },
+  {
+    "name": "Fish & Kadai Manchurian (1 serving)",
+    "cal": 321
+  },
+  {
+    "name": "Gobi & Pepper Dosa (1 serving)",
+    "cal": 573
+  },
+  {
+    "name": "Special Mixed Kothu (1 serving)",
+    "cal": 534
+  },
+  {
+    "name": "Cheese & Garlic Curry (1 serving)",
+    "cal": 279
+  },
+  {
+    "name": "Gobi & Prawn Biryani (1 serving)",
+    "cal": 212
+  },
+  {
+    "name": "Andhra Style Butter Fry (1 serving)",
+    "cal": 458
+  },
+  {
+    "name": "Egg & Aloo Parotta (1 serving)",
+    "cal": 563
+  },
+  {
+    "name": "Madurai Mushroom Noodles (1 serving)",
+    "cal": 409
+  },
+  {
+    "name": "Kongunadu Palak Idli (1 serving)",
+    "cal": 363
+  },
+  {
+    "name": "Chettinad & Kadai Tikka (1 serving)",
+    "cal": 530
+  },
+  {
+    "name": "Dindigul Garlic Parotta (1 serving)",
+    "cal": 519
+  },
+  {
+    "name": "Hyderabadi Kadai Roast (1 serving)",
+    "cal": 425
+  },
+  {
+    "name": "Punjabi Egg Chapati (1 serving)",
+    "cal": 544
+  },
+  {
+    "name": "Tandoori Cheese Fry (1 serving)",
+    "cal": 254
+  },
+  {
+    "name": "Mutton & Fish Idli (1 serving)",
+    "cal": 525
+  },
+  {
+    "name": "Special Lemon Roti (1 serving)",
+    "cal": 241
+  },
+  {
+    "name": "Homestyle Paneer Noodles (1 serving)",
+    "cal": 426
+  },
+  {
+    "name": "Restaurant Style Egg Chilli (1 serving)",
+    "cal": 494
+  },
+  {
+    "name": "Butter & Onion Roti (1 serving)",
+    "cal": 376
+  },
+  {
+    "name": "Kerala Style Aloo Manchurian (1 serving)",
+    "cal": 403
+  },
+  {
+    "name": "Madurai Tamarind 65 (1 serving)",
+    "cal": 311
+  },
+  {
+    "name": "Kongunadu Butter Kothu (1 serving)",
+    "cal": 471
+  },
+  {
+    "name": "Ambur Mushroom Masala (1 serving)",
+    "cal": 535
+  },
+  {
+    "name": "Mushroom & Mushroom Rice (1 serving)",
+    "cal": 368
+  },
+  {
+    "name": "Podi & Garlic Chapati (1 serving)",
+    "cal": 321
+  },
+  {
+    "name": "Punjabi Paneer Dosa (1 serving)",
+    "cal": 318
+  },
+  {
+    "name": "Tandoori Mixed Masala (1 serving)",
+    "cal": 347
+  },
+  {
+    "name": "Spicy Butter 65 (1 serving)",
+    "cal": 349
+  },
+  {
+    "name": "Paneer & Paneer Manchurian (1 serving)",
+    "cal": 477
+  },
+  {
+    "name": "Homestyle Lemon Tikka (1 serving)",
+    "cal": 428
+  },
+  {
+    "name": "Restaurant Style Veg Rice (1 serving)",
+    "cal": 522
+  },
+  {
+    "name": "Crab & Pepper Rice (1 serving)",
+    "cal": 345
+  },
+  {
+    "name": "Prawn & Onion Manchurian (1 serving)",
+    "cal": 370
+  },
+  {
+    "name": "Madurai Paneer Rice (1 serving)",
+    "cal": 329
+  },
+  {
+    "name": "Tamarind & Chettinad Kothu (1 serving)",
+    "cal": 528
+  },
+  {
+    "name": "Ambur Mushroom Biryani (1 serving)",
+    "cal": 580
+  },
+  {
+    "name": "Dindigul Chicken Dosa (1 serving)",
+    "cal": 458
+  },
+  {
+    "name": "Lemon & Crab Kuzhambu (1 serving)",
+    "cal": 544
+  },
+  {
+    "name": "Podi & Egg Dosa (1 serving)",
+    "cal": 550
+  },
+  {
+    "name": "Palak & Cheese Roti (1 serving)",
+    "cal": 275
+  },
+  {
+    "name": "Tamarind & Mutton Kothu (1 serving)",
+    "cal": 334
+  },
+  {
+    "name": "Special Garlic Curry (1 serving)",
+    "cal": 306
+  },
+  {
+    "name": "Homestyle Tomato 65 (1 serving)",
+    "cal": 565
+  },
+  {
+    "name": "Ghee & Onion 65 (1 serving)",
+    "cal": 210
+  },
+  {
+    "name": "Andhra Style Podi Masala (1 serving)",
+    "cal": 220
+  },
+  {
+    "name": "Kerala Style Tamarind Chilli (1 serving)",
+    "cal": 232
+  },
+  {
+    "name": "Madurai Veg Rice (1 serving)",
+    "cal": 331
+  },
+  {
+    "name": "Prawn & Podi Idli (1 serving)",
+    "cal": 269
+  },
+  {
+    "name": "Ambur Pepper Rice (1 serving)",
+    "cal": 594
+  },
+  {
+    "name": "Chicken & Butter Kuzhambu (1 serving)",
+    "cal": 281
+  },
+  {
+    "name": "Hyderabadi Ghee Dosa (1 serving)",
+    "cal": 448
+  },
+  {
+    "name": "Veg & Crab Chilli (1 serving)",
+    "cal": 295
+  },
+  {
+    "name": "Tandoori Mushroom Noodles (1 serving)",
+    "cal": 331
+  },
+  {
+    "name": "Spicy Garlic Idli (1 serving)",
+    "cal": 467
+  },
+  {
+    "name": "Mutton & Chettinad Kothu (1 serving)",
+    "cal": 373
+  },
+  {
+    "name": "Homestyle Aloo 65 (1 serving)",
+    "cal": 507
+  },
+  {
+    "name": "Egg & Chettinad Fried Rice (1 serving)",
+    "cal": 555
+  },
+  {
+    "name": "Cheese & Veg Curry (1 serving)",
+    "cal": 347
+  },
+  {
+    "name": "Kerala Style Paneer Chilli (1 serving)",
+    "cal": 596
+  },
+  {
+    "name": "Madurai Palak Kuzhambu (1 serving)",
+    "cal": 339
+  },
+  {
+    "name": "Kongunadu Pepper Curry (1 serving)",
+    "cal": 427
+  },
+  {
+    "name": "Lemon & Fish Tikka (1 serving)",
+    "cal": 244
+  },
+  {
+    "name": "Pepper & Prawn Noodles (1 serving)",
+    "cal": 360
+  },
+  {
+    "name": "Garlic & Tamarind Fry (1 serving)",
+    "cal": 303
+  },
+  {
+    "name": "Tandoori Paneer Masala (1 serving)",
+    "cal": 415
+  },
+  {
+    "name": "Egg & Mixed Rice (1 serving)",
+    "cal": 429
+  },
+  {
+    "name": "Homestyle Palak Tikka (1 serving)",
+    "cal": 597
+  },
+  {
+    "name": "Restaurant Style Podi Parotta (1 serving)",
+    "cal": 467
+  },
+  {
+    "name": "Tamarind & Garlic Manchurian (1 serving)",
+    "cal": 496
+  },
+  {
+    "name": "Kerala Style Kadai 65 (1 serving)",
+    "cal": 560
+  },
+  {
+    "name": "Madurai Chicken Fried Rice (1 serving)",
+    "cal": 313
+  },
+  {
+    "name": "Kongunadu Mutton Chilli (1 serving)",
+    "cal": 329
+  },
+  {
+    "name": "Ambur Butter Naan (1 serving)",
+    "cal": 239
+  },
+  {
+    "name": "Paneer & Tomato Masala (1 serving)",
+    "cal": 382
+  },
+  {
+    "name": "Punjabi Podi Curry (1 serving)",
+    "cal": 482
+  },
+  {
+    "name": "Spicy Lemon 65 (1 serving)",
+    "cal": 559
+  },
+  {
+    "name": "Paneer & Aloo Kothu (1 serving)",
+    "cal": 596
+  },
+  {
+    "name": "Homestyle Tamarind Dosa (1 serving)",
+    "cal": 335
+  },
+  {
+    "name": "Restaurant Style Mixed Fried Rice (1 serving)",
+    "cal": 283
+  },
+  {
+    "name": "Andhra Style Prawn Masala (1 serving)",
+    "cal": 236
+  },
+  {
+    "name": "Kerala Style Mixed Roast (1 serving)",
+    "cal": 392
+  },
+  {
+    "name": "Prawn & Mushroom Dosa (1 serving)",
+    "cal": 365
+  },
+  {
+    "name": "Chicken & Mixed Rice (1 serving)",
+    "cal": 264
+  },
+  {
+    "name": "Veg & Podi Rice (1 serving)",
+    "cal": 240
+  },
+  {
+    "name": "Palak & Onion Parotta (1 serving)",
+    "cal": 452
+  },
+  {
+    "name": "Punjabi Mixed Rice (1 serving)",
+    "cal": 299
+  },
+  {
+    "name": "Ghee & Podi Naan (1 serving)",
+    "cal": 491
+  },
+  {
+    "name": "Chicken & Fish Naan (1 serving)",
+    "cal": 344
+  },
+  {
+    "name": "Mixed & Chicken Chapati (1 serving)",
+    "cal": 445
+  },
+  {
+    "name": "Homestyle Chettinad Chilli (1 serving)",
+    "cal": 553
+  },
+  {
+    "name": "Andhra Style Cheese Roti (1 serving)",
+    "cal": 271
+  },
+  {
+    "name": "Chicken & Veg Chapati (1 serving)",
+    "cal": 342
+  },
+  {
+    "name": "Madurai Podi Noodles (1 serving)",
+    "cal": 434
+  },
+  {
+    "name": "Tamarind & Lemon Fried Rice (1 serving)",
+    "cal": 255
+  },
+  {
+    "name": "Chicken & Butter Tikka (1 serving)",
+    "cal": 552
+  },
+  {
+    "name": "Butter & Butter Dosa (1 serving)",
+    "cal": 312
+  },
+  {
+    "name": "Hyderabadi Egg Kothu (1 serving)",
+    "cal": 425
+  },
+  {
+    "name": "Punjabi Chettinad Curry (1 serving)",
+    "cal": 561
+  },
+  {
+    "name": "Tandoori Chettinad Rice (1 serving)",
+    "cal": 237
+  },
+  {
+    "name": "Prawn & Cheese 65 (1 serving)",
+    "cal": 353
+  },
+  {
+    "name": "Special Mixed Parotta (1 serving)",
+    "cal": 382
+  },
+  {
+    "name": "Butter & Palak Tikka (1 serving)",
+    "cal": 288
+  },
+  {
+    "name": "Chettinad & Garlic Manchurian (1 serving)",
+    "cal": 345
+  },
+  {
+    "name": "Paneer & Prawn Fry (1 serving)",
+    "cal": 467
+  },
+  {
+    "name": "Crab & Ghee Parotta (1 serving)",
+    "cal": 320
+  },
+  {
+    "name": "Madurai Aloo Chapati (1 serving)",
+    "cal": 534
+  },
+  {
+    "name": "Kongunadu Aloo Curry (1 serving)",
+    "cal": 202
+  },
+  {
+    "name": "Ambur Kadai Idli (1 serving)",
+    "cal": 319
+  },
+  {
+    "name": "Dindigul Onion Roti (1 serving)",
+    "cal": 203
+  },
+  {
+    "name": "Fish & Prawn Curry (1 serving)",
+    "cal": 273
+  },
+  {
+    "name": "Gobi & Palak Parotta (1 serving)",
+    "cal": 504
+  },
+  {
+    "name": "Spicy Fish Manchurian (1 serving)",
+    "cal": 257
+  },
+  {
+    "name": "Special Gobi Idli (1 serving)",
+    "cal": 554
+  },
+  {
+    "name": "Homestyle Cheese Roast (1 serving)",
+    "cal": 344
+  },
+  {
+    "name": "Chettinad & Ghee Chilli (1 serving)",
+    "cal": 393
+  },
+  {
+    "name": "Kerala Style Garlic Noodles (1 serving)",
+    "cal": 342
+  },
+  {
+    "name": "Madurai Cheese Chapati (1 serving)",
+    "cal": 513
+  },
+  {
+    "name": "Crab & Tomato Curry (1 serving)",
+    "cal": 347
+  },
+  {
+    "name": "Cheese & Mutton Roti (1 serving)",
+    "cal": 284
+  },
+  {
+    "name": "Dindigul Tomato Chapati (1 serving)",
+    "cal": 255
+  },
+  {
+    "name": "Paneer & Gobi Biryani (1 serving)",
+    "cal": 399
+  },
+  {
+    "name": "Mushroom & Ghee Fried Rice (1 serving)",
+    "cal": 564
+  },
+  {
+    "name": "Paneer & Gobi Idli (1 serving)",
+    "cal": 496
+  },
+  {
+    "name": "Spicy Cheese Manchurian (1 serving)",
+    "cal": 545
+  },
+  {
+    "name": "Special Mushroom Roti (1 serving)",
+    "cal": 233
+  },
+  {
+    "name": "Chicken & Aloo Roast (1 serving)",
+    "cal": 569
+  },
+  {
+    "name": "Tamarind & Tomato Chapati (1 serving)",
+    "cal": 449
+  },
+  {
+    "name": "Egg & Tomato Curry (1 serving)",
+    "cal": 552
+  },
+  {
+    "name": "Kerala Style Veg Kuzhambu (1 serving)",
+    "cal": 246
+  },
+  {
+    "name": "Madurai Mushroom Tikka (1 serving)",
+    "cal": 474
+  },
+  {
+    "name": "Kongunadu Prawn Masala (1 serving)",
+    "cal": 412
+  },
+  {
+    "name": "Fish & Tomato Parotta (1 serving)",
+    "cal": 449
+  },
+  {
+    "name": "Dindigul Tamarind Biryani (1 serving)",
+    "cal": 314
+  },
+  {
+    "name": "Veg & Cheese 65 (1 serving)",
+    "cal": 479
+  },
+  {
+    "name": "Punjabi Kadai 65 (1 serving)",
+    "cal": 551
+  },
+  {
+    "name": "Podi & Tomato Noodles (1 serving)",
+    "cal": 550
+  },
+  {
+    "name": "Chettinad & Ghee Fried Rice (1 serving)",
+    "cal": 368
+  },
+  {
+    "name": "Special Prawn Parotta (1 serving)",
+    "cal": 571
+  },
+  {
+    "name": "Egg & Chicken Roast (1 serving)",
+    "cal": 559
+  },
+  {
+    "name": "Restaurant Style Mixed Masala (1 serving)",
+    "cal": 332
+  },
+  {
+    "name": "Andhra Style Pepper Manchurian (1 serving)",
+    "cal": 406
+  },
+  {
+    "name": "Tomato & Lemon Curry (1 serving)",
+    "cal": 557
+  },
+  {
+    "name": "Veg & Pepper Biryani (1 serving)",
+    "cal": 337
+  },
+  {
+    "name": "Paneer & Ghee Kothu (1 serving)",
+    "cal": 523
+  },
+  {
+    "name": "Kadai & Crab Noodles (1 serving)",
+    "cal": 368
+  },
+  {
+    "name": "Dindigul Onion Fried Rice (1 serving)",
+    "cal": 362
+  },
+  {
+    "name": "Hyderabadi Egg Fried Rice (1 serving)",
+    "cal": 407
+  },
+  {
+    "name": "Tomato & Ghee Biryani (1 serving)",
+    "cal": 554
+  },
+  {
+    "name": "Onion & Egg Parotta (1 serving)",
+    "cal": 424
+  },
+  {
+    "name": "Spicy Pepper Parotta (1 serving)",
+    "cal": 314
+  },
+  {
+    "name": "Special Egg Masala (1 serving)",
+    "cal": 416
+  },
+  {
+    "name": "Pepper & Crab Parotta (1 serving)",
+    "cal": 299
+  },
+  {
+    "name": "Andhra Style Garlic Roti (1 serving)",
+    "cal": 368
+  },
+  {
+    "name": "Kerala Style Paneer Masala (1 serving)",
+    "cal": 356
+  },
+  {
+    "name": "Fish & Lemon Fry (1 serving)",
+    "cal": 372
+  },
+  {
+    "name": "Kongunadu Podi Idli (1 serving)",
+    "cal": 335
+  },
+  {
+    "name": "Podi & Prawn Curry (1 serving)",
+    "cal": 350
+  },
+  {
+    "name": "Dindigul Fish Chapati (1 serving)",
+    "cal": 415
+  },
+  {
+    "name": "Chettinad & Paneer Fried Rice (1 serving)",
+    "cal": 466
+  },
+  {
+    "name": "Chicken & Chicken 65 (1 serving)",
+    "cal": 343
+  },
+  {
+    "name": "Tamarind & Palak Masala (1 serving)",
+    "cal": 380
+  },
+  {
+    "name": "Chicken & Ghee Parotta (1 serving)",
+    "cal": 398
+  },
+  {
+    "name": "Special Egg Noodles (1 serving)",
+    "cal": 258
+  },
+  {
+    "name": "Cheese & Ghee Biryani (1 serving)",
+    "cal": 569
+  },
+  {
+    "name": "Chettinad & Kadai Parotta (1 serving)",
+    "cal": 304
+  },
+  {
+    "name": "Egg & Mixed Fry (1 serving)",
+    "cal": 263
+  },
+  {
+    "name": "Kerala Style Aloo 65 (1 serving)",
+    "cal": 318
+  },
+  {
+    "name": "Butter & Podi Noodles (1 serving)",
+    "cal": 350
+  },
+  {
+    "name": "Mixed & Mutton Noodles (1 serving)",
+    "cal": 553
+  },
+  {
+    "name": "Kadai & Ghee Noodles (1 serving)",
+    "cal": 463
+  },
+  {
+    "name": "Chicken & Gobi Dosa (1 serving)",
+    "cal": 294
+  },
+  {
+    "name": "Hyderabadi Lemon Kuzhambu (1 serving)",
+    "cal": 499
+  },
+  {
+    "name": "Chettinad & Butter 65 (1 serving)",
+    "cal": 432
+  },
+  {
+    "name": "Tandoori Aloo Tikka (1 serving)",
+    "cal": 271
+  },
+  {
+    "name": "Garlic & Lemon Kuzhambu (1 serving)",
+    "cal": 248
+  },
+  {
+    "name": "Special Pepper Noodles (1 serving)",
+    "cal": 595
+  },
+  {
+    "name": "Tomato & Gobi Rice (1 serving)",
+    "cal": 423
+  },
+  {
+    "name": "Cheese & Kadai Kothu (1 serving)",
+    "cal": 212
+  },
+  {
+    "name": "Andhra Style Palak Curry (1 serving)",
+    "cal": 456
+  },
+  {
+    "name": "Tomato & Chettinad Kuzhambu (1 serving)",
+    "cal": 526
+  },
+  {
+    "name": "Aloo & Aloo 65 (1 serving)",
+    "cal": 493
+  },
+  {
+    "name": "Chettinad & Palak Dosa (1 serving)",
+    "cal": 215
+  },
+  {
+    "name": "Kadai & Podi 65 (1 serving)",
+    "cal": 536
+  },
+  {
+    "name": "Mushroom & Aloo Biryani (1 serving)",
+    "cal": 505
+  },
+  {
+    "name": "Crab & Paneer Curry (1 serving)",
+    "cal": 590
+  },
+  {
+    "name": "Tandoori Cheese Fried Rice (1 serving)",
+    "cal": 431
+  },
+  {
+    "name": "Spicy Tomato Manchurian (1 serving)",
+    "cal": 503
+  },
+  {
+    "name": "Special Gobi Parotta (1 serving)",
+    "cal": 534
+  },
+  {
+    "name": "Lemon & Tamarind Fried Rice (1 serving)",
+    "cal": 516
+  },
+  {
+    "name": "Mutton & Pepper Naan (1 serving)",
+    "cal": 341
+  },
+  {
+    "name": "Andhra Style Mushroom Manchurian (1 serving)",
+    "cal": 308
+  },
+  {
+    "name": "Chettinad & Tomato Parotta (1 serving)",
+    "cal": 492
+  },
+  {
+    "name": "Mutton & Paneer 65 (1 serving)",
+    "cal": 248
+  },
+  {
+    "name": "Kongunadu Aloo Tikka (1 serving)",
+    "cal": 492
+  },
+  {
+    "name": "Ambur Chettinad Rice (1 serving)",
+    "cal": 410
+  },
+  {
+    "name": "Ghee & Palak 65 (1 serving)",
+    "cal": 502
+  },
+  {
+    "name": "Hyderabadi Tomato Parotta (1 serving)",
+    "cal": 449
+  },
+  {
+    "name": "Punjabi Ghee Fry (1 serving)",
+    "cal": 245
+  },
+  {
+    "name": "Tandoori Chettinad Curry (1 serving)",
+    "cal": 318
+  },
+  {
+    "name": "Egg & Aloo Curry (1 serving)",
+    "cal": 341
+  },
+  {
+    "name": "Garlic & Mutton Idli (1 serving)",
+    "cal": 461
+  },
+  {
+    "name": "Homestyle Kadai Manchurian (1 serving)",
+    "cal": 460
+  },
+  {
+    "name": "Mushroom & Podi Tikka (1 serving)",
+    "cal": 339
+  },
+  {
+    "name": "Butter & Prawn 65 (1 serving)",
+    "cal": 443
+  },
+  {
+    "name": "Chettinad & Lemon Idli (1 serving)",
+    "cal": 376
+  },
+  {
+    "name": "Madurai Cheese Curry (1 serving)",
+    "cal": 420
+  },
+  {
+    "name": "Kongunadu Mutton 65 (1 serving)",
+    "cal": 358
+  },
+  {
+    "name": "Veg & Podi Masala (1 serving)",
+    "cal": 399
+  },
+  {
+    "name": "Dindigul Onion Curry (1 serving)",
+    "cal": 266
+  },
+  {
+    "name": "Hyderabadi Chettinad Roti (1 serving)",
+    "cal": 502
+  },
+  {
+    "name": "Tomato & Chicken Curry (1 serving)",
+    "cal": 448
+  },
+  {
+    "name": "Crab & Garlic Curry (1 serving)",
+    "cal": 591
+  },
+  {
+    "name": "Spicy Cheese Dosa (1 serving)",
+    "cal": 246
+  },
+  {
+    "name": "Special Palak Roti (1 serving)",
+    "cal": 571
+  },
+  {
+    "name": "Chettinad & Tomato Roti (1 serving)",
+    "cal": 289
+  },
+  {
+    "name": "Onion & Mutton Kothu (1 serving)",
+    "cal": 353
+  },
+  {
+    "name": "Onion & Cheese Roti (1 serving)",
+    "cal": 264
+  },
+  {
+    "name": "Madurai Mixed Roast (1 serving)",
+    "cal": 506
+  },
+  {
+    "name": "Kongunadu Chicken Kothu (1 serving)",
+    "cal": 422
+  },
+  {
+    "name": "Mutton & Kadai Biryani (1 serving)",
+    "cal": 433
+  },
+  {
+    "name": "Dindigul Mixed Manchurian (1 serving)",
+    "cal": 512
+  },
+  {
+    "name": "Hyderabadi Ghee Fried Rice (1 serving)",
+    "cal": 206
+  },
+  {
+    "name": "Punjabi Butter Idli (1 serving)",
+    "cal": 236
+  },
+  {
+    "name": "Tandoori Tamarind Roti (1 serving)",
+    "cal": 576
+  },
+  {
+    "name": "Spicy Chettinad Tikka (1 serving)",
+    "cal": 286
+  },
+  {
+    "name": "Special Kadai Parotta (1 serving)",
+    "cal": 347
+  },
+  {
+    "name": "Homestyle Prawn Kothu (1 serving)",
+    "cal": 536
+  },
+  {
+    "name": "Restaurant Style Chettinad Roast (1 serving)",
+    "cal": 543
+  },
+  {
+    "name": "Andhra Style Veg Fry (1 serving)",
+    "cal": 298
+  },
+  {
+    "name": "Kerala Style Lemon Idli (1 serving)",
+    "cal": 223
+  },
+  {
+    "name": "Madurai Prawn Fried Rice (1 serving)",
+    "cal": 325
+  },
+  {
+    "name": "Kongunadu Prawn 65 (1 serving)",
+    "cal": 237
+  },
+  {
+    "name": "Butter & Fish Kuzhambu (1 serving)",
+    "cal": 437
+  },
+  {
+    "name": "Chettinad & Lemon Kothu (1 serving)",
+    "cal": 437
+  },
+  {
+    "name": "Punjabi Lemon Rice (1 serving)",
+    "cal": 571
+  },
+  {
+    "name": "Tandoori Mixed Chapati (1 serving)",
+    "cal": 315
+  },
+  {
+    "name": "Fish & Veg Kothu (1 serving)",
+    "cal": 508
+  },
+  {
+    "name": "Kadai & Ghee Tikka (1 serving)",
+    "cal": 472
+  },
+  {
+    "name": "Podi & Podi Biryani (1 serving)",
+    "cal": 256
+  },
+  {
+    "name": "Lemon & Butter Masala (1 serving)",
+    "cal": 428
+  },
+  {
+    "name": "Mixed & Gobi Fried Rice (1 serving)",
+    "cal": 364
+  },
+  {
+    "name": "Kerala Style Pepper Roast (1 serving)",
+    "cal": 542
+  },
+  {
+    "name": "Madurai Lemon Masala (1 serving)",
+    "cal": 464
+  },
+  {
+    "name": "Egg & Chicken Kothu (1 serving)",
+    "cal": 437
+  },
+  {
+    "name": "Mutton & Ghee Noodles (1 serving)",
+    "cal": 414
+  },
+  {
+    "name": "Egg & Mixed 65 (1 serving)",
+    "cal": 589
+  },
+  {
+    "name": "Hyderabadi Fish Parotta (1 serving)",
+    "cal": 579
+  },
+  {
+    "name": "Gobi & Ghee Dosa (1 serving)",
+    "cal": 525
+  },
+  {
+    "name": "Tandoori Mushroom Parotta (1 serving)",
+    "cal": 260
+  },
+  {
+    "name": "Palak & Tamarind Tikka (1 serving)",
+    "cal": 347
+  },
+  {
+    "name": "Butter & Paneer Rice (1 serving)",
+    "cal": 357
+  },
+  {
+    "name": "Homestyle Podi Biryani (1 serving)",
+    "cal": 411
+  },
+  {
+    "name": "Chicken & Chettinad Masala (1 serving)",
+    "cal": 251
+  },
+  {
+    "name": "Andhra Style Pepper Roti (1 serving)",
+    "cal": 575
+  },
+  {
+    "name": "Kerala Style Podi Curry (1 serving)",
+    "cal": 385
+  },
+  {
+    "name": "Madurai Gobi Idli (1 serving)",
+    "cal": 204
+  },
+  {
+    "name": "Prawn & Egg Chilli (1 serving)",
+    "cal": 433
+  },
+  {
+    "name": "Podi & Palak Noodles (1 serving)",
+    "cal": 511
+  },
+  {
+    "name": "Chicken & Mixed Noodles (1 serving)",
+    "cal": 441
+  },
+  {
+    "name": "Hyderabadi Butter Fried Rice (1 serving)",
+    "cal": 310
+  },
+  {
+    "name": "Lemon & Butter Biryani (1 serving)",
+    "cal": 337
+  },
+  {
+    "name": "Paneer & Cheese Roast (1 serving)",
+    "cal": 250
+  },
+  {
+    "name": "Spicy Paneer Kuzhambu (1 serving)",
+    "cal": 477
+  },
+  {
+    "name": "Special Lemon Biryani (1 serving)",
+    "cal": 271
+  },
+  {
+    "name": "Lemon & Mixed Tikka (1 serving)",
+    "cal": 581
+  },
+  {
+    "name": "Pepper & Podi Fried Rice (1 serving)",
+    "cal": 463
+  },
+  {
+    "name": "Kerala Style Pepper Roti (1 serving)",
+    "cal": 326
+  },
+  {
+    "name": "Lemon & Butter Rice (1 serving)",
+    "cal": 498
+  },
+  {
+    "name": "Kongunadu Butter Fried Rice (1 serving)",
+    "cal": 264
+  },
+  {
+    "name": "Dindigul Mushroom Fried Rice (1 serving)",
+    "cal": 360
+  },
+  {
+    "name": "Veg & Kadai Chilli (1 serving)",
+    "cal": 578
+  },
+  {
+    "name": "Punjabi Tomato Parotta (1 serving)",
+    "cal": 331
+  },
+  {
+    "name": "Tandoori Lemon 65 (1 serving)",
+    "cal": 397
+  },
+  {
+    "name": "Spicy Chettinad Rice (1 serving)",
+    "cal": 200
+  },
+  {
+    "name": "Special Veg Rice (1 serving)",
+    "cal": 341
+  },
+  {
+    "name": "Homestyle Fish 65 (1 serving)",
+    "cal": 554
+  },
+  {
+    "name": "Restaurant Style Tamarind Fry (1 serving)",
+    "cal": 286
+  },
+  {
+    "name": "Andhra Style Butter 65 (1 serving)",
+    "cal": 426
+  },
+  {
+    "name": "Kerala Style Mixed Fried Rice (1 serving)",
+    "cal": 586
+  },
+  {
+    "name": "Madurai Veg Roast (1 serving)",
+    "cal": 250
+  },
+  {
+    "name": "Lemon & Chettinad Idli (1 serving)",
+    "cal": 592
+  },
+  {
+    "name": "Paneer & Palak Fry (1 serving)",
+    "cal": 214
+  },
+  {
+    "name": "Dindigul Paneer Kothu (1 serving)",
+    "cal": 452
+  },
+  {
+    "name": "Chicken & Kadai 65 (1 serving)",
+    "cal": 599
+  },
+  {
+    "name": "Punjabi Egg Biryani (1 serving)",
+    "cal": 387
+  },
+  {
+    "name": "Veg & Egg Roti (1 serving)",
+    "cal": 364
+  },
+  {
+    "name": "Spicy Egg Chilli (1 serving)",
+    "cal": 291
+  },
+  {
+    "name": "Palak & Gobi Rice (1 serving)",
+    "cal": 351
+  },
+  {
+    "name": "Onion & Podi Kuzhambu (1 serving)",
+    "cal": 270
+  },
+  {
+    "name": "Restaurant Style Paneer Curry (1 serving)",
+    "cal": 442
+  },
+  {
+    "name": "Kerala Style Chicken Naan (1 serving)",
+    "cal": 275
+  },
+  {
+    "name": "Prawn & Prawn Naan (1 serving)",
+    "cal": 285
+  },
+  {
+    "name": "Chettinad & Egg Dosa (1 serving)",
+    "cal": 580
+  },
+  {
+    "name": "Ambur Cheese Fry (1 serving)",
+    "cal": 590
+  },
+  {
+    "name": "Paneer & Tamarind Biryani (1 serving)",
+    "cal": 401
+  },
+  {
+    "name": "Hyderabadi Podi Biryani (1 serving)",
+    "cal": 343
+  },
+  {
+    "name": "Tandoori Chettinad Idli (1 serving)",
+    "cal": 454
+  },
+  {
+    "name": "Fish & Fish Manchurian (1 serving)",
+    "cal": 371
+  },
+  {
+    "name": "Aloo & Podi Masala (1 serving)",
+    "cal": 305
+  },
+  {
+    "name": "Homestyle Prawn Masala (1 serving)",
+    "cal": 423
+  },
+  {
+    "name": "Andhra Style Veg Biryani (1 serving)",
+    "cal": 279
+  },
+  {
+    "name": "Kerala Style Prawn Roast (1 serving)",
+    "cal": 208
+  },
+  {
+    "name": "Madurai Mutton Tikka (1 serving)",
+    "cal": 414
+  },
+  {
+    "name": "Kongunadu Gobi Fried Rice (1 serving)",
+    "cal": 349
+  },
+  {
+    "name": "Onion & Veg Manchurian (1 serving)",
+    "cal": 374
+  },
+  {
+    "name": "Garlic & Egg Kothu (1 serving)",
+    "cal": 371
+  },
+  {
+    "name": "Hyderabadi Mixed Chilli (1 serving)",
+    "cal": 483
+  },
+  {
+    "name": "Punjabi Lemon Idli (1 serving)",
+    "cal": 519
+  },
+  {
+    "name": "Tandoori Podi Manchurian (1 serving)",
+    "cal": 319
+  },
+  {
+    "name": "Spicy Mixed Chapati (1 serving)",
+    "cal": 543
+  },
+  {
+    "name": "Podi & Lemon Roast (1 serving)",
+    "cal": 345
+  },
+  {
+    "name": "Homestyle Podi Roti (1 serving)",
+    "cal": 308
+  },
+  {
+    "name": "Veg & Chettinad Kothu (1 serving)",
+    "cal": 260
+  },
+  {
+    "name": "Andhra Style Mushroom Noodles (1 serving)",
+    "cal": 211
+  },
+  {
+    "name": "Paneer & Veg Fry (1 serving)",
+    "cal": 204
+  },
+  {
+    "name": "Madurai Tomato Fried Rice (1 serving)",
+    "cal": 368
+  },
+  {
+    "name": "Lemon & Ghee Manchurian (1 serving)",
+    "cal": 354
+  },
+  {
+    "name": "Ambur Tamarind Dosa (1 serving)",
+    "cal": 280
+  },
+  {
+    "name": "Dindigul Prawn Naan (1 serving)",
+    "cal": 291
+  },
+  {
+    "name": "Hyderabadi Fish Curry (1 serving)",
+    "cal": 441
+  },
+  {
+    "name": "Onion & Kadai Idli (1 serving)",
+    "cal": 515
+  },
+  {
+    "name": "Spicy Fish Chilli (1 serving)",
+    "cal": 473
+  },
+  {
+    "name": "Special Butter Tikka (1 serving)",
+    "cal": 294
+  },
+  {
+    "name": "Homestyle Mixed Curry (1 serving)",
+    "cal": 408
+  },
+  {
+    "name": "Tamarind & Podi Parotta (1 serving)",
+    "cal": 577
+  },
+  {
+    "name": "Andhra Style Chicken Parotta (1 serving)",
+    "cal": 200
+  },
+  {
+    "name": "Palak & Paneer Parotta (1 serving)",
+    "cal": 268
+  },
+  {
+    "name": "Madurai Mixed Idli (1 serving)",
+    "cal": 407
+  },
+  {
+    "name": "Butter & Egg Parotta (1 serving)",
+    "cal": 440
+  },
+  {
+    "name": "Podi & Tomato Parotta (1 serving)",
+    "cal": 363
+  },
+  {
+    "name": "Dindigul Fish Biryani (1 serving)",
+    "cal": 215
+  },
+  {
+    "name": "Hyderabadi Gobi Tikka (1 serving)",
+    "cal": 524
+  },
+  {
+    "name": "Punjabi Ghee Manchurian (1 serving)",
+    "cal": 267
+  },
+  {
+    "name": "Tandoori Fish Parotta (1 serving)",
+    "cal": 595
+  },
+  {
+    "name": "Kadai & Lemon Biryani (1 serving)",
+    "cal": 342
+  },
+  {
+    "name": "Special Aloo Dosa (1 serving)",
+    "cal": 282
+  },
+  {
+    "name": "Homestyle Mushroom Chilli (1 serving)",
+    "cal": 287
+  },
+  {
+    "name": "Butter & Pepper Masala (1 serving)",
+    "cal": 404
+  },
+  {
+    "name": "Gobi & Paneer Roti (1 serving)",
+    "cal": 369
+  },
+  {
+    "name": "Prawn & Paneer Curry (1 serving)",
+    "cal": 217
+  },
+  {
+    "name": "Madurai Chettinad Fried Rice (1 serving)",
+    "cal": 534
+  },
+  {
+    "name": "Egg & Prawn Kothu (1 serving)",
+    "cal": 289
+  },
+  {
+    "name": "Ambur Cheese Roti (1 serving)",
+    "cal": 306
+  },
+  {
+    "name": "Dindigul Palak Manchurian (1 serving)",
+    "cal": 253
+  },
+  {
+    "name": "Hyderabadi Tomato Chapati (1 serving)",
+    "cal": 483
+  },
+  {
+    "name": "Ghee & Mushroom Tikka (1 serving)",
+    "cal": 293
+  },
+  {
+    "name": "Tandoori Podi Kuzhambu (1 serving)",
+    "cal": 315
+  },
+  {
+    "name": "Butter & Veg Biryani (1 serving)",
+    "cal": 472
+  },
+  {
+    "name": "Homestyle Veg Chilli (1 serving)",
+    "cal": 507
+  },
+  {
+    "name": "Restaurant Style Aloo Parotta (1 serving)",
+    "cal": 397
+  },
+  {
+    "name": "Andhra Style Tamarind Rice (1 serving)",
+    "cal": 402
+  },
+  {
+    "name": "Kerala Style Palak Kothu (1 serving)",
+    "cal": 248
+  },
+  {
+    "name": "Crab & Mutton Fry (1 serving)",
+    "cal": 265
+  },
+  {
+    "name": "Kongunadu Aloo Noodles (1 serving)",
+    "cal": 314
+  },
+  {
+    "name": "Onion & Garlic Roti (1 serving)",
+    "cal": 414
+  },
+  {
+    "name": "Kadai & Fish Roti (1 serving)",
+    "cal": 551
+  },
+  {
+    "name": "Hyderabadi Butter Rice (1 serving)",
+    "cal": 383
+  },
+  {
+    "name": "Punjabi Podi Manchurian (1 serving)",
+    "cal": 548
+  },
+  {
+    "name": "Tandoori Crab Rice (1 serving)",
+    "cal": 393
+  },
+  {
+    "name": "Tomato & Crab Tikka (1 serving)",
+    "cal": 328
+  },
+  {
+    "name": "Special Veg Fry (1 serving)",
+    "cal": 567
+  },
+  {
+    "name": "Onion & Butter Chapati (1 serving)",
+    "cal": 285
+  },
+  {
+    "name": "Tamarind & Veg Chilli (1 serving)",
+    "cal": 522
+  },
+  {
+    "name": "Andhra Style Kadai Chilli (1 serving)",
+    "cal": 398
+  },
+  {
+    "name": "Prawn & Mutton Fry (1 serving)",
+    "cal": 311
+  },
+  {
+    "name": "Tomato & Mixed Curry (1 serving)",
+    "cal": 474
+  },
+  {
+    "name": "Kongunadu Veg Biryani (1 serving)",
+    "cal": 268
+  },
+  {
+    "name": "Ambur Kadai Tikka (1 serving)",
+    "cal": 295
+  },
+  {
+    "name": "Prawn & Kadai Idli (1 serving)",
+    "cal": 472
+  },
+  {
+    "name": "Hyderabadi Palak Roast (1 serving)",
+    "cal": 357
+  },
+  {
+    "name": "Punjabi Butter 65 (1 serving)",
+    "cal": 489
+  },
+  {
+    "name": "Egg & Gobi Kothu (1 serving)",
+    "cal": 513
+  },
+  {
+    "name": "Spicy Garlic Roast (1 serving)",
+    "cal": 585
+  },
+  {
+    "name": "Special Pepper Naan (1 serving)",
+    "cal": 359
+  },
+  {
+    "name": "Crab & Mixed Tikka (1 serving)",
+    "cal": 326
+  },
+  {
+    "name": "Aloo & Mutton Naan (1 serving)",
+    "cal": 525
+  },
+  {
+    "name": "Fish & Chicken Rice (1 serving)",
+    "cal": 248
+  },
+  {
+    "name": "Chicken & Ghee Curry (1 serving)",
+    "cal": 343
+  },
+  {
+    "name": "Cheese & Mixed Masala (1 serving)",
+    "cal": 363
+  },
+  {
+    "name": "Gobi & Tamarind Fry (1 serving)",
+    "cal": 277
+  },
+  {
+    "name": "Dindigul Crab Dosa (1 serving)",
+    "cal": 590
+  },
+  {
+    "name": "Hyderabadi Onion Masala (1 serving)",
+    "cal": 496
+  },
+  {
+    "name": "Tomato & Mutton Fried Rice (1 serving)",
+    "cal": 249
+  },
+  {
+    "name": "Gobi & Egg Tikka (1 serving)",
+    "cal": 526
+  },
+  {
+    "name": "Spicy Pepper Fried Rice (1 serving)",
+    "cal": 210
+  },
+  {
+    "name": "Kadai & Tomato Chilli (1 serving)",
+    "cal": 398
+  },
+  {
+    "name": "Homestyle Garlic Naan (1 serving)",
+    "cal": 528
+  },
+  {
+    "name": "Restaurant Style Onion Chilli (1 serving)",
+    "cal": 244
+  },
+  {
+    "name": "Onion & Aloo Idli (1 serving)",
+    "cal": 510
+  },
+  {
+    "name": "Lemon & Podi Rice (1 serving)",
+    "cal": 304
+  },
+  {
+    "name": "Madurai Crab Kuzhambu (1 serving)",
+    "cal": 590
+  },
+  {
+    "name": "Crab & Onion Noodles (1 serving)",
+    "cal": 308
+  },
+  {
+    "name": "Ambur Garlic Manchurian (1 serving)",
+    "cal": 242
+  },
+  {
+    "name": "Dindigul Kadai Noodles (1 serving)",
+    "cal": 561
+  },
+  {
+    "name": "Hyderabadi Cheese Masala (1 serving)",
+    "cal": 526
+  },
+  {
+    "name": "Punjabi Chettinad Dosa (1 serving)",
+    "cal": 478
+  },
+  {
+    "name": "Mushroom & Chicken Parotta (1 serving)",
+    "cal": 528
+  },
+  {
+    "name": "Spicy Cheese Fry (1 serving)",
+    "cal": 398
+  },
+  {
+    "name": "Special Ghee Rice (1 serving)",
+    "cal": 248
+  },
+  {
+    "name": "Chicken & Veg Kothu (1 serving)",
+    "cal": 401
+  },
+  {
+    "name": "Kadai & Tomato Curry (1 serving)",
+    "cal": 358
+  },
+  {
+    "name": "Andhra Style Chicken Chapati (1 serving)",
+    "cal": 474
+  },
+  {
+    "name": "Kerala Style Pepper Curry (1 serving)",
+    "cal": 536
+  },
+  {
+    "name": "Cheese & Mutton Parotta (1 serving)",
+    "cal": 441
+  },
+  {
+    "name": "Onion & Prawn Kothu (1 serving)",
+    "cal": 558
+  },
+  {
+    "name": "Ambur Mutton Masala (1 serving)",
+    "cal": 235
+  },
+  {
+    "name": "Dindigul Cheese Fry (1 serving)",
+    "cal": 404
+  },
+  {
+    "name": "Hyderabadi Palak Kuzhambu (1 serving)",
+    "cal": 304
+  },
+  {
+    "name": "Prawn & Crab Tikka (1 serving)",
+    "cal": 442
+  },
+  {
+    "name": "Tandoori Ghee Fried Rice (1 serving)",
+    "cal": 288
+  },
+  {
+    "name": "Spicy Tamarind Idli (1 serving)",
+    "cal": 418
+  },
+  {
+    "name": "Lemon & Mushroom Idli (1 serving)",
+    "cal": 296
+  },
+  {
+    "name": "Kadai & Prawn Rice (1 serving)",
+    "cal": 352
+  },
+  {
+    "name": "Mutton & Prawn Biryani (1 serving)",
+    "cal": 284
+  },
+  {
+    "name": "Madurai Prawn Manchurian (1 serving)",
+    "cal": 271
+  },
+  {
+    "name": "Kongunadu Garlic Masala (1 serving)",
+    "cal": 321
+  },
+  {
+    "name": "Garlic & Garlic Biryani (1 serving)",
+    "cal": 444
+  },
+  {
+    "name": "Mushroom & Chicken Idli (1 serving)",
+    "cal": 281
+  },
+  {
+    "name": "Hyderabadi Garlic Roast (1 serving)",
+    "cal": 285
+  },
+  {
+    "name": "Punjabi Tomato Rice (1 serving)",
+    "cal": 545
+  },
+  {
+    "name": "Tamarind & Egg Parotta (1 serving)",
+    "cal": 378
+  },
+  {
+    "name": "Spicy Palak Chapati (1 serving)",
+    "cal": 389
+  },
+  {
+    "name": "Fish & Onion Noodles (1 serving)",
+    "cal": 553
+  },
+  {
+    "name": "Restaurant Style Veg Masala (1 serving)",
+    "cal": 340
+  },
+  {
+    "name": "Garlic & Lemon Naan (1 serving)",
+    "cal": 469
+  },
+  {
+    "name": "Lemon & Ghee Biryani (1 serving)",
+    "cal": 393
+  },
+  {
+    "name": "Madurai Garlic Roti (1 serving)",
+    "cal": 265
+  },
+  {
+    "name": "Kongunadu Podi Noodles (1 serving)",
+    "cal": 314
+  },
+  {
+    "name": "Tamarind & Fish Rice (1 serving)",
+    "cal": 241
+  },
+  {
+    "name": "Dindigul Egg Chilli (1 serving)",
+    "cal": 316
+  },
+  {
+    "name": "Hyderabadi Aloo Idli (1 serving)",
+    "cal": 441
+  },
+  {
+    "name": "Prawn & Kadai 65 (1 serving)",
+    "cal": 476
+  },
+  {
+    "name": "Veg & Paneer Biryani (1 serving)",
+    "cal": 554
+  },
+  {
+    "name": "Spicy Butter Curry (1 serving)",
+    "cal": 305
+  },
+  {
+    "name": "Special Aloo Parotta (1 serving)",
+    "cal": 372
+  },
+  {
+    "name": "Homestyle Pepper Kothu (1 serving)",
+    "cal": 283
+  },
+  {
+    "name": "Andhra Style Mixed Idli (1 serving)",
+    "cal": 371
+  },
+  {
+    "name": "Lemon & Prawn Tikka (1 serving)",
+    "cal": 544
+  },
+  {
+    "name": "Cheese & Palak Idli (1 serving)",
+    "cal": 213
+  },
+  {
+    "name": "Kongunadu Prawn Roti (1 serving)",
+    "cal": 477
+  },
+  {
+    "name": "Ambur Prawn Roti (1 serving)",
+    "cal": 390
+  },
+  {
+    "name": "Chettinad & Gobi Masala (1 serving)",
+    "cal": 519
+  },
+  {
+    "name": "Mushroom & Butter Fried Rice (1 serving)",
+    "cal": 207
+  },
+  {
+    "name": "Onion & Prawn 65 (1 serving)",
+    "cal": 546
+  },
+  {
+    "name": "Tandoori Podi Biryani (1 serving)",
+    "cal": 235
+  },
+  {
+    "name": "Spicy Mixed Parotta (1 serving)",
+    "cal": 274
+  },
+  {
+    "name": "Special Paneer Biryani (1 serving)",
+    "cal": 511
+  },
+  {
+    "name": "Homestyle Chicken Fried Rice (1 serving)",
+    "cal": 338
+  },
+  {
+    "name": "Restaurant Style Gobi Curry (1 serving)",
+    "cal": 318
+  },
+  {
+    "name": "Andhra Style Tamarind Chilli (1 serving)",
+    "cal": 330
+  },
+  {
+    "name": "Egg & Tamarind Tikka (1 serving)",
+    "cal": 528
+  },
+  {
+    "name": "Lemon & Tomato Manchurian (1 serving)",
+    "cal": 583
+  },
+  {
+    "name": "Onion & Paneer Rice (1 serving)",
+    "cal": 543
+  },
+  {
+    "name": "Tamarind & Butter Kothu (1 serving)",
+    "cal": 405
+  },
+  {
+    "name": "Dindigul Mutton Dosa (1 serving)",
+    "cal": 270
+  },
+  {
+    "name": "Egg & Fish Dosa (1 serving)",
+    "cal": 234
+  },
+  {
+    "name": "Tamarind & Onion Roti (1 serving)",
+    "cal": 532
+  },
+  {
+    "name": "Tandoori Paneer Manchurian (1 serving)",
+    "cal": 462
+  },
+  {
+    "name": "Spicy Palak 65 (1 serving)",
+    "cal": 360
+  },
+  {
+    "name": "Butter & Paneer Idli (1 serving)",
+    "cal": 264
+  },
+  {
+    "name": "Aloo & Butter Idli (1 serving)",
+    "cal": 574
+  },
+  {
+    "name": "Palak & Chicken Kothu (1 serving)",
+    "cal": 557
+  },
+  {
+    "name": "Kerala Style Podi Naan (1 serving)",
+    "cal": 564
+  },
+  {
+    "name": "Madurai Aloo Kuzhambu (1 serving)",
+    "cal": 526
+  },
+  {
+    "name": "Mutton & Onion Idli (1 serving)",
+    "cal": 523
+  },
+  {
+    "name": "Tamarind & Crab Tikka (1 serving)",
+    "cal": 502
+  },
+  {
+    "name": "Dindigul Crab Roast (1 serving)",
+    "cal": 304
+  },
+  {
+    "name": "Hyderabadi Pepper Biryani (1 serving)",
+    "cal": 420
+  },
+  {
+    "name": "Tamarind & Prawn 65 (1 serving)",
+    "cal": 217
+  },
+  {
+    "name": "Chettinad & Prawn Biryani (1 serving)",
+    "cal": 494
+  },
+  {
+    "name": "Onion & Pepper Naan (1 serving)",
+    "cal": 229
+  },
+  {
+    "name": "Special Mushroom Biryani (1 serving)",
+    "cal": 280
+  },
+  {
+    "name": "Homestyle Cheese Noodles (1 serving)",
+    "cal": 592
+  },
+  {
+    "name": "Garlic & Crab Masala (1 serving)",
+    "cal": 537
+  },
+  {
+    "name": "Gobi & Mushroom Naan (1 serving)",
+    "cal": 508
+  },
+  {
+    "name": "Kerala Style Veg Chapati (1 serving)",
+    "cal": 279
+  },
+  {
+    "name": "Madurai Mushroom Biryani (1 serving)",
+    "cal": 285
+  },
+  {
+    "name": "Kongunadu Cheese Roti (1 serving)",
+    "cal": 584
+  },
+  {
+    "name": "Kadai & Cheese Chilli (1 serving)",
+    "cal": 300
+  },
+  {
+    "name": "Paneer & Podi Kothu (1 serving)",
+    "cal": 596
+  },
+  {
+    "name": "Egg & Butter 65 (1 serving)",
+    "cal": 425
+  },
+  {
+    "name": "Spicy Onion Tikka (1 serving)",
+    "cal": 398
+  },
+  {
+    "name": "Mixed & Mutton Dosa (1 serving)",
+    "cal": 372
+  },
+  {
+    "name": "Homestyle Fish Curry (1 serving)",
+    "cal": 492
+  },
+  {
+    "name": "Restaurant Style Kadai Masala (1 serving)",
+    "cal": 296
+  },
+  {
+    "name": "Andhra Style Chettinad Noodles (1 serving)",
+    "cal": 246
+  },
+  {
+    "name": "Kerala Style Egg Noodles (1 serving)",
+    "cal": 433
+  },
+  {
+    "name": "Chicken & Gobi Rice (1 serving)",
+    "cal": 395
+  },
+  {
+    "name": "Gobi & Fish Biryani (1 serving)",
+    "cal": 532
+  },
+  {
+    "name": "Ambur Veg Naan (1 serving)",
+    "cal": 494
+  },
+  {
+    "name": "Dindigul Crab Chilli (1 serving)",
+    "cal": 567
+  },
+  {
+    "name": "Aloo & Pepper Roti (1 serving)",
+    "cal": 573
+  },
+  {
+    "name": "Cheese & Cheese Dosa (1 serving)",
+    "cal": 493
+  },
+  {
+    "name": "Veg & Egg Fry (1 serving)",
+    "cal": 297
+  },
+  {
+    "name": "Lemon & Chettinad Tikka (1 serving)",
+    "cal": 345
+  },
+  {
+    "name": "Special Crab Chapati (1 serving)",
+    "cal": 425
+  },
+  {
+    "name": "Homestyle Lemon Fry (1 serving)",
+    "cal": 342
+  },
+  {
+    "name": "Palak & Crab Roti (1 serving)",
+    "cal": 292
+  },
+  {
+    "name": "Lemon & Chicken Idli (1 serving)",
+    "cal": 309
+  },
+  {
+    "name": "Kerala Style Kadai Roti (1 serving)",
+    "cal": 219
+  },
+  {
+    "name": "Lemon & Egg Roti (1 serving)",
+    "cal": 301
+  },
+  {
+    "name": "Kongunadu Garlic Biryani (1 serving)",
+    "cal": 276
+  },
+  {
+    "name": "Ambur Pepper 65 (1 serving)",
+    "cal": 508
+  },
+  {
+    "name": "Dindigul Prawn Fried Rice (1 serving)",
+    "cal": 494
+  },
+  {
+    "name": "Prawn & Podi Curry (1 serving)",
+    "cal": 394
+  },
+  {
+    "name": "Punjabi Ghee Rice (1 serving)",
+    "cal": 248
+  },
+  {
+    "name": "Veg & Mixed Chilli (1 serving)",
+    "cal": 577
+  },
+  {
+    "name": "Spicy Chicken Manchurian (1 serving)",
+    "cal": 260
+  },
+  {
+    "name": "Special Chettinad Chilli (1 serving)",
+    "cal": 282
+  },
+  {
+    "name": "Homestyle Onion Roti (1 serving)",
+    "cal": 550
+  },
+  {
+    "name": "Restaurant Style Chettinad Kuzhambu (1 serving)",
+    "cal": 212
+  },
+  {
+    "name": "Andhra Style Veg 65 (1 serving)",
+    "cal": 401
+  },
+  {
+    "name": "Cheese & Chettinad Chilli (1 serving)",
+    "cal": 407
+  },
+  {
+    "name": "Mixed & Garlic Parotta (1 serving)",
+    "cal": 288
+  },
+  {
+    "name": "Paneer & Gobi Chapati (1 serving)",
+    "cal": 301
+  },
+  {
+    "name": "Ambur Onion Roast (1 serving)",
+    "cal": 307
+  },
+  {
+    "name": "Dindigul Butter Naan (1 serving)",
+    "cal": 495
+  },
+  {
+    "name": "Mushroom & Cheese Fry (1 serving)",
+    "cal": 481
+  },
+  {
+    "name": "Chicken & Paneer Roast (1 serving)",
+    "cal": 481
+  },
+  {
+    "name": "Tandoori Aloo Kothu (1 serving)",
+    "cal": 214
+  },
+  {
+    "name": "Spicy Chicken Parotta (1 serving)",
+    "cal": 281
+  },
+  {
+    "name": "Special Tomato Masala (1 serving)",
+    "cal": 362
+  },
+  {
+    "name": "Homestyle Onion Kothu (1 serving)",
+    "cal": 442
+  },
+  {
+    "name": "Restaurant Style Paneer Manchurian (1 serving)",
+    "cal": 342
+  },
+  {
+    "name": "Egg & Mixed Manchurian (1 serving)",
+    "cal": 295
+  },
+  {
+    "name": "Mutton & Garlic Kothu (1 serving)",
+    "cal": 321
+  },
+  {
+    "name": "Tomato & Tomato Chapati (1 serving)",
+    "cal": 551
+  },
+  {
+    "name": "Mixed & Crab Kothu (1 serving)",
+    "cal": 440
+  },
+  {
+    "name": "Ambur Mixed Rice (1 serving)",
+    "cal": 407
+  },
+  {
+    "name": "Dindigul Mutton Kuzhambu (1 serving)",
+    "cal": 497
+  },
+  {
+    "name": "Cheese & Mixed Idli (1 serving)",
+    "cal": 230
+  },
+  {
+    "name": "Punjabi Cheese Curry (1 serving)",
+    "cal": 327
+  },
+  {
+    "name": "Garlic & Prawn Chilli (1 serving)",
+    "cal": 313
+  },
+  {
+    "name": "Onion & Paneer Naan (1 serving)",
+    "cal": 421
+  },
+  {
+    "name": "Gobi & Onion Kothu (1 serving)",
+    "cal": 569
+  },
+  {
+    "name": "Chicken & Kadai Parotta (1 serving)",
+    "cal": 321
+  },
+  {
+    "name": "Mixed & Crab 65 (1 serving)",
+    "cal": 463
+  },
+  {
+    "name": "Andhra Style Pepper Kuzhambu (1 serving)",
+    "cal": 415
+  },
+  {
+    "name": "Aloo & Fish Noodles (1 serving)",
+    "cal": 407
+  },
+  {
+    "name": "Chettinad & Veg Masala (1 serving)",
+    "cal": 326
+  },
+  {
+    "name": "Dindigul Kadai Kothu (1 serving)",
+    "cal": 297
+  },
+  {
+    "name": "Fish & Onion Curry (1 serving)",
+    "cal": 500
+  },
+  {
+    "name": "Punjabi Fish Kothu (1 serving)",
+    "cal": 316
+  },
+  {
+    "name": "Lemon & Pepper Kuzhambu (1 serving)",
+    "cal": 458
+  },
+  {
+    "name": "Pepper & Prawn Roast (1 serving)",
+    "cal": 360
+  },
+  {
+    "name": "Special Mixed Chilli (1 serving)",
+    "cal": 346
+  },
+  {
+    "name": "Homestyle Butter Roti (1 serving)",
+    "cal": 539
+  },
+  {
+    "name": "Crab & Mixed Fried Rice (1 serving)",
+    "cal": 347
+  },
+  {
+    "name": "Andhra Style Lemon Tikka (1 serving)",
+    "cal": 257
+  },
+  {
+    "name": "Egg & Tamarind Kuzhambu (1 serving)",
+    "cal": 561
+  },
+  {
+    "name": "Madurai Onion Noodles (1 serving)",
+    "cal": 391
+  },
+  {
+    "name": "Crab & Egg Tikka (1 serving)",
+    "cal": 283
+  },
+  {
+    "name": "Veg & Palak Kothu (1 serving)",
+    "cal": 267
+  },
+  {
+    "name": "Egg & Mushroom Fried Rice (1 serving)",
+    "cal": 259
+  },
+  {
+    "name": "Hyderabadi Mushroom Kuzhambu (1 serving)",
+    "cal": 518
+  },
+  {
+    "name": "Punjabi Paneer Chilli (1 serving)",
+    "cal": 316
+  },
+  {
+    "name": "Garlic & Prawn Curry (1 serving)",
+    "cal": 480
+  },
+  {
+    "name": "Aloo & Egg Rice (1 serving)",
+    "cal": 377
+  },
+  {
+    "name": "Mutton & Chicken Rice (1 serving)",
+    "cal": 520
+  },
+  {
+    "name": "Restaurant Style Mushroom Idli (1 serving)",
+    "cal": 334
+  },
+  {
+    "name": "Andhra Style Tamarind Fry (1 serving)",
+    "cal": 299
+  },
+  {
+    "name": "Aloo & Mutton 65 (1 serving)",
+    "cal": 398
+  },
+  {
+    "name": "Madurai Butter Biryani (1 serving)",
+    "cal": 570
+  },
+  {
+    "name": "Kongunadu Mutton Fried Rice (1 serving)",
+    "cal": 457
+  },
+  {
+    "name": "Ambur Chicken Noodles (1 serving)",
+    "cal": 354
+  },
+  {
+    "name": "Dindigul Lemon Fry (1 serving)",
+    "cal": 362
+  },
+  {
+    "name": "Aloo & Chettinad Masala (1 serving)",
+    "cal": 426
+  },
+  {
+    "name": "Gobi & Palak Dosa (1 serving)",
+    "cal": 264
+  },
+  {
+    "name": "Tandoori Mutton Masala (1 serving)",
+    "cal": 276
+  },
+  {
+    "name": "Cheese & Tomato Roast (1 serving)",
+    "cal": 574
+  },
+  {
+    "name": "Special Crab Masala (1 serving)",
+    "cal": 275
+  },
+  {
+    "name": "Homestyle Mushroom Rice (1 serving)",
+    "cal": 324
+  },
+  {
+    "name": "Mutton & Veg Biryani (1 serving)",
+    "cal": 578
+  },
+  {
+    "name": "Kadai & Lemon Roast (1 serving)",
+    "cal": 320
+  },
+  {
+    "name": "Kerala Style Aloo Kuzhambu (1 serving)",
+    "cal": 252
+  },
+  {
+    "name": "Madurai Gobi Kuzhambu (1 serving)",
+    "cal": 496
+  },
+  {
+    "name": "Tamarind & Mutton Masala (1 serving)",
+    "cal": 511
+  },
+  {
+    "name": "Ambur Veg Masala (1 serving)",
+    "cal": 391
+  },
+  {
+    "name": "Garlic & Mixed Biryani (1 serving)",
+    "cal": 566
+  },
+  {
+    "name": "Hyderabadi Mushroom Fried Rice (1 serving)",
+    "cal": 396
+  },
+  {
+    "name": "Veg & Crab Manchurian (1 serving)",
+    "cal": 362
+  },
+  {
+    "name": "Ghee & Lemon Fry (1 serving)",
+    "cal": 239
+  },
+  {
+    "name": "Mushroom & Chettinad Kothu (1 serving)",
+    "cal": 268
+  },
+  {
+    "name": "Podi & Palak Fried Rice (1 serving)",
+    "cal": 351
+  },
+  {
+    "name": "Tamarind & Tomato Naan (1 serving)",
+    "cal": 470
+  },
+  {
+    "name": "Restaurant Style Mutton Roast (1 serving)",
+    "cal": 259
+  },
+  {
+    "name": "Andhra Style Palak Kothu (1 serving)",
+    "cal": 520
+  },
+  {
+    "name": "Kerala Style Onion Noodles (1 serving)",
+    "cal": 386
+  },
+  {
+    "name": "Madurai Fish Noodles (1 serving)",
+    "cal": 340
+  },
+  {
+    "name": "Egg & Mixed Parotta (1 serving)",
+    "cal": 403
+  },
+  {
+    "name": "Ambur Prawn Idli (1 serving)",
+    "cal": 355
+  },
+  {
+    "name": "Hyderabadi Ghee 65 (1 serving)",
+    "cal": 204
+  },
+  {
+    "name": "Punjabi Pepper Fry (1 serving)",
+    "cal": 492
+  },
+  {
+    "name": "Mixed & Lemon Roast (1 serving)",
+    "cal": 287
+  },
+  {
+    "name": "Palak & Mushroom Kothu (1 serving)",
+    "cal": 482
+  },
+  {
+    "name": "Onion & Onion Roti (1 serving)",
+    "cal": 355
+  },
+  {
+    "name": "Garlic & Garlic Kuzhambu (1 serving)",
+    "cal": 262
+  },
+  {
+    "name": "Andhra Style Chettinad Manchurian (1 serving)",
+    "cal": 347
+  },
+  {
+    "name": "Kerala Style Tamarind Kothu (1 serving)",
+    "cal": 425
+  },
+  {
+    "name": "Garlic & Prawn 65 (1 serving)",
+    "cal": 459
+  },
+  {
+    "name": "Kongunadu Egg Rice (1 serving)",
+    "cal": 319
+  },
+  {
+    "name": "Ambur Kadai Roti (1 serving)",
+    "cal": 269
+  },
+  {
+    "name": "Dindigul Pepper Idli (1 serving)",
+    "cal": 484
+  },
+  {
+    "name": "Aloo & Mushroom Curry (1 serving)",
+    "cal": 203
+  },
+  {
+    "name": "Punjabi Pepper Manchurian (1 serving)",
+    "cal": 466
+  },
+  {
+    "name": "Tandoori Palak Kuzhambu (1 serving)",
+    "cal": 525
+  },
+  {
+    "name": "Spicy Veg Biryani (1 serving)",
+    "cal": 486
+  },
+  {
+    "name": "Tamarind & Chicken Dosa (1 serving)",
+    "cal": 382
+  },
+  {
+    "name": "Homestyle Aloo Masala (1 serving)",
+    "cal": 505
+  },
+  {
+    "name": "Restaurant Style Pepper Roti (1 serving)",
+    "cal": 230
+  },
+  {
+    "name": "Tamarind & Fish Naan (1 serving)",
+    "cal": 224
+  },
+  {
+    "name": "Butter & Chicken Noodles (1 serving)",
+    "cal": 352
+  },
+  {
+    "name": "Gobi & Veg Curry (1 serving)",
+    "cal": 461
+  },
+  {
+    "name": "Ambur Paneer Tikka (1 serving)",
+    "cal": 230
+  },
+  {
+    "name": "Mutton & Crab Fried Rice (1 serving)",
+    "cal": 249
+  },
+  {
+    "name": "Hyderabadi Egg Naan (1 serving)",
+    "cal": 455
+  },
+  {
+    "name": "Punjabi Fish 65 (1 serving)",
+    "cal": 216
+  },
+  {
+    "name": "Tandoori Mixed Rice (1 serving)",
+    "cal": 353
+  },
+  {
+    "name": "Spicy Kadai Rice (1 serving)",
+    "cal": 402
+  },
+  {
+    "name": "Special Chettinad Chapati (1 serving)",
+    "cal": 228
+  },
+  {
+    "name": "Palak & Veg Fry (1 serving)",
+    "cal": 398
+  },
+  {
+    "name": "Restaurant Style Ghee Kothu (1 serving)",
+    "cal": 586
+  },
+  {
+    "name": "Andhra Style Podi Idli (1 serving)",
+    "cal": 471
+  },
+  {
+    "name": "Mutton & Mixed Manchurian (1 serving)",
+    "cal": 266
+  },
+  {
+    "name": "Cheese & Gobi Fry (1 serving)",
+    "cal": 575
+  },
+  {
+    "name": "Garlic & Egg Idli (1 serving)",
+    "cal": 544
+  },
+  {
+    "name": "Ambur Tamarind Chilli (1 serving)",
+    "cal": 357
+  },
+  {
+    "name": "Dindigul Pepper Naan (1 serving)",
+    "cal": 523
+  },
+  {
+    "name": "Hyderabadi Pepper Roti (1 serving)",
+    "cal": 326
+  },
+  {
+    "name": "Chicken & Fish Roti (1 serving)",
+    "cal": 204
+  },
+  {
+    "name": "Tandoori Tamarind Roast (1 serving)",
+    "cal": 313
+  },
+  {
+    "name": "Mushroom & Lemon Chilli (1 serving)",
+    "cal": 583
+  },
+  {
+    "name": "Ghee & Gobi Fry (1 serving)",
+    "cal": 345
+  },
+  {
+    "name": "Homestyle Paneer Biryani (1 serving)",
+    "cal": 478
+  },
+  {
+    "name": "Gobi & Lemon Noodles (1 serving)",
+    "cal": 514
+  },
+  {
+    "name": "Andhra Style Podi Dosa (1 serving)",
+    "cal": 568
+  },
+  {
+    "name": "Kerala Style Cheese Naan (1 serving)",
+    "cal": 541
+  },
+  {
+    "name": "Chettinad & Prawn Naan (1 serving)",
+    "cal": 528
+  },
+  {
+    "name": "Veg & Garlic Biryani (1 serving)",
+    "cal": 242
+  },
+  {
+    "name": "Chettinad & Paneer Parotta (1 serving)",
+    "cal": 439
+  },
+  {
+    "name": "Dindigul Tomato Chilli (1 serving)",
+    "cal": 245
+  },
+  {
+    "name": "Mutton & Podi Rice (1 serving)",
+    "cal": 423
+  },
+  {
+    "name": "Tandoori Egg Roti (1 serving)",
+    "cal": 493
+  },
+  {
+    "name": "Aloo & Gobi Naan (1 serving)",
+    "cal": 516
+  },
+  {
+    "name": "Restaurant Style Tomato Kothu (1 serving)",
+    "cal": 443
+  },
+  {
+    "name": "Mushroom & Ghee Dosa (1 serving)",
+    "cal": 264
+  },
+  {
+    "name": "Fish & Chettinad Curry (1 serving)",
+    "cal": 574
+  },
+  {
+    "name": "Kongunadu Tomato Roti (1 serving)",
+    "cal": 437
+  },
+  {
+    "name": "Fish & Butter Chapati (1 serving)",
+    "cal": 402
+  },
+  {
+    "name": "Dindigul Mutton Noodles (1 serving)",
+    "cal": 507
+  },
+  {
+    "name": "Hyderabadi Fish Chilli (1 serving)",
+    "cal": 403
+  },
+  {
+    "name": "Egg & Mushroom Curry (1 serving)",
+    "cal": 597
+  },
+  {
+    "name": "Onion & Tamarind Parotta (1 serving)",
+    "cal": 399
+  },
+  {
+    "name": "Egg & Onion Fry (1 serving)",
+    "cal": 420
+  },
+  {
+    "name": "Restaurant Style Onion Roast (1 serving)",
+    "cal": 439
+  },
+  {
+    "name": "Andhra Style Mutton Curry (1 serving)",
+    "cal": 229
+  },
+  {
+    "name": "Kerala Style Gobi Manchurian (1 serving)",
+    "cal": 294
+  },
+  {
+    "name": "Madurai Kadai Roast (1 serving)",
+    "cal": 416
+  },
+  {
+    "name": "Veg & Palak Noodles (1 serving)",
+    "cal": 297
+  },
+  {
+    "name": "Onion & Mutton Curry (1 serving)",
+    "cal": 343
+  },
+  {
+    "name": "Tamarind & Palak Naan (1 serving)",
+    "cal": 509
+  },
+  {
+    "name": "Hyderabadi Podi Kothu (1 serving)",
+    "cal": 327
+  },
+  {
+    "name": "Punjabi Garlic 65 (1 serving)",
+    "cal": 460
+  },
+  {
+    "name": "Chettinad & Palak Roti (1 serving)",
+    "cal": 484
+  },
+  {
+    "name": "Podi & Mutton Chilli (1 serving)",
+    "cal": 438
+  },
+  {
+    "name": "Restaurant Style Veg Chapati (1 serving)",
+    "cal": 329
+  },
+  {
+    "name": "Andhra Style Cheese Masala (1 serving)",
+    "cal": 422
+  },
+  {
+    "name": "Crab & Garlic Tikka (1 serving)",
+    "cal": 310
+  },
+  {
+    "name": "Fish & Veg Chilli (1 serving)",
+    "cal": 306
+  },
+  {
+    "name": "Kongunadu Mixed Rice (1 serving)",
+    "cal": 571
+  },
+  {
+    "name": "Ghee & Mixed Noodles (1 serving)",
+    "cal": 426
+  },
+  {
+    "name": "Paneer & Mushroom 65 (1 serving)",
+    "cal": 592
+  },
+  {
+    "name": "Mutton & Mushroom Fry (1 serving)",
+    "cal": 438
+  },
+  {
+    "name": "Tandoori Pepper Kothu (1 serving)",
+    "cal": 283
+  },
+  {
+    "name": "Pepper & Kadai Roast (1 serving)",
+    "cal": 421
+  },
+  {
+    "name": "Special Paneer Roti (1 serving)",
+    "cal": 515
+  },
+  {
+    "name": "Paneer & Podi Roti (1 serving)",
+    "cal": 471
+  },
+  {
+    "name": "Restaurant Style Prawn 65 (1 serving)",
+    "cal": 419
+  },
+  {
+    "name": "Veg & Aloo Biryani (1 serving)",
+    "cal": 538
+  },
+  {
+    "name": "Kerala Style Butter Masala (1 serving)",
+    "cal": 560
+  },
+  {
+    "name": "Palak & Chettinad Dosa (1 serving)",
+    "cal": 365
+  },
+  {
+    "name": "Ambur Mixed Kuzhambu (1 serving)",
+    "cal": 305
+  },
+  {
+    "name": "Dindigul Ghee 65 (1 serving)",
+    "cal": 395
+  },
+  {
+    "name": "Hyderabadi Ghee Fry (1 serving)",
+    "cal": 582
+  },
+  {
+    "name": "Pepper & Cheese Rice (1 serving)",
+    "cal": 268
+  },
+  {
+    "name": "Cheese & Kadai Roti (1 serving)",
+    "cal": 290
+  },
+  {
+    "name": "Spicy Mixed Idli (1 serving)",
+    "cal": 293
+  },
+  {
+    "name": "Podi & Paneer Dosa (1 serving)",
+    "cal": 399
+  },
+  {
+    "name": "Homestyle Tomato Kothu (1 serving)",
+    "cal": 530
+  },
+  {
+    "name": "Restaurant Style Veg Noodles (1 serving)",
+    "cal": 545
+  },
+  {
+    "name": "Butter & Palak Fried Rice (1 serving)",
+    "cal": 417
+  },
+  {
+    "name": "Chettinad & Gobi 65 (1 serving)",
+    "cal": 550
+  },
+  {
+    "name": "Madurai Prawn Noodles (1 serving)",
+    "cal": 210
+  },
+  {
+    "name": "Kongunadu Paneer Manchurian (1 serving)",
+    "cal": 220
+  },
+  {
+    "name": "Butter & Fish Naan (1 serving)",
+    "cal": 247
+  },
+  {
+    "name": "Mixed & Lemon 65 (1 serving)",
+    "cal": 529
+  },
+  {
+    "name": "Chicken & Garlic Parotta (1 serving)",
+    "cal": 209
+  },
+  {
+    "name": "Punjabi Crab Fry (1 serving)",
+    "cal": 217
+  },
+  {
+    "name": "Lemon & Crab Dosa (1 serving)",
+    "cal": 295
+  },
+  {
+    "name": "Spicy Mixed Dosa (1 serving)",
+    "cal": 486
+  },
+  {
+    "name": "Pepper & Tamarind Dosa (1 serving)",
+    "cal": 408
+  },
+  {
+    "name": "Homestyle Gobi Roast (1 serving)",
+    "cal": 391
+  },
+  {
+    "name": "Restaurant Style Crab Roast (1 serving)",
+    "cal": 315
+  },
+  {
+    "name": "Andhra Style Gobi Curry (1 serving)",
+    "cal": 516
+  },
+  {
+    "name": "Kerala Style Tamarind Parotta (1 serving)",
+    "cal": 283
+  },
+  {
+    "name": "Madurai Ghee Noodles (1 serving)",
+    "cal": 585
+  },
+  {
+    "name": "Onion & Tamarind Noodles (1 serving)",
+    "cal": 238
+  },
+  {
+    "name": "Dindigul Chicken Tikka (1 serving)",
+    "cal": 496
+  },
+  {
+    "name": "Hyderabadi Pepper Chapati (1 serving)",
+    "cal": 324
+  },
+  {
+    "name": "Onion & Gobi 65 (1 serving)",
+    "cal": 244
+  },
+  {
+    "name": "Mixed & Tomato Fry (1 serving)",
+    "cal": 296
+  },
+  {
+    "name": "Special Podi Curry (1 serving)",
+    "cal": 491
+  },
+  {
+    "name": "Restaurant Style Chicken Noodles (1 serving)",
+    "cal": 360
+  },
+  {
+    "name": "Andhra Style Podi Fried Rice (1 serving)",
+    "cal": 598
+  },
+  {
+    "name": "Mutton & Chicken Chapati (1 serving)",
+    "cal": 453
+  },
+  {
+    "name": "Ghee & Onion Curry (1 serving)",
+    "cal": 498
+  },
+  {
+    "name": "Kongunadu Fish Biryani (1 serving)",
+    "cal": 326
+  },
+  {
+    "name": "Ambur Onion Kuzhambu (1 serving)",
+    "cal": 262
+  },
+  {
+    "name": "Tamarind & Lemon Curry (1 serving)",
+    "cal": 515
+  },
+  {
+    "name": "Paneer & Pepper Idli (1 serving)",
+    "cal": 252
+  },
+  {
+    "name": "Chicken & Kadai Biryani (1 serving)",
+    "cal": 462
+  },
+  {
+    "name": "Tandoori Pepper Idli (1 serving)",
+    "cal": 248
+  },
+  {
+    "name": "Chettinad & Butter Fry (1 serving)",
+    "cal": 596
+  },
+  {
+    "name": "Special Tamarind Tikka (1 serving)",
+    "cal": 250
+  },
+  {
+    "name": "Mushroom & Butter Biryani (1 serving)",
+    "cal": 545
+  },
+  {
+    "name": "Fish & Chettinad Naan (1 serving)",
+    "cal": 348
+  },
+  {
+    "name": "Onion & Onion Rice (1 serving)",
+    "cal": 347
+  },
+  {
+    "name": "Kerala Style Crab Masala (1 serving)",
+    "cal": 361
+  },
+  {
+    "name": "Tamarind & Onion Idli (1 serving)",
+    "cal": 248
+  },
+  {
+    "name": "Kongunadu Lemon 65 (1 serving)",
+    "cal": 566
+  },
+  {
+    "name": "Ambur Egg Dosa (1 serving)",
+    "cal": 385
+  },
+  {
+    "name": "Dindigul Pepper 65 (1 serving)",
+    "cal": 334
+  },
+  {
+    "name": "Hyderabadi Ghee Idli (1 serving)",
+    "cal": 257
+  },
+  {
+    "name": "Ghee & Gobi Parotta (1 serving)",
+    "cal": 205
+  },
+  {
+    "name": "Tandoori Lemon Masala (1 serving)",
+    "cal": 362
+  },
+  {
+    "name": "Special Mutton Rice (1 serving)",
+    "cal": 272
+  },
+  {
+    "name": "Lemon & Chettinad Kothu (1 serving)",
+    "cal": 470
+  },
+  {
+    "name": "Restaurant Style Paneer Parotta (1 serving)",
+    "cal": 294
+  },
+  {
+    "name": "Andhra Style Mushroom Chapati (1 serving)",
+    "cal": 403
+  },
+  {
+    "name": "Fish & Garlic Chapati (1 serving)",
+    "cal": 520
+  },
+  {
+    "name": "Mutton & Kadai 65 (1 serving)",
+    "cal": 397
+  },
+  {
+    "name": "Crab & Ghee Curry (1 serving)",
+    "cal": 495
+  },
+  {
+    "name": "Chicken & Garlic Chilli (1 serving)",
+    "cal": 231
+  },
+  {
+    "name": "Lemon & Veg Chapati (1 serving)",
+    "cal": 494
+  },
+  {
+    "name": "Fish & Mixed Chilli (1 serving)",
+    "cal": 483
+  },
+  {
+    "name": "Crab & Chettinad Masala (1 serving)",
+    "cal": 381
+  },
+  {
+    "name": "Spicy Onion Chilli (1 serving)",
+    "cal": 356
+  },
+  {
+    "name": "Special Gobi Roast (1 serving)",
+    "cal": 560
+  },
+  {
+    "name": "Palak & Gobi Chapati (1 serving)",
+    "cal": 504
+  },
+  {
+    "name": "Restaurant Style Pepper Biryani (1 serving)",
+    "cal": 455
+  },
+  {
+    "name": "Tamarind & Ghee Kuzhambu (1 serving)",
+    "cal": 514
+  },
+  {
+    "name": "Kerala Style Garlic Curry (1 serving)",
+    "cal": 233
+  },
+  {
+    "name": "Madurai Mutton Roti (1 serving)",
+    "cal": 597
+  },
+  {
+    "name": "Cheese & Prawn Noodles (1 serving)",
+    "cal": 345
+  },
+  {
+    "name": "Ambur Garlic Idli (1 serving)",
+    "cal": 315
+  },
+  {
+    "name": "Onion & Veg Roast (1 serving)",
+    "cal": 449
+  },
+  {
+    "name": "Hyderabadi Lemon Fry (1 serving)",
+    "cal": 488
+  },
+  {
+    "name": "Mutton & Tomato Curry (1 serving)",
+    "cal": 348
+  },
+  {
+    "name": "Tandoori Ghee Dosa (1 serving)",
+    "cal": 518
+  },
+  {
+    "name": "Fish & Lemon Chapati (1 serving)",
+    "cal": 584
+  },
+  {
+    "name": "Special Tomato Noodles (1 serving)",
+    "cal": 530
+  },
+  {
+    "name": "Restaurant Style Prawn Fry (1 serving)",
+    "cal": 212
+  },
+  {
+    "name": "Veg & Fish Roast (1 serving)",
+    "cal": 529
+  },
+  {
+    "name": "Prawn & Fish Tikka (1 serving)",
+    "cal": 320
+  },
+  {
+    "name": "Madurai Chettinad Kuzhambu (1 serving)",
+    "cal": 519
+  },
+  {
+    "name": "Kongunadu Paneer Roti (1 serving)",
+    "cal": 444
+  },
+  {
+    "name": "Palak & Egg Parotta (1 serving)",
+    "cal": 500
+  },
+  {
+    "name": "Fish & Chicken Fried Rice (1 serving)",
+    "cal": 432
+  },
+  {
+    "name": "Paneer & Mushroom Chilli (1 serving)",
+    "cal": 494
+  },
+  {
+    "name": "Pepper & Mushroom Curry (1 serving)",
+    "cal": 541
+  },
+  {
+    "name": "Tandoori Aloo Roti (1 serving)",
+    "cal": 348
+  },
+  {
+    "name": "Spicy Cheese Noodles (1 serving)",
+    "cal": 599
+  },
+  {
+    "name": "Butter & Tamarind Naan (1 serving)",
+    "cal": 448
+  },
+  {
+    "name": "Crab & Crab Fry (1 serving)",
+    "cal": 270
+  },
+  {
+    "name": "Restaurant Style Garlic Manchurian (1 serving)",
+    "cal": 431
+  },
+  {
+    "name": "Butter & Mushroom Tikka (1 serving)",
+    "cal": 405
+  },
+  {
+    "name": "Mixed & Butter Dosa (1 serving)",
+    "cal": 472
+  },
+  {
+    "name": "Madurai Mushroom Naan (1 serving)",
+    "cal": 318
+  },
+  {
+    "name": "Cheese & Podi 65 (1 serving)",
+    "cal": 407
+  },
+  {
+    "name": "Crab & Ghee Roti (1 serving)",
+    "cal": 446
+  },
+  {
+    "name": "Butter & Butter Kothu (1 serving)",
+    "cal": 474
+  },
+  {
+    "name": "Spicy Fish Tikka (1 serving)",
+    "cal": 214
+  },
+  {
+    "name": "Chettinad & Butter Manchurian (1 serving)",
+    "cal": 551
+  },
+  {
+    "name": "Homestyle Prawn Idli (1 serving)",
+    "cal": 528
+  },
+  {
+    "name": "Restaurant Style Chicken Dosa (1 serving)",
+    "cal": 225
+  },
+  {
+    "name": "Tamarind & Egg Roti (1 serving)",
+    "cal": 252
+  },
+  {
+    "name": "Egg & Tamarind Biryani (1 serving)",
+    "cal": 247
+  },
+  {
+    "name": "Madurai Chicken Roti (1 serving)",
+    "cal": 361
+  },
+  {
+    "name": "Kongunadu Cheese Curry (1 serving)",
+    "cal": 593
+  },
+  {
+    "name": "Ambur Mixed Fried Rice (1 serving)",
+    "cal": 338
+  },
+  {
+    "name": "Dindigul Lemon Roast (1 serving)",
+    "cal": 492
+  },
+  {
+    "name": "Hyderabadi Chicken Rice (1 serving)",
+    "cal": 260
+  },
+  {
+    "name": "Punjabi Chettinad Tikka (1 serving)",
+    "cal": 318
+  },
+  {
+    "name": "Palak & Veg 65 (1 serving)",
+    "cal": 333
+  },
+  {
+    "name": "Spicy Mutton Chapati (1 serving)",
+    "cal": 476
+  },
+  {
+    "name": "Tamarind & Mutton Kuzhambu (1 serving)",
+    "cal": 563
+  },
+  {
+    "name": "Tomato & Tamarind Roast (1 serving)",
+    "cal": 561
+  },
+  {
+    "name": "Restaurant Style Pepper Curry (1 serving)",
+    "cal": 450
+  },
+  {
+    "name": "Andhra Style Crab Naan (1 serving)",
+    "cal": 515
+  },
+  {
+    "name": "Kerala Style Paneer Roti (1 serving)",
+    "cal": 349
+  },
+  {
+    "name": "Palak & Mushroom Rice (1 serving)",
+    "cal": 514
+  },
+  {
+    "name": "Kongunadu Prawn Fry (1 serving)",
+    "cal": 438
+  },
+  {
+    "name": "Fish & Palak Fried Rice (1 serving)",
+    "cal": 398
+  },
+  {
+    "name": "Dindigul Mushroom Tikka (1 serving)",
+    "cal": 419
+  },
+  {
+    "name": "Hyderabadi Cheese Rice (1 serving)",
+    "cal": 435
+  },
+  {
+    "name": "Egg & Garlic Kothu (1 serving)",
+    "cal": 507
+  },
+  {
+    "name": "Tandoori Chicken Idli (1 serving)",
+    "cal": 363
+  },
+  {
+    "name": "Spicy Paneer Tikka (1 serving)",
+    "cal": 212
+  },
+  {
+    "name": "Special Paneer Parotta (1 serving)",
+    "cal": 398
+  },
+  {
+    "name": "Homestyle Mushroom Roti (1 serving)",
+    "cal": 244
+  },
+  {
+    "name": "Tomato & Onion Roast (1 serving)",
+    "cal": 489
+  },
+  {
+    "name": "Andhra Style Gobi Dosa (1 serving)",
+    "cal": 485
+  },
+  {
+    "name": "Prawn & Fish Dosa (1 serving)",
+    "cal": 417
+  },
+  {
+    "name": "Madurai Lemon Idli (1 serving)",
+    "cal": 479
+  },
+  {
+    "name": "Podi & Prawn Kuzhambu (1 serving)",
+    "cal": 417
+  },
+  {
+    "name": "Aloo & Cheese Naan (1 serving)",
+    "cal": 440
+  },
+  {
+    "name": "Hyderabadi Mixed Rice (1 serving)",
+    "cal": 520
+  },
+  {
+    "name": "Punjabi Cheese Idli (1 serving)",
+    "cal": 399
+  },
+  {
+    "name": "Fish & Mixed 65 (1 serving)",
+    "cal": 587
+  },
+  {
+    "name": "Prawn & Egg Biryani (1 serving)",
+    "cal": 513
+  },
+  {
+    "name": "Prawn & Crab Kuzhambu (1 serving)",
+    "cal": 484
+  },
+  {
+    "name": "Homestyle Kadai Fry (1 serving)",
+    "cal": 319
+  },
+  {
+    "name": "Restaurant Style Gobi Fried Rice (1 serving)",
+    "cal": 235
+  },
+  {
+    "name": "Onion & Tomato Chilli (1 serving)",
+    "cal": 314
+  },
+  {
+    "name": "Kerala Style Butter Chapati (1 serving)",
+    "cal": 310
+  },
+  {
+    "name": "Kadai & Lemon Masala (1 serving)",
+    "cal": 558
+  },
+  {
+    "name": "Onion & Aloo Rice (1 serving)",
+    "cal": 221
+  },
+  {
+    "name": "Ambur Gobi Kothu (1 serving)",
+    "cal": 489
+  },
+  {
+    "name": "Prawn & Tamarind Dosa (1 serving)",
+    "cal": 515
+  },
+  {
+    "name": "Garlic & Mutton Kuzhambu (1 serving)",
+    "cal": 233
+  },
+  {
+    "name": "Punjabi Chettinad Naan (1 serving)",
+    "cal": 500
+  },
+  {
+    "name": "Tandoori Mushroom Curry (1 serving)",
+    "cal": 493
+  },
+  {
+    "name": "Crab & Butter Curry (1 serving)",
+    "cal": 531
+  },
+  {
+    "name": "Special Onion Rice (1 serving)",
+    "cal": 263
+  },
+  {
+    "name": "Butter & Veg Chilli (1 serving)",
+    "cal": 594
+  },
+  {
+    "name": "Paneer & Aloo 65 (1 serving)",
+    "cal": 297
+  },
+  {
+    "name": "Garlic & Pepper 65 (1 serving)",
+    "cal": 292
+  },
+  {
+    "name": "Prawn & Onion Naan (1 serving)",
+    "cal": 513
+  },
+  {
+    "name": "Podi & Palak Dosa (1 serving)",
+    "cal": 410
+  },
+  {
+    "name": "Mutton & Cheese Biryani (1 serving)",
+    "cal": 585
+  },
+  {
+    "name": "Dindigul Onion Naan (1 serving)",
+    "cal": 315
+  },
+  {
+    "name": "Crab & Chicken Parotta (1 serving)",
+    "cal": 241
+  },
+  {
+    "name": "Punjabi Tamarind Biryani (1 serving)",
+    "cal": 471
+  },
+  {
+    "name": "Podi & Egg Tikka (1 serving)",
+    "cal": 278
+  },
+  {
+    "name": "Spicy Podi Manchurian (1 serving)",
+    "cal": 432
+  },
+  {
+    "name": "Tomato & Fish Curry (1 serving)",
+    "cal": 498
+  },
+  {
+    "name": "Garlic & Podi Idli (1 serving)",
+    "cal": 389
+  },
+  {
+    "name": "Cheese & Palak Kuzhambu (1 serving)",
+    "cal": 350
+  },
+  {
+    "name": "Kerala Style Lemon Curry (1 serving)",
+    "cal": 412
+  },
+  {
+    "name": "Madurai Garlic Roast (1 serving)",
+    "cal": 384
+  },
+  {
+    "name": "Kongunadu Garlic 65 (1 serving)",
+    "cal": 575
+  },
+  {
+    "name": "Aloo & Chettinad Roast (1 serving)",
+    "cal": 229
+  },
+  {
+    "name": "Dindigul Butter Manchurian (1 serving)",
+    "cal": 312
+  },
+  {
+    "name": "Onion & Lemon Kuzhambu (1 serving)",
+    "cal": 217
+  },
+  {
+    "name": "Tandoori Onion Tikka (1 serving)",
+    "cal": 566
+  },
+  {
+    "name": "Spicy Chicken Fry (1 serving)",
+    "cal": 449
+  },
+  {
+    "name": "Lemon & Podi Chapati (1 serving)",
+    "cal": 441
+  },
+  {
+    "name": "Tamarind & Chettinad Tikka (1 serving)",
+    "cal": 305
+  },
+  {
+    "name": "Restaurant Style Tamarind Dosa (1 serving)",
+    "cal": 545
+  },
+  {
+    "name": "Andhra Style Butter Chilli (1 serving)",
+    "cal": 337
+  },
+  {
+    "name": "Kerala Style Prawn Fry (1 serving)",
+    "cal": 302
+  },
+  {
+    "name": "Madurai Mushroom 65 (1 serving)",
+    "cal": 413
+  },
+  {
+    "name": "Kongunadu Gobi Fry (1 serving)",
+    "cal": 427
+  },
+  {
+    "name": "Ambur Mutton Fry (1 serving)",
+    "cal": 261
+  },
+  {
+    "name": "Dindigul Fish Fry (1 serving)",
+    "cal": 491
+  },
+  {
+    "name": "Hyderabadi Palak Naan (1 serving)",
+    "cal": 525
+  },
+  {
+    "name": "Palak & Crab Fried Rice (1 serving)",
+    "cal": 396
+  },
+  {
+    "name": "Cheese & Garlic Roast (1 serving)",
+    "cal": 483
+  },
+  {
+    "name": "Spicy Crab Chilli (1 serving)",
+    "cal": 215
+  },
+  {
+    "name": "Tamarind & Cheese Roast (1 serving)",
+    "cal": 279
+  },
+  {
+    "name": "Chettinad & Veg Kothu (1 serving)",
+    "cal": 213
+  },
+  {
+    "name": "Garlic & Crab Roti (1 serving)",
+    "cal": 578
+  },
+  {
+    "name": "Kerala Style Mixed Biryani (1 serving)",
+    "cal": 452
+  },
+  {
+    "name": "Kongunadu Kadai Chilli (1 serving)",
+    "cal": 206
+  },
+  {
+    "name": "Ambur Fish Kuzhambu (1 serving)",
+    "cal": 573
+  },
+  {
+    "name": "Dindigul Gobi Roti (1 serving)",
+    "cal": 338
+  },
+  {
+    "name": "Hyderabadi Veg Idli (1 serving)",
+    "cal": 406
+  },
+  {
+    "name": "Punjabi Chettinad Idli (1 serving)",
+    "cal": 430
+  },
+  {
+    "name": "Gobi & Butter Roti (1 serving)",
+    "cal": 483
+  },
+  {
+    "name": "Spicy Palak Roti (1 serving)",
+    "cal": 373
+  },
+  {
+    "name": "Special Onion Dosa (1 serving)",
+    "cal": 446
+  },
+  {
+    "name": "Homestyle Fish Chilli (1 serving)",
+    "cal": 272
+  },
+  {
+    "name": "Mixed & Fish Fried Rice (1 serving)",
+    "cal": 309
+  },
+  {
+    "name": "Andhra Style Chettinad 65 (1 serving)",
+    "cal": 348
+  },
+  {
+    "name": "Tamarind & Mixed Rice (1 serving)",
+    "cal": 319
+  },
+  {
+    "name": "Butter & Palak 65 (1 serving)",
+    "cal": 256
+  },
+  {
+    "name": "Crab & Mushroom Biryani (1 serving)",
+    "cal": 450
+  },
+  {
+    "name": "Podi & Podi 65 (1 serving)",
+    "cal": 412
+  },
+  {
+    "name": "Prawn & Aloo Roast (1 serving)",
+    "cal": 422
+  },
+  {
+    "name": "Paneer & Kadai Noodles (1 serving)",
+    "cal": 506
+  },
+  {
+    "name": "Tandoori Egg Biryani (1 serving)",
+    "cal": 441
+  },
+  {
+    "name": "Prawn & Butter Naan (1 serving)",
+    "cal": 389
+  },
+  {
+    "name": "Egg & Fish Chapati (1 serving)",
+    "cal": 342
+  },
+  {
+    "name": "Garlic & Pepper Rice (1 serving)",
+    "cal": 218
+  },
+  {
+    "name": "Lemon & Aloo Fried Rice (1 serving)",
+    "cal": 342
+  },
+  {
+    "name": "Crab & Palak Noodles (1 serving)",
+    "cal": 341
+  },
+  {
+    "name": "Kongunadu Mixed Dosa (1 serving)",
+    "cal": 337
+  },
+  {
+    "name": "Dindigul Onion Kuzhambu (1 serving)",
+    "cal": 353
+  },
+  {
+    "name": "Hyderabadi Fish Fry (1 serving)",
+    "cal": 483
+  },
+  {
+    "name": "Punjabi Tamarind Kuzhambu (1 serving)",
+    "cal": 373
+  },
+  {
+    "name": "Fish & Cheese Parotta (1 serving)",
+    "cal": 468
+  },
+  {
+    "name": "Chicken & Paneer Curry (1 serving)",
+    "cal": 312
+  },
+  {
+    "name": "Tamarind & Tamarind Dosa (1 serving)",
+    "cal": 395
+  },
+  {
+    "name": "Ghee & Chicken Biryani (1 serving)",
+    "cal": 306
+  },
+  {
+    "name": "Restaurant Style Egg Chapati (1 serving)",
+    "cal": 539
+  },
+  {
+    "name": "Podi & Aloo 65 (1 serving)",
+    "cal": 326
+  },
+  {
+    "name": "Tomato & Fish Dosa (1 serving)",
+    "cal": 317
+  },
+  {
+    "name": "Madurai Crab Manchurian (1 serving)",
+    "cal": 440
+  },
+  {
+    "name": "Onion & Butter Masala (1 serving)",
+    "cal": 237
+  },
+  {
+    "name": "Onion & Fish Chilli (1 serving)",
+    "cal": 583
+  },
+  {
+    "name": "Dindigul Tomato Fry (1 serving)",
+    "cal": 209
+  },
+  {
+    "name": "Paneer & Veg Biryani (1 serving)",
+    "cal": 552
+  },
+  {
+    "name": "Punjabi Prawn Masala (1 serving)",
+    "cal": 447
+  },
+  {
+    "name": "Kadai & Prawn Kuzhambu (1 serving)",
+    "cal": 438
+  },
+  {
+    "name": "Spicy Butter Fry (1 serving)",
+    "cal": 316
+  },
+  {
+    "name": "Chettinad & Mixed Chapati (1 serving)",
+    "cal": 423
+  },
+  {
+    "name": "Paneer & Prawn 65 (1 serving)",
+    "cal": 210
+  },
+  {
+    "name": "Restaurant Style Chicken Roti (1 serving)",
+    "cal": 228
+  },
+  {
+    "name": "Kerala Style Gobi Roast (1 serving)",
+    "cal": 202
+  },
+  {
+    "name": "Paneer & Mixed Fry (1 serving)",
+    "cal": 437
+  },
+  {
+    "name": "Kongunadu Mushroom Chilli (1 serving)",
+    "cal": 517
+  },
+  {
+    "name": "Dindigul Mutton Fry (1 serving)",
+    "cal": 487
+  },
+  {
+    "name": "Paneer & Aloo Chilli (1 serving)",
+    "cal": 412
+  },
+  {
+    "name": "Tomato & Prawn Kothu (1 serving)",
+    "cal": 325
+  },
+  {
+    "name": "Mixed & Cheese Fry (1 serving)",
+    "cal": 475
+  },
+  {
+    "name": "Chicken & Tamarind Kuzhambu (1 serving)",
+    "cal": 376
+  },
+  {
+    "name": "Aloo & Chettinad Kuzhambu (1 serving)",
+    "cal": 220
+  },
+  {
+    "name": "Kadai & Chicken Fried Rice (1 serving)",
+    "cal": 491
+  },
+  {
+    "name": "Kerala Style Lemon Manchurian (1 serving)",
+    "cal": 231
+  },
+  {
+    "name": "Madurai Prawn Idli (1 serving)",
+    "cal": 529
+  },
+  {
+    "name": "Kongunadu Cheese Biryani (1 serving)",
+    "cal": 556
+  },
+  {
+    "name": "Ambur Veg Dosa (1 serving)",
+    "cal": 445
+  },
+  {
+    "name": "Podi & Mixed Chapati (1 serving)",
+    "cal": 493
+  },
+  {
+    "name": "Tomato & Pepper Noodles (1 serving)",
+    "cal": 246
+  },
+  {
+    "name": "Ghee & Egg Rice (1 serving)",
+    "cal": 564
+  },
+  {
+    "name": "Tandoori Kadai Roast (1 serving)",
+    "cal": 275
+  },
+  {
+    "name": "Butter & Mixed Tikka (1 serving)",
+    "cal": 468
+  },
+  {
+    "name": "Special Ghee Tikka (1 serving)",
+    "cal": 459
+  },
+  {
+    "name": "Veg & Kadai Dosa (1 serving)",
+    "cal": 454
+  },
+  {
+    "name": "Restaurant Style Podi Masala (1 serving)",
+    "cal": 563
+  },
+  {
+    "name": "Andhra Style Mushroom Rice (1 serving)",
+    "cal": 369
+  },
+  {
+    "name": "Mixed & Fish 65 (1 serving)",
+    "cal": 211
+  },
+  {
+    "name": "Dindigul Cheese Fried Rice (1 serving)",
+    "cal": 331
+  },
+  {
+    "name": "Garlic & Butter Fried Rice (1 serving)",
+    "cal": 533
+  },
+  {
+    "name": "Punjabi Chicken Dosa (1 serving)",
+    "cal": 210
+  },
+  {
+    "name": "Tandoori Mutton Idli (1 serving)",
+    "cal": 320
+  },
+  {
+    "name": "Aloo & Chettinad Manchurian (1 serving)",
+    "cal": 310
+  },
+  {
+    "name": "Special Paneer Tikka (1 serving)",
+    "cal": 446
+  },
+  {
+    "name": "Gobi & Kadai Kuzhambu (1 serving)",
+    "cal": 265
+  },
+  {
+    "name": "Lemon & Ghee Naan (1 serving)",
+    "cal": 202
+  },
+  {
+    "name": "Cheese & Fish Fried Rice (1 serving)",
+    "cal": 506
+  },
+  {
+    "name": "Mixed & Veg Masala (1 serving)",
+    "cal": 386
+  },
+  {
+    "name": "Madurai Onion Kuzhambu (1 serving)",
+    "cal": 206
+  },
+  {
+    "name": "Kadai & Fish Tikka (1 serving)",
+    "cal": 548
+  },
+  {
+    "name": "Podi & Chicken Naan (1 serving)",
+    "cal": 363
+  },
+  {
+    "name": "Hyderabadi Pepper Naan (1 serving)",
+    "cal": 432
+  },
+  {
+    "name": "Pepper & Garlic Kuzhambu (1 serving)",
+    "cal": 356
+  },
+  {
+    "name": "Veg & Paneer Fry (1 serving)",
+    "cal": 311
+  },
+  {
+    "name": "Lemon & Chettinad Noodles (1 serving)",
+    "cal": 515
+  },
+  {
+    "name": "Prawn & Prawn Noodles (1 serving)",
+    "cal": 258
+  },
+  {
+    "name": "Mushroom & Tamarind Rice (1 serving)",
+    "cal": 447
+  },
+  {
+    "name": "Butter & Aloo Naan (1 serving)",
+    "cal": 582
+  },
+  {
+    "name": "Andhra Style Garlic 65 (1 serving)",
+    "cal": 370
+  },
+  {
+    "name": "Kerala Style Ghee Masala (1 serving)",
+    "cal": 470
+  },
+  {
+    "name": "Madurai Pepper Noodles (1 serving)",
+    "cal": 465
+  },
+  {
+    "name": "Kongunadu Paneer Chilli (1 serving)",
+    "cal": 460
+  },
+  {
+    "name": "Paneer & Mutton Idli (1 serving)",
+    "cal": 497
+  },
+  {
+    "name": "Hyderabadi Podi Dosa (1 serving)",
+    "cal": 373
+  },
+  {
+    "name": "Veg & Kadai Noodles (1 serving)",
+    "cal": 553
+  },
+  {
+    "name": "Tandoori Fish Manchurian (1 serving)",
+    "cal": 316
+  },
+  {
+    "name": "Spicy Tamarind Manchurian (1 serving)",
+    "cal": 483
+  },
+  {
+    "name": "Chicken & Chicken Kuzhambu (1 serving)",
+    "cal": 337
+  },
+  {
+    "name": "Homestyle Mixed Roast (1 serving)",
+    "cal": 370
+  },
+  {
+    "name": "Restaurant Style Kadai Roti (1 serving)",
+    "cal": 570
+  },
+  {
+    "name": "Fish & Prawn Fry (1 serving)",
+    "cal": 390
+  },
+  {
+    "name": "Prawn & Veg Kuzhambu (1 serving)",
+    "cal": 447
+  },
+  {
+    "name": "Kongunadu Garlic Idli (1 serving)",
+    "cal": 531
+  },
+  {
+    "name": "Ambur Veg Kuzhambu (1 serving)",
+    "cal": 593
+  },
+  {
+    "name": "Gobi & Crab Masala (1 serving)",
+    "cal": 544
+  },
+  {
+    "name": "Onion & Ghee Chapati (1 serving)",
+    "cal": 250
+  },
+  {
+    "name": "Pepper & Gobi Roast (1 serving)",
+    "cal": 384
+  },
+  {
+    "name": "Special Aloo Kothu (1 serving)",
+    "cal": 332
+  },
+  {
+    "name": "Gobi & Aloo Fry (1 serving)",
+    "cal": 222
+  },
+  {
+    "name": "Paneer & Garlic Rice (1 serving)",
+    "cal": 438
+  },
+  {
+    "name": "Andhra Style Ghee 65 (1 serving)",
+    "cal": 277
+  },
+  {
+    "name": "Kerala Style Pepper Dosa (1 serving)",
+    "cal": 347
+  },
+  {
+    "name": "Madurai Egg Rice (1 serving)",
+    "cal": 531
+  },
+  {
+    "name": "Kongunadu Pepper Rice (1 serving)",
+    "cal": 475
+  },
+  {
+    "name": "Ambur Fish Fry (1 serving)",
+    "cal": 506
+  },
+  {
+    "name": "Dindigul Veg 65 (1 serving)",
+    "cal": 250
+  },
+  {
+    "name": "Veg & Tomato Chapati (1 serving)",
+    "cal": 303
+  },
+  {
+    "name": "Prawn & Cheese Noodles (1 serving)",
+    "cal": 503
+  },
+  {
+    "name": "Lemon & Fish Roti (1 serving)",
+    "cal": 360
+  },
+  {
+    "name": "Special Chicken Dosa (1 serving)",
+    "cal": 230
+  },
+  {
+    "name": "Crab & Lemon Roast (1 serving)",
+    "cal": 207
+  },
+  {
+    "name": "Butter & Mushroom Naan (1 serving)",
+    "cal": 263
+  },
+  {
+    "name": "Fish & Gobi Manchurian (1 serving)",
+    "cal": 224
+  },
+  {
+    "name": "Veg & Chettinad Kuzhambu (1 serving)",
+    "cal": 593
+  },
+  {
+    "name": "Mushroom & Paneer Tikka (1 serving)",
+    "cal": 584
+  },
+  {
+    "name": "Mutton & Mixed Dosa (1 serving)",
+    "cal": 401
+  },
+  {
+    "name": "Hyderabadi Tamarind Tikka (1 serving)",
+    "cal": 510
+  },
+  {
+    "name": "Prawn & Podi Biryani (1 serving)",
+    "cal": 586
+  },
+  {
+    "name": "Tandoori Paneer Kothu (1 serving)",
+    "cal": 368
+  },
+  {
+    "name": "Spicy Aloo Noodles (1 serving)",
+    "cal": 396
+  },
+  {
+    "name": "Special Mixed Roti (1 serving)",
+    "cal": 412
+  },
+  {
+    "name": "Homestyle Pepper 65 (1 serving)",
+    "cal": 256
+  },
+  {
+    "name": "Restaurant Style Tomato Roti (1 serving)",
+    "cal": 527
+  },
+  {
+    "name": "Garlic & Mushroom Dosa (1 serving)",
+    "cal": 406
+  },
+  {
+    "name": "Kerala Style Cheese Parotta (1 serving)",
+    "cal": 399
+  },
+  {
+    "name": "Veg & Palak Kuzhambu (1 serving)",
+    "cal": 353
+  },
+  {
+    "name": "Onion & Mushroom Chapati (1 serving)",
+    "cal": 384
+  },
+  {
+    "name": "Dindigul Chettinad Fried Rice (1 serving)",
+    "cal": 207
+  },
+  {
+    "name": "Aloo & Crab Rice (1 serving)",
+    "cal": 450
+  },
+  {
+    "name": "Cheese & Podi Kuzhambu (1 serving)",
+    "cal": 528
+  },
+  {
+    "name": "Aloo & Chettinad Dosa (1 serving)",
+    "cal": 484
+  },
+  {
+    "name": "Spicy Podi Noodles (1 serving)",
+    "cal": 513
+  },
+  {
+    "name": "Special Pepper Curry (1 serving)",
+    "cal": 475
+  },
+  {
+    "name": "Paneer & Mutton Tikka (1 serving)",
+    "cal": 356
+  },
+  {
+    "name": "Veg & Onion Curry (1 serving)",
+    "cal": 582
+  },
+  {
+    "name": "Podi & Kadai Manchurian (1 serving)",
+    "cal": 397
+  },
+  {
+    "name": "Madurai Veg Parotta (1 serving)",
+    "cal": 481
+  },
+  {
+    "name": "Tomato & Mixed Tikka (1 serving)",
+    "cal": 552
+  },
+  {
+    "name": "Podi & Crab Manchurian (1 serving)",
+    "cal": 479
+  },
+  {
+    "name": "Dindigul Butter Noodles (1 serving)",
+    "cal": 441
+  },
+  {
+    "name": "Hyderabadi Onion Kothu (1 serving)",
+    "cal": 235
+  },
+  {
+    "name": "Punjabi Ghee 65 (1 serving)",
+    "cal": 453
+  },
+  {
+    "name": "Special Podi Chapati (1 serving)",
+    "cal": 258
+  },
+  {
+    "name": "Homestyle Mutton 65 (1 serving)",
+    "cal": 591
+  },
+  {
+    "name": "Cheese & Kadai Chapati (1 serving)",
+    "cal": 450
+  },
+  {
+    "name": "Tomato & Gobi Biryani (1 serving)",
+    "cal": 242
+  },
+  {
+    "name": "Veg & Kadai Curry (1 serving)",
+    "cal": 392
+  },
+  {
+    "name": "Ambur Fish Parotta (1 serving)",
+    "cal": 390
+  },
+  {
+    "name": "Pepper & Aloo Biryani (1 serving)",
+    "cal": 439
+  },
+  {
+    "name": "Ghee & Aloo Curry (1 serving)",
+    "cal": 406
+  },
+  {
+    "name": "Punjabi Onion Kothu (1 serving)",
+    "cal": 445
+  },
+  {
+    "name": "Tandoori Ghee Roti (1 serving)",
+    "cal": 503
+  },
+  {
+    "name": "Gobi & Veg Roti (1 serving)",
+    "cal": 385
+  },
+  {
+    "name": "Special Mushroom Noodles (1 serving)",
+    "cal": 245
+  },
+  {
+    "name": "Homestyle Lemon Roast (1 serving)",
+    "cal": 303
+  },
+  {
+    "name": "Kadai & Cheese Kothu (1 serving)",
+    "cal": 243
+  },
+  {
+    "name": "Tomato & Crab Fried Rice (1 serving)",
+    "cal": 548
+  },
+  {
+    "name": "Madurai Mutton Naan (1 serving)",
+    "cal": 500
+  },
+  {
+    "name": "Crab & Ghee Idli (1 serving)",
+    "cal": 235
+  },
+  {
+    "name": "Tamarind & Veg Biryani (1 serving)",
+    "cal": 380
+  },
+  {
+    "name": "Dindigul Paneer Curry (1 serving)",
+    "cal": 233
+  },
+  {
+    "name": "Hyderabadi Onion Manchurian (1 serving)",
+    "cal": 245
+  },
+  {
+    "name": "Punjabi Butter Rice (1 serving)",
+    "cal": 448
+  },
+  {
+    "name": "Kadai & Tomato Noodles (1 serving)",
+    "cal": 511
+  },
+  {
+    "name": "Spicy Tomato Idli (1 serving)",
+    "cal": 351
+  },
+  {
+    "name": "Homestyle Ghee Masala (1 serving)",
+    "cal": 293
+  },
+  {
+    "name": "Restaurant Style Onion Kuzhambu (1 serving)",
+    "cal": 569
+  },
+  {
+    "name": "Kerala Style Crab Fry (1 serving)",
+    "cal": 315
+  },
+  {
+    "name": "Palak & Mutton Curry (1 serving)",
+    "cal": 301
+  },
+  {
+    "name": "Ambur Egg Noodles (1 serving)",
+    "cal": 467
+  },
+  {
+    "name": "Pepper & Butter Noodles (1 serving)",
+    "cal": 586
+  },
+  {
+    "name": "Garlic & Lemon Noodles (1 serving)",
+    "cal": 372
+  },
+  {
+    "name": "Cheese & Tomato Rice (1 serving)",
+    "cal": 434
+  },
+  {
+    "name": "Fish & Podi Chapati (1 serving)",
+    "cal": 311
+  },
+  {
+    "name": "Spicy Gobi Chapati (1 serving)",
+    "cal": 501
+  },
+  {
+    "name": "Special Chettinad Fried Rice (1 serving)",
+    "cal": 554
+  },
+  {
+    "name": "Homestyle Gobi Roti (1 serving)",
+    "cal": 340
+  },
+  {
+    "name": "Gobi & Tamarind Idli (1 serving)",
+    "cal": 592
+  },
+  {
+    "name": "Andhra Style Ghee Tikka (1 serving)",
+    "cal": 374
+  },
+  {
+    "name": "Kerala Style Mushroom Fried Rice (1 serving)",
+    "cal": 274
+  },
+  {
+    "name": "Madurai Lemon Naan (1 serving)",
+    "cal": 222
+  },
+  {
+    "name": "Kongunadu Palak Roast (1 serving)",
+    "cal": 252
+  },
+  {
+    "name": "Ambur Garlic 65 (1 serving)",
+    "cal": 381
+  },
+  {
+    "name": "Dindigul Ghee Kothu (1 serving)",
+    "cal": 314
+  },
+  {
+    "name": "Hyderabadi Lemon Fried Rice (1 serving)",
+    "cal": 596
+  },
+  {
+    "name": "Punjabi Tomato Chapati (1 serving)",
+    "cal": 363
+  },
+  {
+    "name": "Tandoori Palak Tikka (1 serving)",
+    "cal": 566
+  },
+  {
+    "name": "Spicy Fish Kuzhambu (1 serving)",
+    "cal": 473
+  },
+  {
+    "name": "Chicken & Egg Dosa (1 serving)",
+    "cal": 367
+  },
+  {
+    "name": "Homestyle Veg Idli (1 serving)",
+    "cal": 251
+  },
+  {
+    "name": "Restaurant Style Lemon Kothu (1 serving)",
+    "cal": 543
+  },
+  {
+    "name": "Tamarind & Onion Manchurian (1 serving)",
+    "cal": 360
+  },
+  {
+    "name": "Tamarind & Gobi Dosa (1 serving)",
+    "cal": 417
+  },
+  {
+    "name": "Madurai Podi Fried Rice (1 serving)",
+    "cal": 470
+  },
+  {
+    "name": "Kongunadu Gobi Tikka (1 serving)",
+    "cal": 396
+  },
+  {
+    "name": "Garlic & Gobi Kothu (1 serving)",
+    "cal": 346
+  },
+  {
+    "name": "Dindigul Ghee Fried Rice (1 serving)",
+    "cal": 571
+  },
+  {
+    "name": "Hyderabadi Garlic Manchurian (1 serving)",
+    "cal": 394
+  },
+  {
+    "name": "Tomato & Kadai 65 (1 serving)",
+    "cal": 302
+  },
+  {
+    "name": "Tandoori Crab Roti (1 serving)",
+    "cal": 251
+  },
+  {
+    "name": "Onion & Mutton Tikka (1 serving)",
+    "cal": 218
+  },
+  {
+    "name": "Mixed & Butter Kothu (1 serving)",
+    "cal": 389
+  },
+  {
+    "name": "Podi & Lemon Masala (1 serving)",
+    "cal": 298
+  },
+  {
+    "name": "Prawn & Fish Masala (1 serving)",
+    "cal": 523
+  },
+  {
+    "name": "Kongunadu Egg Noodles (1 serving)",
+    "cal": 524
+  },
+  {
+    "name": "Aloo & Garlic Fry (1 serving)",
+    "cal": 403
+  },
+  {
+    "name": "Chicken & Chicken Tikka (1 serving)",
+    "cal": 518
+  },
+  {
+    "name": "Tandoori Tomato Noodles (1 serving)",
+    "cal": 422
+  },
+  {
+    "name": "Spicy Mutton Fry (1 serving)",
+    "cal": 303
+  },
+  {
+    "name": "Special Cheese Tikka (1 serving)",
+    "cal": 372
+  },
+  {
+    "name": "Homestyle Paneer Idli (1 serving)",
+    "cal": 554
+  },
+  {
+    "name": "Pepper & Egg Kuzhambu (1 serving)",
+    "cal": 272
+  },
+  {
+    "name": "Andhra Style Egg Idli (1 serving)",
+    "cal": 232
+  },
+  {
+    "name": "Kerala Style Tomato Kothu (1 serving)",
+    "cal": 323
+  },
+  {
+    "name": "Madurai Paneer Parotta (1 serving)",
+    "cal": 538
+  },
+  {
+    "name": "Butter & Palak Curry (1 serving)",
+    "cal": 222
+  },
+  {
+    "name": "Prawn & Crab Dosa (1 serving)",
+    "cal": 409
+  },
+  {
+    "name": "Fish & Crab Masala (1 serving)",
+    "cal": 268
+  },
+  {
+    "name": "Hyderabadi Paneer Tikka (1 serving)",
+    "cal": 232
+  },
+  {
+    "name": "Punjabi Aloo Noodles (1 serving)",
+    "cal": 257
+  },
+  {
+    "name": "Tandoori Egg Dosa (1 serving)",
+    "cal": 311
+  },
+  {
+    "name": "Aloo & Chettinad Idli (1 serving)",
+    "cal": 595
+  },
+  {
+    "name": "Veg & Kadai Fry (1 serving)",
+    "cal": 598
+  },
+  {
+    "name": "Andhra Style Cheese Kuzhambu (1 serving)",
+    "cal": 292
+  },
+  {
+    "name": "Kerala Style Cheese Dosa (1 serving)",
+    "cal": 251
+  },
+  {
+    "name": "Madurai Prawn Roast (1 serving)",
+    "cal": 367
+  },
+  {
+    "name": "Kongunadu Crab Kothu (1 serving)",
+    "cal": 344
+  },
+  {
+    "name": "Ambur Tomato Tikka (1 serving)",
+    "cal": 211
+  },
+  {
+    "name": "Aloo & Butter Kothu (1 serving)",
+    "cal": 467
+  },
+  {
+    "name": "Hyderabadi Lemon Roast (1 serving)",
+    "cal": 262
+  },
+  {
+    "name": "Punjabi Pepper Biryani (1 serving)",
+    "cal": 222
+  },
+  {
+    "name": "Kadai & Egg Naan (1 serving)",
+    "cal": 344
+  },
+  {
+    "name": "Aloo & Mixed Noodles (1 serving)",
+    "cal": 386
+  },
+  {
+    "name": "Tamarind & Mutton Naan (1 serving)",
+    "cal": 444
+  },
+  {
+    "name": "Homestyle Butter Curry (1 serving)",
+    "cal": 293
+  },
+  {
+    "name": "Palak & Chicken Curry (1 serving)",
+    "cal": 233
+  },
+  {
+    "name": "Mushroom & Mixed Noodles (1 serving)",
+    "cal": 435
+  },
+  {
+    "name": "Kerala Style Kadai Rice (1 serving)",
+    "cal": 378
+  },
+  {
+    "name": "Madurai Veg Noodles (1 serving)",
+    "cal": 522
+  },
+  {
+    "name": "Kongunadu Gobi Biryani (1 serving)",
+    "cal": 392
+  },
+  {
+    "name": "Garlic & Veg Fry (1 serving)",
+    "cal": 378
+  },
+  {
+    "name": "Kadai & Mixed Roti (1 serving)",
+    "cal": 521
+  },
+  {
+    "name": "Hyderabadi Chettinad Noodles (1 serving)",
+    "cal": 317
+  },
+  {
+    "name": "Egg & Podi Fry (1 serving)",
+    "cal": 447
+  },
+  {
+    "name": "Tandoori Pepper Masala (1 serving)",
+    "cal": 264
+  },
+  {
+    "name": "Mushroom & Mutton Noodles (1 serving)",
+    "cal": 309
+  },
+  {
+    "name": "Special Tomato Manchurian (1 serving)",
+    "cal": 593
+  },
+  {
+    "name": "Aloo & Chettinad Biryani (1 serving)",
+    "cal": 398
+  },
+  {
+    "name": "Restaurant Style Egg Roti (1 serving)",
+    "cal": 437
+  },
+  {
+    "name": "Andhra Style Prawn Idli (1 serving)",
+    "cal": 337
+  },
+  {
+    "name": "Mushroom & Paneer 65 (1 serving)",
+    "cal": 588
+  },
+  {
+    "name": "Cheese & Ghee Chilli (1 serving)",
+    "cal": 597
+  },
+  {
+    "name": "Kongunadu Aloo Rice (1 serving)",
+    "cal": 271
+  },
+  {
+    "name": "Ambur Cheese Idli (1 serving)",
+    "cal": 359
+  },
+  {
+    "name": "Dindigul Palak Tikka (1 serving)",
+    "cal": 209
+  },
+  {
+    "name": "Onion & Chicken Tikka (1 serving)",
+    "cal": 412
+  },
+  {
+    "name": "Tandoori Veg Roast (1 serving)",
+    "cal": 350
+  },
+  {
+    "name": "Spicy Prawn Roast (1 serving)",
+    "cal": 484
+  },
+  {
+    "name": "Chettinad & Gobi Roti (1 serving)",
+    "cal": 427
+  },
+  {
+    "name": "Homestyle Lemon Chapati (1 serving)",
+    "cal": 560
+  },
+  {
+    "name": "Restaurant Style Mixed Dosa (1 serving)",
+    "cal": 220
+  },
+  {
+    "name": "Palak & Chicken Masala (1 serving)",
+    "cal": 326
+  },
+  {
+    "name": "Kerala Style Kadai Fried Rice (1 serving)",
+    "cal": 312
+  },
+  {
+    "name": "Aloo & Ghee Biryani (1 serving)",
+    "cal": 568
+  },
+  {
+    "name": "Kongunadu Tamarind Naan (1 serving)",
+    "cal": 559
+  },
+  {
+    "name": "Ambur Prawn Naan (1 serving)",
+    "cal": 434
+  },
+  {
+    "name": "Chicken & Egg Idli (1 serving)",
+    "cal": 299
+  },
+  {
+    "name": "Hyderabadi Paneer Manchurian (1 serving)",
+    "cal": 492
+  },
+  {
+    "name": "Punjabi Gobi Parotta (1 serving)",
+    "cal": 530
+  },
+  {
+    "name": "Tandoori Aloo Biryani (1 serving)",
+    "cal": 492
+  },
+  {
+    "name": "Gobi & Podi Fried Rice (1 serving)",
+    "cal": 534
+  },
+  {
+    "name": "Special Mutton Curry (1 serving)",
+    "cal": 325
+  },
+  {
+    "name": "Ghee & Prawn Dosa (1 serving)",
+    "cal": 393
+  },
+  {
+    "name": "Restaurant Style Onion Kothu (1 serving)",
+    "cal": 233
+  },
+  {
+    "name": "Andhra Style Crab Chilli (1 serving)",
+    "cal": 447
+  },
+  {
+    "name": "Crab & Fish Curry (1 serving)",
+    "cal": 327
+  },
+  {
+    "name": "Madurai Fish Chapati (1 serving)",
+    "cal": 346
+  },
+  {
+    "name": "Kongunadu Chettinad Kuzhambu (1 serving)",
+    "cal": 456
+  },
+  {
+    "name": "Garlic & Paneer Masala (1 serving)",
+    "cal": 590
+  },
+  {
+    "name": "Dindigul Chettinad Idli (1 serving)",
+    "cal": 599
+  },
+  {
+    "name": "Pepper & Veg Noodles (1 serving)",
+    "cal": 320
+  },
+  {
+    "name": "Pepper & Crab Curry (1 serving)",
+    "cal": 491
+  },
+  {
+    "name": "Chettinad & Ghee Kuzhambu (1 serving)",
+    "cal": 504
+  },
+  {
+    "name": "Special Podi 65 (1 serving)",
+    "cal": 292
+  },
+  {
+    "name": "Pepper & Egg Tikka (1 serving)",
+    "cal": 449
+  },
+  {
+    "name": "Restaurant Style Tamarind Biryani (1 serving)",
+    "cal": 280
+  },
+  {
+    "name": "Andhra Style Cheese Naan (1 serving)",
+    "cal": 468
+  },
+  {
+    "name": "Kerala Style Veg Parotta (1 serving)",
+    "cal": 485
+  },
+  {
+    "name": "Madurai Butter Masala (1 serving)",
+    "cal": 425
+  },
+  {
+    "name": "Veg & Butter Chilli (1 serving)",
+    "cal": 268
+  },
+  {
+    "name": "Ambur Ghee Manchurian (1 serving)",
+    "cal": 303
+  },
+  {
+    "name": "Dindigul Palak Roti (1 serving)",
+    "cal": 497
+  },
+  {
+    "name": "Hyderabadi Chicken Biryani (1 serving)",
+    "cal": 278
+  },
+  {
+    "name": "Punjabi Butter Fry (1 serving)",
+    "cal": 479
+  },
+  {
+    "name": "Gobi & Kadai Masala (1 serving)",
+    "cal": 256
+  },
+  {
+    "name": "Spicy Tamarind Fried Rice (1 serving)",
+    "cal": 352
+  },
+  {
+    "name": "Crab & Chettinad Fried Rice (1 serving)",
+    "cal": 561
+  },
+  {
+    "name": "Homestyle Garlic Curry (1 serving)",
+    "cal": 569
+  },
+  {
+    "name": "Gobi & Paneer Curry (1 serving)",
+    "cal": 538
+  },
+  {
+    "name": "Gobi & Aloo Chilli (1 serving)",
+    "cal": 402
+  },
+  {
+    "name": "Onion & Kadai Naan (1 serving)",
+    "cal": 270
+  },
+  {
+    "name": "Paneer & Tomato Chapati (1 serving)",
+    "cal": 590
+  },
+  {
+    "name": "Ambur Tomato Roti (1 serving)",
+    "cal": 290
+  },
+  {
+    "name": "Dindigul Onion Masala (1 serving)",
+    "cal": 268
+  },
+  {
+    "name": "Hyderabadi Lemon Kothu (1 serving)",
+    "cal": 585
+  },
+  {
+    "name": "Punjabi Mushroom Noodles (1 serving)",
+    "cal": 545
+  },
+  {
+    "name": "Veg & Fish Parotta (1 serving)",
+    "cal": 573
+  },
+  {
+    "name": "Spicy Chettinad 65 (1 serving)",
+    "cal": 322
+  },
+  {
+    "name": "Special Tamarind Manchurian (1 serving)",
+    "cal": 297
+  },
+  {
+    "name": "Butter & Mushroom Curry (1 serving)",
+    "cal": 493
+  },
+  {
+    "name": "Onion & Lemon Chilli (1 serving)",
+    "cal": 429
+  },
+  {
+    "name": "Palak & Tomato Biryani (1 serving)",
+    "cal": 341
+  },
+  {
+    "name": "Egg & Mushroom Naan (1 serving)",
+    "cal": 459
+  },
+  {
+    "name": "Madurai Veg Fry (1 serving)",
+    "cal": 548
+  },
+  {
+    "name": "Kongunadu Garlic Curry (1 serving)",
+    "cal": 571
+  },
+  {
+    "name": "Mushroom & Paneer Rice (1 serving)",
+    "cal": 254
+  },
+  {
+    "name": "Pepper & Chettinad Kothu (1 serving)",
+    "cal": 463
+  },
+  {
+    "name": "Hyderabadi Mutton Kothu (1 serving)",
+    "cal": 516
+  },
+  {
+    "name": "Punjabi Tamarind Parotta (1 serving)",
+    "cal": 347
+  },
+  {
+    "name": "Tandoori Tomato 65 (1 serving)",
+    "cal": 415
+  },
+  {
+    "name": "Spicy Egg Manchurian (1 serving)",
+    "cal": 320
+  },
+  {
+    "name": "Mixed & Ghee Biryani (1 serving)",
+    "cal": 383
+  },
+  {
+    "name": "Homestyle Gobi Idli (1 serving)",
+    "cal": 429
+  },
+  {
+    "name": "Restaurant Style Ghee Tikka (1 serving)",
+    "cal": 382
+  },
+  {
+    "name": "Tamarind & Chicken Chilli (1 serving)",
+    "cal": 559
+  },
+  {
+    "name": "Kerala Style Lemon Fry (1 serving)",
+    "cal": 344
+  },
+  {
+    "name": "Veg & Mushroom Chilli (1 serving)",
+    "cal": 383
+  },
+  {
+    "name": "Kongunadu Fish Roti (1 serving)",
+    "cal": 411
+  },
+  {
+    "name": "Chettinad & Gobi Fry (1 serving)",
+    "cal": 470
+  },
+  {
+    "name": "Podi & Ghee Chilli (1 serving)",
+    "cal": 457
+  },
+  {
+    "name": "Onion & Ghee Roast (1 serving)",
+    "cal": 293
+  },
+  {
+    "name": "Tandoori Cheese Curry (1 serving)",
+    "cal": 376
+  },
+  {
+    "name": "Special Chettinad Parotta (1 serving)",
+    "cal": 397
+  },
+  {
+    "name": "Pepper & Tamarind Manchurian (1 serving)",
+    "cal": 540
+  },
+  {
+    "name": "Restaurant Style Veg Curry (1 serving)",
+    "cal": 436
+  },
+  {
+    "name": "Onion & Fish Kuzhambu (1 serving)",
+    "cal": 340
+  },
+  {
+    "name": "Chettinad & Ghee Biryani (1 serving)",
+    "cal": 500
+  },
+  {
+    "name": "Butter & Mixed Kothu (1 serving)",
+    "cal": 264
+  },
+  {
+    "name": "Veg & Aloo Tikka (1 serving)",
+    "cal": 372
+  },
+  {
+    "name": "Tomato & Fish Fried Rice (1 serving)",
+    "cal": 384
+  },
+  {
+    "name": "Punjabi Fish Chilli (1 serving)",
+    "cal": 275
+  },
+  {
+    "name": "Veg & Veg Masala (1 serving)",
+    "cal": 426
+  },
+  {
+    "name": "Ghee & Fish Idli (1 serving)",
+    "cal": 355
+  },
+  {
+    "name": "Special Cheese Noodles (1 serving)",
+    "cal": 406
+  },
+  {
+    "name": "Homestyle Cheese Idli (1 serving)",
+    "cal": 344
+  },
+  {
+    "name": "Restaurant Style Kadai Rice (1 serving)",
+    "cal": 338
+  },
+  {
+    "name": "Andhra Style Veg Roast (1 serving)",
+    "cal": 217
+  },
+  {
+    "name": "Kerala Style Aloo Fried Rice (1 serving)",
+    "cal": 340
+  },
+  {
+    "name": "Madurai Palak Chapati (1 serving)",
+    "cal": 491
+  },
+  {
+    "name": "Kongunadu Pepper Kuzhambu (1 serving)",
+    "cal": 279
+  },
+  {
+    "name": "Mutton & Chettinad Chapati (1 serving)",
+    "cal": 299
+  },
+  {
+    "name": "Onion & Tomato Idli (1 serving)",
+    "cal": 578
+  },
+  {
+    "name": "Butter & Fish Idli (1 serving)",
+    "cal": 563
+  },
+  {
+    "name": "Spicy Chettinad Noodles (1 serving)",
+    "cal": 539
+  },
+  {
+    "name": "Special Chicken Kuzhambu (1 serving)",
+    "cal": 573
+  },
+  {
+    "name": "Kadai & Crab Dosa (1 serving)",
+    "cal": 408
+  },
+  {
+    "name": "Restaurant Style Podi Chapati (1 serving)",
+    "cal": 424
+  },
+  {
+    "name": "Butter & Fish Roast (1 serving)",
+    "cal": 366
+  },
+  {
+    "name": "Kerala Style Mixed Fry (1 serving)",
+    "cal": 590
+  },
+  {
+    "name": "Prawn & Veg Fried Rice (1 serving)",
+    "cal": 558
+  },
+  {
+    "name": "Cheese & Chettinad Roast (1 serving)",
+    "cal": 506
+  },
+  {
+    "name": "Ambur Kadai Roast (1 serving)",
+    "cal": 344
+  },
+  {
+    "name": "Garlic & Veg Idli (1 serving)",
+    "cal": 578
+  },
+  {
+    "name": "Chicken & Tamarind Noodles (1 serving)",
+    "cal": 386
+  },
+  {
+    "name": "Punjabi Tamarind Curry (1 serving)",
+    "cal": 421
+  },
+  {
+    "name": "Tandoori Ghee Biryani (1 serving)",
+    "cal": 486
+  },
+  {
+    "name": "Spicy Palak Masala (1 serving)",
+    "cal": 213
+  },
+  {
+    "name": "Special Ghee Idli (1 serving)",
+    "cal": 594
+  },
+  {
+    "name": "Homestyle Egg Idli (1 serving)",
+    "cal": 590
+  },
+  {
+    "name": "Gobi & Cheese Tikka (1 serving)",
+    "cal": 481
+  },
+  {
+    "name": "Andhra Style Aloo Curry (1 serving)",
+    "cal": 550
+  },
+  {
+    "name": "Kerala Style Mutton Biryani (1 serving)",
+    "cal": 573
+  },
+  {
+    "name": "Madurai Podi Dosa (1 serving)",
+    "cal": 259
+  },
+  {
+    "name": "Ambur Lemon Noodles (1 serving)",
+    "cal": 251
+  },
+  {
+    "name": "Dindigul Lemon Kuzhambu (1 serving)",
+    "cal": 407
+  },
+  {
+    "name": "Mixed & Egg 65 (1 serving)",
+    "cal": 233
+  },
+  {
+    "name": "Paneer & Veg 65 (1 serving)",
+    "cal": 548
+  },
+  {
+    "name": "Tandoori Chicken Kothu (1 serving)",
+    "cal": 271
+  },
+  {
+    "name": "Mutton & Chicken Kuzhambu (1 serving)",
+    "cal": 494
+  },
+  {
+    "name": "Paneer & Palak Masala (1 serving)",
+    "cal": 466
+  },
+  {
+    "name": "Lemon & Gobi Roti (1 serving)",
+    "cal": 213
+  },
+  {
+    "name": "Restaurant Style Cheese Dosa (1 serving)",
+    "cal": 238
+  },
+  {
+    "name": "Andhra Style Podi Manchurian (1 serving)",
+    "cal": 445
+  },
+  {
+    "name": "Kongunadu Veg Chapati (1 serving)",
+    "cal": 325
+  },
+  {
+    "name": "Gobi & Aloo 65 (1 serving)",
+    "cal": 429
+  },
+  {
+    "name": "Hyderabadi Pepper Kothu (1 serving)",
+    "cal": 278
+  },
+  {
+    "name": "Punjabi Tamarind 65 (1 serving)",
+    "cal": 513
+  },
+  {
+    "name": "Tandoori Crab Parotta (1 serving)",
+    "cal": 511
+  },
+  {
+    "name": "Special Crab Fry (1 serving)",
+    "cal": 342
+  },
+  {
+    "name": "Homestyle Egg Kuzhambu (1 serving)",
+    "cal": 350
+  },
+  {
+    "name": "Pepper & Onion Masala (1 serving)",
+    "cal": 513
+  },
+  {
+    "name": "Andhra Style Prawn Chapati (1 serving)",
+    "cal": 270
+  },
+  {
+    "name": "Kerala Style Aloo Tikka (1 serving)",
+    "cal": 297
+  },
+  {
+    "name": "Butter & Aloo Masala (1 serving)",
+    "cal": 288
+  },
+  {
+    "name": "Prawn & Chettinad Parotta (1 serving)",
+    "cal": 487
+  },
+  {
+    "name": "Ambur Onion Dosa (1 serving)",
+    "cal": 276
+  },
+  {
+    "name": "Pepper & Prawn Fry (1 serving)",
+    "cal": 533
+  },
+  {
+    "name": "Hyderabadi Podi Fried Rice (1 serving)",
+    "cal": 305
+  },
+  {
+    "name": "Kadai & Aloo Parotta (1 serving)",
+    "cal": 253
+  },
+  {
+    "name": "Onion & Paneer Chapati (1 serving)",
+    "cal": 334
+  },
+  {
+    "name": "Special Mixed Fried Rice (1 serving)",
+    "cal": 375
+  },
+  {
+    "name": "Homestyle Mixed Idli (1 serving)",
+    "cal": 224
+  },
+  {
+    "name": "Ghee & Onion Chilli (1 serving)",
+    "cal": 550
+  },
+  {
+    "name": "Podi & Chettinad Idli (1 serving)",
+    "cal": 559
+  },
+  {
+    "name": "Madurai Paneer Kothu (1 serving)",
+    "cal": 425
+  },
+  {
+    "name": "Kongunadu Paneer Kothu (1 serving)",
+    "cal": 406
+  },
+  {
+    "name": "Lemon & Mushroom Manchurian (1 serving)",
+    "cal": 446
+  },
+  {
+    "name": "Dindigul Mushroom Fry (1 serving)",
+    "cal": 538
+  },
+  {
+    "name": "Mushroom & Butter Kothu (1 serving)",
+    "cal": 527
+  },
+  {
+    "name": "Mushroom & Fish Rice (1 serving)",
+    "cal": 328
+  },
+  {
+    "name": "Lemon & Palak Chapati (1 serving)",
+    "cal": 289
+  },
+  {
+    "name": "Lemon & Onion Dosa (1 serving)",
+    "cal": 240
+  },
+  {
+    "name": "Homestyle Pepper Chapati (1 serving)",
+    "cal": 326
+  },
+  {
+    "name": "Onion & Egg Dosa (1 serving)",
+    "cal": 568
+  },
+  {
+    "name": "Tamarind & Palak Roast (1 serving)",
+    "cal": 243
+  },
+  {
+    "name": "Madurai Crab Fried Rice (1 serving)",
+    "cal": 398
+  },
+  {
+    "name": "Kongunadu Tamarind Curry (1 serving)",
+    "cal": 430
+  },
+  {
+    "name": "Ambur Kadai Parotta (1 serving)",
+    "cal": 383
+  },
+  {
+    "name": "Tomato & Chicken Roti (1 serving)",
+    "cal": 566
+  },
+  {
+    "name": "Chettinad & Fish 65 (1 serving)",
+    "cal": 529
+  },
+  {
+    "name": "Spicy Garlic Rice (1 serving)",
+    "cal": 596
+  },
+  {
+    "name": "Cheese & Chicken Roti (1 serving)",
+    "cal": 244
+  },
+  {
+    "name": "Homestyle Egg Kothu (1 serving)",
+    "cal": 240
+  },
+  {
+    "name": "Restaurant Style Tamarind Roast (1 serving)",
+    "cal": 525
+  },
+  {
+    "name": "Andhra Style Kadai Kothu (1 serving)",
+    "cal": 521
+  },
+  {
+    "name": "Tamarind & Butter Parotta (1 serving)",
+    "cal": 430
+  },
+  {
+    "name": "Chettinad & Chettinad Rice (1 serving)",
+    "cal": 233
+  },
+  {
+    "name": "Kongunadu Tamarind Kuzhambu (1 serving)",
+    "cal": 203
+  },
+  {
+    "name": "Ambur Pepper Kuzhambu (1 serving)",
+    "cal": 495
+  },
+  {
+    "name": "Dindigul Pepper Roast (1 serving)",
+    "cal": 538
+  },
+  {
+    "name": "Hyderabadi Chettinad 65 (1 serving)",
+    "cal": 454
+  },
+  {
+    "name": "Punjabi Podi Roti (1 serving)",
+    "cal": 498
+  },
+  {
+    "name": "Tandoori Cheese Parotta (1 serving)",
+    "cal": 526
+  },
+  {
+    "name": "Garlic & Tamarind Chilli (1 serving)",
+    "cal": 309
+  },
+  {
+    "name": "Special Veg Manchurian (1 serving)",
+    "cal": 355
+  },
+  {
+    "name": "Homestyle Mushroom Dosa (1 serving)",
+    "cal": 366
+  },
+  {
+    "name": "Lemon & Mushroom Naan (1 serving)",
+    "cal": 491
+  },
+  {
+    "name": "Mushroom & Mixed Chilli (1 serving)",
+    "cal": 200
+  },
+  {
+    "name": "Kerala Style Fish Dosa (1 serving)",
+    "cal": 258
+  },
+  {
+    "name": "Podi & Crab Dosa (1 serving)",
+    "cal": 447
+  },
+  {
+    "name": "Tamarind & Chicken Curry (1 serving)",
+    "cal": 424
+  },
+  {
+    "name": "Ambur Butter 65 (1 serving)",
+    "cal": 586
+  },
+  {
+    "name": "Hyderabadi Tomato Fry (1 serving)",
+    "cal": 524
+  },
+  {
+    "name": "Egg & Egg Kuzhambu (1 serving)",
+    "cal": 426
+  },
+  {
+    "name": "Special Chicken Masala (1 serving)",
+    "cal": 441
+  },
+  {
+    "name": "Homestyle Tamarind Roti (1 serving)",
+    "cal": 525
+  },
+  {
+    "name": "Restaurant Style Crab Chapati (1 serving)",
+    "cal": 396
+  },
+  {
+    "name": "Kerala Style Tomato Idli (1 serving)",
+    "cal": 303
+  },
+  {
+    "name": "Madurai Ghee Dosa (1 serving)",
+    "cal": 481
+  },
+  {
+    "name": "Pepper & Ghee Tikka (1 serving)",
+    "cal": 447
+  },
+  {
+    "name": "Kadai & Ghee Manchurian (1 serving)",
+    "cal": 495
+  },
+  {
+    "name": "Dindigul Aloo Tikka (1 serving)",
+    "cal": 337
+  },
+  {
+    "name": "Palak & Tamarind Parotta (1 serving)",
+    "cal": 265
+  },
+  {
+    "name": "Punjabi Podi Roast (1 serving)",
+    "cal": 387
+  },
+  {
+    "name": "Mutton & Veg Naan (1 serving)",
+    "cal": 491
+  },
+  {
+    "name": "Chicken & Tomato Dosa (1 serving)",
+    "cal": 499
+  },
+  {
+    "name": "Special Podi Kuzhambu (1 serving)",
+    "cal": 328
+  },
+  {
+    "name": "Homestyle Prawn Dosa (1 serving)",
+    "cal": 314
+  },
+  {
+    "name": "Chicken & Podi Curry (1 serving)",
+    "cal": 577
+  },
+  {
+    "name": "Andhra Style Aloo 65 (1 serving)",
+    "cal": 448
+  },
+  {
+    "name": "Kerala Style Onion Parotta (1 serving)",
+    "cal": 516
+  },
+  {
+    "name": "Mixed & Veg Chapati (1 serving)",
+    "cal": 519
+  },
+  {
+    "name": "Kongunadu Mixed Chilli (1 serving)",
+    "cal": 464
+  },
+  {
+    "name": "Paneer & Fish Parotta (1 serving)",
+    "cal": 590
+  },
+  {
+    "name": "Dindigul Veg Kothu (1 serving)",
+    "cal": 585
+  },
+  {
+    "name": "Hyderabadi Fish Biryani (1 serving)",
+    "cal": 298
+  },
+  {
+    "name": "Tandoori Lemon Naan (1 serving)",
+    "cal": 322
+  },
+  {
+    "name": "Spicy Egg Masala (1 serving)",
+    "cal": 235
+  },
+  {
+    "name": "Special Onion Manchurian (1 serving)",
+    "cal": 551
+  },
+  {
+    "name": "Andhra Style Mixed Manchurian (1 serving)",
+    "cal": 311
+  },
+  {
+    "name": "Kerala Style Fish Kothu (1 serving)",
+    "cal": 208
+  },
+  {
+    "name": "Madurai Mutton Dosa (1 serving)",
+    "cal": 266
+  },
+  {
+    "name": "Butter & Veg Roast (1 serving)",
+    "cal": 504
+  },
+  {
+    "name": "Ambur Crab Tikka (1 serving)",
+    "cal": 452
+  },
+  {
+    "name": "Kadai & Prawn Roast (1 serving)",
+    "cal": 340
+  },
+  {
+    "name": "Hyderabadi Tamarind Fried Rice (1 serving)",
+    "cal": 361
+  },
+  {
+    "name": "Tamarind & Lemon Parotta (1 serving)",
+    "cal": 454
+  },
+  {
+    "name": "Spicy Garlic Fried Rice (1 serving)",
+    "cal": 566
+  },
+  {
+    "name": "Special Tomato Chapati (1 serving)",
+    "cal": 252
+  },
+  {
+    "name": "Homestyle Chettinad Kuzhambu (1 serving)",
+    "cal": 583
+  },
+  {
+    "name": "Restaurant Style Palak Dosa (1 serving)",
+    "cal": 483
+  },
+  {
+    "name": "Andhra Style Pepper Chilli (1 serving)",
+    "cal": 347
+  },
+  {
+    "name": "Kerala Style Ghee Roti (1 serving)",
+    "cal": 483
+  },
+  {
+    "name": "Ghee & Prawn Parotta (1 serving)",
+    "cal": 512
+  },
+  {
+    "name": "Dindigul Aloo 65 (1 serving)",
+    "cal": 302
+  },
+  {
+    "name": "Tomato & Kadai Fried Rice (1 serving)",
+    "cal": 380
+  },
+  {
+    "name": "Tomato & Mushroom 65 (1 serving)",
+    "cal": 251
+  },
+  {
+    "name": "Chicken & Gobi Naan (1 serving)",
+    "cal": 252
+  },
+  {
+    "name": "Aloo & Cheese Dosa (1 serving)",
+    "cal": 450
+  },
+  {
+    "name": "Homestyle Tamarind Rice (1 serving)",
+    "cal": 271
+  },
+  {
+    "name": "Ghee & Prawn Idli (1 serving)",
+    "cal": 321
+  },
+  {
+    "name": "Andhra Style Palak Fried Rice (1 serving)",
+    "cal": 525
+  },
+  {
+    "name": "Kerala Style Aloo Dosa (1 serving)",
+    "cal": 593
+  },
+  {
+    "name": "Ghee & Mixed Parotta (1 serving)",
+    "cal": 290
+  },
+  {
+    "name": "Ambur Tomato Chapati (1 serving)",
+    "cal": 201
+  },
+  {
+    "name": "Hyderabadi Veg Manchurian (1 serving)",
+    "cal": 490
+  },
+  {
+    "name": "Punjabi Tomato Tikka (1 serving)",
+    "cal": 336
+  },
+  {
+    "name": "Tandoori Prawn Biryani (1 serving)",
+    "cal": 302
+  },
+  {
+    "name": "Tomato & Mixed Roast (1 serving)",
+    "cal": 554
+  },
+  {
+    "name": "Aloo & Pepper 65 (1 serving)",
+    "cal": 234
+  },
+  {
+    "name": "Homestyle Paneer Parotta (1 serving)",
+    "cal": 488
+  },
+  {
+    "name": "Restaurant Style Palak 65 (1 serving)",
+    "cal": 388
+  },
+  {
+    "name": "Andhra Style Veg Naan (1 serving)",
+    "cal": 367
+  },
+  {
+    "name": "Kerala Style Podi Masala (1 serving)",
+    "cal": 374
+  },
+  {
+    "name": "Madurai Garlic Curry (1 serving)",
+    "cal": 463
+  },
+  {
+    "name": "Kongunadu Lemon Tikka (1 serving)",
+    "cal": 472
+  },
+  {
+    "name": "Ambur Butter Dosa (1 serving)",
+    "cal": 286
+  },
+  {
+    "name": "Dindigul Prawn Dosa (1 serving)",
+    "cal": 280
+  },
+  {
+    "name": "Mixed & Egg Rice (1 serving)",
+    "cal": 431
+  },
+  {
+    "name": "Mixed & Tamarind Fried Rice (1 serving)",
+    "cal": 518
+  },
+  {
+    "name": "Tandoori Gobi Naan (1 serving)",
+    "cal": 513
+  },
+  {
+    "name": "Spicy Prawn Chapati (1 serving)",
+    "cal": 530
+  },
+  {
+    "name": "Tomato & Mixed Rice (1 serving)",
+    "cal": 391
+  },
+  {
+    "name": "Pepper & Tomato Masala (1 serving)",
+    "cal": 205
+  },
+  {
+    "name": "Cheese & Prawn Fry (1 serving)",
+    "cal": 439
+  },
+  {
+    "name": "Egg & Veg Curry (1 serving)",
+    "cal": 475
+  },
+  {
+    "name": "Podi & Ghee Kothu (1 serving)",
+    "cal": 238
+  },
+  {
+    "name": "Kongunadu Ghee 65 (1 serving)",
+    "cal": 585
+  },
+  {
+    "name": "Ambur Pepper Masala (1 serving)",
+    "cal": 498
+  },
+  {
+    "name": "Dindigul Tomato Idli (1 serving)",
+    "cal": 329
+  },
+  {
+    "name": "Hyderabadi Palak Biryani (1 serving)",
+    "cal": 330
+  },
+  {
+    "name": "Punjabi Tamarind Chapati (1 serving)",
+    "cal": 372
+  },
+  {
+    "name": "Tandoori Chicken Fry (1 serving)",
+    "cal": 452
+  },
+  {
+    "name": "Chettinad & Egg Roti (1 serving)",
+    "cal": 293
+  },
+  {
+    "name": "Special Crab 65 (1 serving)",
+    "cal": 576
+  },
+  {
+    "name": "Onion & Cheese Parotta (1 serving)",
+    "cal": 418
+  },
+  {
+    "name": "Prawn & Veg Tikka (1 serving)",
+    "cal": 257
+  },
+  {
+    "name": "Kongunadu Chicken Fried Rice (1 serving)",
+    "cal": 250
+  },
+  {
+    "name": "Palak & Mutton Roast (1 serving)",
+    "cal": 530
+  },
+  {
+    "name": "Dindigul Mushroom Chilli (1 serving)",
+    "cal": 256
+  },
+  {
+    "name": "Hyderabadi Mushroom Roast (1 serving)",
+    "cal": 292
+  },
+  {
+    "name": "Punjabi Chettinad Fry (1 serving)",
+    "cal": 502
+  },
+  {
+    "name": "Podi & Tomato Fried Rice (1 serving)",
+    "cal": 403
+  },
+  {
+    "name": "Spicy Pepper Roti (1 serving)",
+    "cal": 316
+  },
+  {
+    "name": "Veg & Crab Curry (1 serving)",
+    "cal": 434
+  },
+  {
+    "name": "Crab & Paneer 65 (1 serving)",
+    "cal": 545
+  },
+  {
+    "name": "Palak & Egg Manchurian (1 serving)",
+    "cal": 294
+  },
+  {
+    "name": "Podi & Tamarind Tikka (1 serving)",
+    "cal": 512
+  },
+  {
+    "name": "Aloo & Prawn Kothu (1 serving)",
+    "cal": 410
+  },
+  {
+    "name": "Fish & Garlic Manchurian (1 serving)",
+    "cal": 407
+  },
+  {
+    "name": "Chettinad & Prawn Noodles (1 serving)",
+    "cal": 467
+  },
+  {
+    "name": "Ghee & Pepper Manchurian (1 serving)",
+    "cal": 278
+  },
+  {
+    "name": "Dindigul Lemon Chilli (1 serving)",
+    "cal": 516
+  },
+  {
+    "name": "Hyderabadi Ghee Roti (1 serving)",
+    "cal": 523
+  },
+  {
+    "name": "Tandoori Paneer Biryani (1 serving)",
+    "cal": 598
+  },
+  {
+    "name": "Special Fish Curry (1 serving)",
+    "cal": 409
+  },
+  {
+    "name": "Homestyle Crab Manchurian (1 serving)",
+    "cal": 467
+  },
+  {
+    "name": "Restaurant Style Paneer Noodles (1 serving)",
+    "cal": 536
+  },
+  {
+    "name": "Mushroom & Ghee Manchurian (1 serving)",
+    "cal": 264
+  },
+  {
+    "name": "Kerala Style Aloo Masala (1 serving)",
+    "cal": 390
+  },
+  {
+    "name": "Mutton & Pepper Chapati (1 serving)",
+    "cal": 228
+  },
+  {
+    "name": "Kongunadu Palak Noodles (1 serving)",
+    "cal": 530
+  },
+  {
+    "name": "Crab & Tamarind Idli (1 serving)",
+    "cal": 470
+  },
+  {
+    "name": "Ghee & Gobi Curry (1 serving)",
+    "cal": 533
+  },
+  {
+    "name": "Cheese & Mixed Rice (1 serving)",
+    "cal": 236
+  },
+  {
+    "name": "Tamarind & Aloo Fry (1 serving)",
+    "cal": 382
+  },
+  {
+    "name": "Mushroom & Prawn Biryani (1 serving)",
+    "cal": 257
+  },
+  {
+    "name": "Podi & Garlic Curry (1 serving)",
+    "cal": 519
+  },
+  {
+    "name": "Mushroom & Onion Manchurian (1 serving)",
+    "cal": 516
+  },
+  {
+    "name": "Homestyle Chicken Roti (1 serving)",
+    "cal": 511
+  },
+  {
+    "name": "Kadai & Cheese Fry (1 serving)",
+    "cal": 413
+  },
+  {
+    "name": "Kadai & Crab Roast (1 serving)",
+    "cal": 314
+  },
+  {
+    "name": "Prawn & Crab Rice (1 serving)",
+    "cal": 479
+  },
+  {
+    "name": "Madurai Aloo Roti (1 serving)",
+    "cal": 282
+  },
+  {
+    "name": "Tamarind & Mushroom Naan (1 serving)",
+    "cal": 521
+  },
+  {
+    "name": "Fish & Egg Manchurian (1 serving)",
+    "cal": 541
+  },
+  {
+    "name": "Dindigul Cheese Chilli (1 serving)",
+    "cal": 453
+  },
+  {
+    "name": "Garlic & Mixed Noodles (1 serving)",
+    "cal": 477
+  },
+  {
+    "name": "Mutton & Veg Curry (1 serving)",
+    "cal": 579
+  },
+  {
+    "name": "Veg & Veg Biryani (1 serving)",
+    "cal": 258
+  },
+  {
+    "name": "Lemon & Onion Tikka (1 serving)",
+    "cal": 524
+  },
+  {
+    "name": "Mushroom & Mushroom Fry (1 serving)",
+    "cal": 473
+  }
+]
