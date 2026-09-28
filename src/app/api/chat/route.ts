@@ -11,15 +11,6 @@ export async function POST(req: Request) {
       return NextResponse.json({ 
         error: "No API key provided. Please set your Gemini API Key in the Profile settings." 
       }, { status: 400 });
-    }
-
-    const genAI = new GoogleGenerativeAI(apiKey);
-    const model = genAI.getGenerativeModel({ 
-      model: "gemini-1.5-pro",
-      // @ts-ignore
-      tools: [{ googleSearch: {} }] 
-    });
-
     // Fetch user context from database to ground the AI
     const profile = await prisma.userProfile.findFirst();
     const ownedProducts = await prisma.groomingProduct.findMany();
@@ -54,20 +45,23 @@ When the user asks a question, give a comprehensive, advanced answer. Cross-chec
 Do not mention that you are an AI reading a prompt, just act as their helpful expert secretary. Keep it conversational but highly informative.
 `;
 
+    const genAI = new GoogleGenerativeAI(apiKey);
+
+    const model = genAI.getGenerativeModel({ 
+      model: "gemini-1.5-pro",
+      // @ts-ignore
+      tools: [{ googleSearch: {} }],
+      systemInstruction: systemPrompt
+    });
+
     // Convert history format to Gemini's format
     const formattedHistory = history ? history.map((msg: any) => ({
       role: msg.role === 'user' ? 'user' : 'model',
       parts: [{ text: msg.text }],
     })) : [];
 
-    // Add system prompt as the first message context if history is empty
-    if (formattedHistory.length === 0) {
-       // Gemini 1.5 supports system instructions, but for simplicity we can inject it into the first prompt
-    }
-
     const chatSession = model.startChat({
       history: formattedHistory,
-      systemInstruction: systemPrompt,
     });
 
     const result = await chatSession.sendMessage(message);

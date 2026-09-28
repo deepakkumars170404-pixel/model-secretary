@@ -15,14 +15,14 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Model Secretary",
+  title: "AI Secretary",
   description: "Personal AI Assistant & Trainer",
   manifest: "/manifest.json",
   themeColor: "#2563eb",
   appleWebApp: {
     capable: true,
     statusBarStyle: "default",
-    title: "Model Secretary",
+    title: "AI Secretary",
   }
 };
 
@@ -46,6 +46,10 @@ export default function RootLayout({
           <Link href="/" className="flex flex-col items-center justify-center min-w-[48px] h-full text-[10px] hover:text-blue-500">
             <span className="text-lg">🏠</span>
             <span>Home</span>
+          </Link>
+          <Link href="/chat" className="flex flex-col items-center justify-center min-w-[48px] h-full text-[10px] hover:text-blue-500">
+            <span className="text-lg">💬</span>
+            <span>Chat</span>
           </Link>
           <Link href="/diet" className="flex flex-col items-center justify-center min-w-[48px] h-full text-[10px] hover:text-blue-500">
             <span className="text-lg">🍎</span>
