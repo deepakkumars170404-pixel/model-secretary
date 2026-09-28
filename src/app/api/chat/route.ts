@@ -11,6 +11,7 @@ export async function POST(req: Request) {
       return NextResponse.json({ 
         error: "No API key provided. Please set your Gemini API Key in the Profile settings." 
       }, { status: 400 });
+    }
     // Fetch user context from database to ground the AI
     const profile = await prisma.userProfile.findFirst();
     const ownedProducts = await prisma.groomingProduct.findMany();
