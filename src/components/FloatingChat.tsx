@@ -88,9 +88,9 @@ export default function FloatingChat() {
     e.preventDefault();
     if (!input.trim() || isLoading) return;
 
-    const apiKey = localStorage.getItem("geminiApiKey");
+    const apiKey = localStorage.getItem("groqApiKey");
     if (!apiKey) {
-      alert("Please set your Gemini API Key in the Profile page first!");
+      alert("Please set your Groq API Key in the Profile page first!");
       return;
     }
 
