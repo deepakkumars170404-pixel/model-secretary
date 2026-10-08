@@ -47,7 +47,7 @@ Do not mention that you are an AI reading a prompt, just act as their helpful ex
 `;
     const genAI = new GoogleGenerativeAI(apiKey);
     const model = genAI.getGenerativeModel({ 
-      model: "gemini-pro"
+      model: "gemini-1.5-pro"
     });
 
     // Convert history format to Gemini's format
