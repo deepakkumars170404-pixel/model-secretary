@@ -65,7 +65,7 @@ Do not mention that you are an AI reading a prompt, just act as their helpful ex
         "Content-Type": "application/json"
       },
       body: JSON.stringify({
-        model: "llama3-8b-8192",
+        model: "llama-3.1-8b-instant",
         messages: messages,
         temperature: 0.7,
         max_tokens: 1024
