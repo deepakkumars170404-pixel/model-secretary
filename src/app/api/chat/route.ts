@@ -49,7 +49,7 @@ Do not mention that you are an AI reading a prompt, just act as their helpful ex
     const genAI = new GoogleGenerativeAI(apiKey);
 
     const model = genAI.getGenerativeModel({ 
-      model: "gemini-1.5-pro-latest",
+      model: "gemini-1.5-flash",
       // @ts-ignore
       tools: [{ googleSearch: {} }],
       systemInstruction: systemPrompt
