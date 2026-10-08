@@ -45,21 +45,23 @@ ${meals.map(m => `- ${m.name} (${m.calories} kcal)`).join('\n') || 'No recent me
 When the user asks a question, give a comprehensive, advanced answer. Cross-check your world knowledge with their personal data. For example, if they ask for a skincare routine, explicitly use their "Owned Grooming Products" in the routine and recommend others based on their skin type. If they ask about clothes, reference their Wardrobe Items.
 Do not mention that you are an AI reading a prompt, just act as their helpful expert secretary. Keep it conversational but highly informative.
 `;
-
     const genAI = new GoogleGenerativeAI(apiKey);
-
     const model = genAI.getGenerativeModel({ 
-      model: "gemini-1.5-flash",
-      // @ts-ignore
-      tools: [{ googleSearch: {} }],
-      systemInstruction: systemPrompt
+      model: "gemini-1.5-flash"
     });
 
     // Convert history format to Gemini's format
-    const formattedHistory = history ? history.map((msg: any) => ({
+    let formattedHistory = history ? history.map((msg: any) => ({
       role: msg.role === 'user' ? 'user' : 'model',
       parts: [{ text: msg.text }],
     })) : [];
+
+    // Inject system prompt as the first message
+    formattedHistory = [
+      { role: 'user', parts: [{ text: systemPrompt }] },
+      { role: 'model', parts: [{ text: "Understood! I am your AI Secretary and I have reviewed your personal data. How can I help you today?" }] },
+      ...formattedHistory
+    ];
 
     const chatSession = model.startChat({
       history: formattedHistory,
