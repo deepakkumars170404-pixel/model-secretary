@@ -58,14 +58,16 @@ Do not mention that you are an AI reading a prompt, just act as their helpful ex
       { role: "user", content: message }
     ];
 
-    const response = await fetch("https://api.groq.com/openai/v1/chat/completions", {
+    const response = await fetch("https://openrouter.ai/api/v1/chat/completions", {
       method: "POST",
       headers: {
         "Authorization": `Bearer ${apiKey}`,
-        "Content-Type": "application/json"
+        "Content-Type": "application/json",
+        "HTTP-Referer": "http://localhost:3000",
+        "X-Title": "AI Secretary"
       },
       body: JSON.stringify({
-        model: "llama-4-scout-17b-16e-instruct",
+        model: "meta-llama/llama-3-8b-instruct:free",
         messages: messages,
         temperature: 0.7,
         max_tokens: 1024
@@ -75,7 +77,7 @@ Do not mention that you are an AI reading a prompt, just act as their helpful ex
     const data = await response.json();
 
     if (!response.ok) {
-      throw new Error(data.error?.message || "Failed to fetch from Groq");
+      throw new Error(data.error?.message || "Failed to fetch from AI");
     }
 
     const responseText = data.choices[0].message.content;
